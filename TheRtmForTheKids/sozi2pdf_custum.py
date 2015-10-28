@@ -91,11 +91,11 @@ if __name__ == '__main__':
         output_file_name = os.path.splitext(output_file_name)[0] + ".pdf"        
     
     # Create a temporary directory for intermediate files
-    tmp_dir = "/home/david/Documents/tmp/pdf" #tempfile.mkdtemp()
+    tmp_dir = "./tmp" #tempfile.mkdtemp()
     
     # Export Sozi frames to individual PDF files
     js = os.path.join(os.path.dirname(__file__), "sozi2pdf.js") 
-    # subprocess.call(["phantomjs", js, input_file_name, tmp_dir, str(width_px), str(height_px), options.include, options.exclude])
+    subprocess.call(["phantomjs", js, input_file_name, tmp_dir, str(width_px), str(height_px), options.include, options.exclude])
     
     # Merge all frames to a single PDF file.
     # In some situations, PhantomJS generates two pages per frame. Only the first page is kept.
