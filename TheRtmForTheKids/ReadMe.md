@@ -50,14 +50,19 @@ If you use a new font, don't forget to add it in the "font" directory.
 Pdf version 
 ===========
 
-To procedure a pdf version from the working svg file (only on GNU/Linux):
+To have a pdf version of the Sozi presentation, we need to tune the working svg file because:
+
+* For first and last frame, we don't want texts in bubbles, it would be too heavy for most of pdf viewers. So we don't have to convert _Flowed Text_ to _Text_.
+* _Text_ along a _Path_ are no more an issue (it doesn't seem to decrease performance of pdf viewers). So we don't have to convert `CurvedText` to a _Path_.
+
+To produce a pdf version from the working svg file (only on GNU/Linux):
 
 1. With Inkscape:
 
     1. open the working svg file and _Save as..._ "for-1-and-98.svg";
     2. find (`Ctrl+F`) the group with `ID` set to "ToHide";
     3. hide (`Ctrl+Shft+O`, then `Alt+H`);
-    4. find (`Ctrl+F`) the group with `ID` set to "CurvedTextRunner";
+    4. find (`Ctrl+F`) objects with `ID` set to "CurvedTextRunner";
     5. convert to a _Path_ (`Ctrl+Shft+C`);
     6. save.
 
@@ -70,7 +75,7 @@ To procedure a pdf version from the working svg file (only on GNU/Linux):
 
     1. open the "for-1-and-98.svg" file and _Save as..._ "for2to97.svg"
     2. find (`Ctrl+F`) objects with `ID` set to "Flow" (search all objects starting by "Flow"; in current version, 214 objects should be found);
-    3. convert to a Test (202 _Flowed Texts_ should be actually converted);
+    3. convert to a Text (202 _Flowed Texts_ should be actually converted);
     4. save.
 
 4. In a terminal:
