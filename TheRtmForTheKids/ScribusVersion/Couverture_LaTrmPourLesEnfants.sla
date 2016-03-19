@@ -6,13 +6,13 @@
         <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
         <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
         <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
-        <COLOR NAME="AgeBG" CMYK="#f8330019" Spot="0" Register="0"/>
-        <COLOR NAME="BackCoverDescription" CMYK="#f7f50000" Spot="0" Register="0"/>
+        <COLOR NAME="AgeBG" RGB="#0083c2" Spot="0" Register="0"/>
+        <COLOR NAME="BackCoverDescription" RGB="#162c84" Spot="0" Register="0"/>
         <COLOR NAME="Black" CMYK="#000000ff" Spot="0" Register="0"/>
-        <COLOR NAME="BlueCircleOverview" CMYK="#a11d0e04" Spot="0" Register="0"/>
-        <COLOR NAME="CoverBG" CMYK="#eb000800" Spot="0" Register="0"/>
-        <COLOR NAME="CuckoolandFrameFG" CMYK="#eb690000" Spot="0" Register="0"/>
-        <COLOR NAME="ElsieFG" CMYK="#8346d95c" Spot="0" Register="0"/>
+        <COLOR NAME="BlueCircleOverview" RGB="#4ab2d7" Spot="0" Register="0"/>
+        <COLOR NAME="CoverBG" RGB="#00a5dd" Spot="0" Register="0"/>
+        <COLOR NAME="CuckoolandFrameFG" RGB="#0079bd" Spot="0" Register="0"/>
+        <COLOR NAME="ElsieFG" RGB="#687230" Spot="0" Register="0"/>
         <COLOR NAME="FromSVG#000000" RGB="#000000" Spot="0" Register="0"/>
         <COLOR NAME="FromSVG#4d4d4d" RGB="#4d4d4d" Spot="0" Register="0"/>
         <COLOR NAME="FromSVG#4d5423" RGB="#4d5423" Spot="0" Register="0"/>
@@ -40,9 +40,9 @@
         <COLOR NAME="FromSVG#ff8080" RGB="#ff8080" Spot="0" Register="0"/>
         <COLOR NAME="FromSVG#ffb380" RGB="#ffb380" Spot="0" Register="0"/>
         <COLOR NAME="FromSVG#ffffff" RGB="#ffffff" Spot="0" Register="0"/>
-        <COLOR NAME="FrontCoverTitle" CMYK="#0f7af700" Spot="0" Register="0"/>
+        <COLOR NAME="FrontCoverTitle" RGB="#ea930a" Spot="0" Register="0"/>
         <COLOR NAME="Registration" CMYK="#ffffffff" Spot="0" Register="1"/>
-        <COLOR NAME="TheFairyFG" CMYK="#08db7d07" Spot="0" Register="0"/>
+        <COLOR NAME="TheFairyFG" RGB="#de3a58" Spot="0" Register="0"/>
         <COLOR NAME="White" CMYK="#00000000" Spot="0" Register="0"/>
         <HYPHEN/>
         <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
