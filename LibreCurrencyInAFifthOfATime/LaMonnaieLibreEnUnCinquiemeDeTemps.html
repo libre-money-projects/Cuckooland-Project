@@ -1,0 +1,1224 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>ML - Reveal</title>
+		<meta name="description" content="Travaillant au 4/5 dans une boite d'informatique, j'ai obtenu de présenter la monnaie libre à ma direction." />
+		<meta name="keywords" content="Monnaie libre, TRM, présentation, reveal.js" />
+
+        <link rel="stylesheet" type="text/css" href="../css/index-style.css" />
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/cuckooland.css">
+		
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+        <script type="text/javascript">function contact(t,c){document.write('<a class="contact" href=mailto:'+t+"@"+c+">Contact</a>")}</script>
+		<style>
+			.bouncy {
+				position: relative;
+				animation: bouncy 4s infinite linear;
+			}
+			@keyframes bouncy {
+				0% { top: 0em; }
+				40% { top: 0em; }
+				43% { top: -0.5em; }
+				46% { top: 0em; }
+				48% { top: -0.2em; }
+				50% { top: 0em; }
+				100% { top: 0em; }
+			}
+		</style>		
+	</head>
+	<body>
+		<div style="position:relative;">
+			<div id="header" style="position:absolute;">
+				<div id="headerTitle">
+					<a href="../index.html" id="cuckoolandImage"><img src="../images/CloudCuckooLand.png" alt="In Cloud Cuckoo Land" /></a>
+				</div>
+				
+				<div id="nav">
+					<ul>
+						<li><a href="../PourLeModuleYolandBresson.html">Pour le module « Yoland Bresson »</a></li>
+						<li><a href="../index.html">Accueil</a></li>
+						<li><script type="text/javascript">contact("cuckooland","free.fr");</script></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+
+		<div class="reveal">
+			<div class="slides">
+
+				<!--********************
+					1) Diapo d'ouverture
+				*********************-->
+				<section>
+					<h1 style="text-align: left;">
+						La Monnaie Libre</h1>
+					<h1 style="text-align: right;">
+						en 1/5 de temps</h1>
+					<p>
+						<span  style="font-size: 0.5em; margin-top: 1em; color: rgb(201, 152, 61);"class="bouncy">
+							Utiliser la touche <strong>Espace</strong> ou les flèches pour parcourir la présentation
+						</span>
+						<span style="font-size: 0.4em; margin-top: 2em; color: rgb(201, 201, 201);">
+							(disponible&nbsp;en&nbsp;anglais&nbsp;<a href="LibreCurrencyInAFifthOfATime.html">ici</a>)
+						</span>
+					</p>
+				</section>
+
+				<!--************************************
+					2) Comment je suis tombé dans la TRM
+				*************************************-->
+				<section id="naufrages">
+					<section>
+						<h2>Et si on retraçait mon parcours</h2>
+						<p>Comment je suis tombé dans la monnaie libre&nbsp;?</p>
+					</section>
+
+					<section>
+						<h3>La <a href="https://fr.wikipedia.org/wiki/Consom%27action">consom'action</a></h3>
+						<p style="font-size: 0.9em;">et la com <a href="https://fr.wikipedia.org/wiki/Biocoop">Biocoop</a> (Janvier 2008)</p>
+
+						<div>
+							<img height="30%" width="30%" src="images/26_panierbiocoop.jpg" alt="Pour une consommation responsable">
+						</div>
+						
+						<div style="padding: 0.2em; background-color: aliceblue; border-style:solid; border-width:0.1em; border-color:#CCCCCC; text-align: justify; font-size: 0.7em;">
+							<p style="margin: 0.2em;">
+								La consom’action ou consommation responsable est un néologisme qui exprime cette idée selon laquelle on peut «&nbsp;<strong>voter avec son caddie</strong>&nbsp;» en choisissant à qui l'on donne son argent, en choisissant de consommer de façon citoyenne et non plus seulement de manière consumériste. </p>
+						</div>
+					</section>
+						
+					<section>
+						<h3>Mon dégoût pour "l'argent"</h3>
+						<p style="text-align: right;">
+							Novembre 2008, <br>
+							Je tombe sur le film de Paul Grignon <br>
+							<a href="https://fr.wikipedia.org/wiki/L%27Argent_Dette">L&#39;argent-dette</a></p>
+						<p style="text-align: center;">Ce qui réveille cette question d'enfance&nbsp;:</p>
+						<p style="text-align: left;">
+							<em>Ces pièces et billets existent, <br>
+								à l'avantage de leur créateur, <br>
+								et au détriment des autres.<br>
+								Comment peut-on accepter une telle injustice&nbsp;?</em>
+						</p>
+					</section>
+						
+					<section>
+						<h3><a href="https://fr.wikipedia.org/wiki/La_Quadrature_du_Net">La Quadrature du Net</a></h3>
+						<p style="text-align: right;">
+							C'est une association de défense <br>
+							des droits et libertés des citoyens sur Internet</p>
+						<div>
+							<img height="50%" width="50%" src="images/Press-Freedom.jpg" alt="Filtrage du Net">
+							<p style="font-size: 0.6em; margin: 0.1em 0em;">
+								Le <a href="https://www.laquadrature.net/fr/filtrage-du-net">filtrage du Net</a> (illustré par <a href="https://fr.wikipedia.org/wiki/La_Quadrature_du_Net">la Quadrature du Net</a>)
+							</p>
+						</div>
+						<p>&rArr; début de mon militantisme&nbsp;! (Février 2009)</p>
+					</section>
+						
+					<section>
+						<h3>Le Revenu de Base</h3>
+						<p>
+							Vendredi 13 mai 2011, <br>
+							Sur un forum de <a href="http://forum.partipirate.org/viewtopic.php?f=412&amp;t=6189">pirates</a>, il est question d'un film intitulé <a href="https://fr.wikipedia.org/wiki/Le_Revenu_de_base_(film)"><em>Le&nbsp;Revenu&nbsp;de&nbsp;Base</em></a>
+						</p>
+						<div style="padding: 0.2em; background-color: aliceblue; border-style:solid; border-width:0.1em; border-color:#CCCCCC; text-align: justify; font-size: 0.7em;">
+							<p style="margin: 0.2em;">
+							Le revenu de base est un droit inaliénable, inconditionnel, cumulable avec d’autres revenus, distribué par une communauté politique à tous ses membres, de la naissance à la mort, sur base individuelle, sans contrôle des ressources ni exigence de contrepartie, dont le montant et le financement sont ajustés démocratiquement.</p>
+						</div>
+						<p style="font-size: 0.6em; margin: 0.1em 0em;">
+							Définition du RdB donnée par <br>
+							le <a href="https://www.revenudebase.info/decouvrir/">Mouvement Français pour un Revenu de Base (MFRB)</a>
+						</p>
+					</section>
+
+					<section>
+						<h4>Le "financement" du RdB</h4>
+						<p>Le RdB me semble alors une réponse à ces monnaies dont le mode de création est injuste</p>
+
+						<p>&#8659;</p>
+
+						<p>
+							Le "financement" du RdB est un faux problème&nbsp;!
+						</p>
+						<p>
+							<strong>Il faut repenser la monnaie, <br>
+							mais comment&nbsp;?</strong>
+						</p>
+					</section>
+
+					<section>
+						<h4>Le retour du consom'acteur</h4>
+
+						<p>Si le consom'acteur prétend «&nbsp;voter&nbsp;avec&nbsp;son&nbsp;caddie&nbsp;»</p>
+
+						<ul style="font-size: 0.8em;">
+							<li>
+								il faut régulièrement des "bulletins" distribués à parts égales<br>
+								&rArr; c'est le RdB, réalisé par création monétaire</li>
+							<li>
+								le "vote" doit donner mandat pour un temps limité<br>
+								&rArr; et si les unités monétaires avaient une date limite d'utilisation&nbsp;?</li>
+						</ul>
+
+						<p>D'autres ont bien dû déjà réfléchir à ça&nbsp;!</p>
+					</section>
+
+					<section>
+						<h3>Découverte de la TRM</h3>
+						<p>
+							4 Juillet 2011, <br>
+							Il est question de la Théorie Relative de la Monnaie sur mon forum de <a href="http://forum.partipirate.org/viewtopic.php?f=306&amp;t=6420">pirates</a>
+						</p>
+						<p>Un certain <strong>Stéphane Laborde</strong> fournirait une approche monétaire du RdB</p>
+					</section>
+						
+					<section>
+						<h3>Intéressant&nbsp;!!!</h3>
+						<p>Mais la théorie semble ardue à comprendre<br>
+							et l'auteur fantasque</p>
+						<p>Tant pis, laissons ça de coté...</p>
+					</section>
+						
+					<section>
+						<h3>La monnaie fondante</h3>
+
+						<p>
+							Je tombe sur les travaux de l'autodidacte <a href="https://fr.wikipedia.org/wiki/Silvio_Gesell">Silvio Gesell</a> (1862&nbsp;-&nbsp;1930)<br>
+							et sur sa <a href="https://fr.wikipedia.org/wiki/Monnaie_fondante">monnaie fondante</a>
+						</p>
+
+						<div style="padding: 0.2em; background-color: aliceblue; border-style:solid; border-width:0.1em; border-color:#CCCCCC; text-align: justify; font-size: 0.7em;">
+							<p style="margin: 0.2em;">
+								La monnaie franche ou monnaie fondante désigne une monnaie qui, à l'image des biens de consommation (nourriture, vêtements, maison...), <strong>perd de sa valeur au fil du temps</strong>.</p>
+						</div>
+						<p style="font-size: 0.6em; margin: 0.1em 0em;">
+							Extrait <a href="https://www.ekopedia.fr/wiki/Monnaie_fondante">Ékopédia</a>
+						</p>
+					</section>
+
+					<section>
+						<div style="width: 49%; display: inline-block; vertical-align: top;">
+							<a href="images/BaLignièreEnBerry-Recto.jpg">
+								<img src="images/BaLignièreEnBerry-Recto.jpg" alt="Recto d'un BA fondant">
+							</a>
+						</div>
+						<div style="width: 49%; display: inline-block;">
+							<a href="images/BaLignièreEnBerry-Verso.jpg">
+								<img src="images/BaLignièreEnBerry-Verso.jpg" alt="Verso d'un BA fondant">
+							</a>
+						</div>
+						<p style="font-size: 0.6em; margin: 0.1em 0em;">
+							Issu du <a href="https://www.kajacques.fr/catalogue-unions-economiques/monnaies-fondantes/">site d'un collectionneur</a><br>
+							exemple de mise en oeuvre d'une monnaie fondante<br>
+							«&nbsp;Ce bon ne peut circuler que régulièrement affranchi&nbsp;»
+						</p>
+					</section>
+
+					<section>
+						<p style="text-align: left;">Avec la monnaie fondante, <br>
+							les unités monétaires ont la date limite d'utilisation que je cherchais mais... <br>
+							cela semble lourd à l'usage, pas assez "élégant"</p>
+
+						<p>&#8659;</p>
+
+						<p style="text-align: right;">Juillet 2012, après un an d'hésitation, <br>
+							je débute enfin l'étude de la TRM</p>
+					</section>
+						
+					<section>
+						<h2>Et hop&nbsp;!<br>
+							Tombé dans la monnaie libre&nbsp;!</h2>
+							<p>La solution de Stéphane Laborde est bien plus élégante que celle de Silvio Gesell</p>
+					</section>
+						
+				</section>
+
+				<!--************************************
+					3) Des naufragés créent leur monnaie
+				*************************************-->
+				<section id="naufrages">
+					<section>
+						<h2>Une robinsonade <br>
+							pour aborder la monnaie libre</h2>
+					</section>
+
+					<section>
+						<h3>Imaginez...</h3>
+						<p>
+							Après des années à organiser leur nouvelle vie, <br>
+							des naufragés décident de créér leur monnaie...</p>
+						<h3>Comment faire&nbsp;?</h3>
+					</section>
+
+					<section>
+						<p>Il suffit&nbsp;:</p>
+						<ul style="width: 100%;">
+							<li>
+								de créer les unités monétaires</li>
+							<li>
+								puis de les partager à parts égales entre tous </li>
+						</ul>
+					</section>
+
+					<section>
+						<p style="text-align: left;">
+							Problèmes&nbsp;:</p>
+						<ul style="width: 100%;">
+							<li class="fragment">
+								Que se passe-t-il s'il y a des nouveaux venus&nbsp;?</li>
+							<li class="fragment">
+								Si une part de monnaie est créée pour les nouveaux nés, à quel âge la reçoivent-ils&nbsp;?
+							<li class="fragment">
+								Plus généralement, pourquoi privilégier un âge plutôt qu'un autre&nbsp;?<br>
+								<em>A vingt ans, on n'a pas le même état d'esprit qu'à trente&nbsp;!</em></li>
+						</ul>
+					</section>
+
+					<section>
+						<p>Solution&nbsp;:</p>
+						<p>De nouvelles unités monétaires doivent être créées régulièrement, tous les ans par exemple</p>
+
+						<p>
+							Mais quel nombre d'unités ajouter chaque année&nbsp;?</p>
+					</section>
+
+					<section>
+						<p style="font-size: 0.8em;">
+							Si le même nombre est créé chaque année <br>
+							(par exemple 10 unités), c'est injuste&nbsp;:</p>
+						<p style="font-size: 0.8em;">
+							Année après année, <br>
+							ce nombre apparaîtra de plus en plus petit <br>
+							par rapport au total des unités déjà existantes</p>
+						<a href="images/Ballon-quantitatif.png">
+							<img height="50%" width="50%" style="margin: 0.1em 0em;" src="images/Ballon-quantitatif.png" alt="Confetti posé sur le ballon gonflable">
+						</a>
+						<p style="font-size: 0.6em; margin: 0.1em 0em;">
+							Comme un confetti posé sur un ballon qui gonfle<br>
+							- <a href="http://cuckooland.free.fr/LaTrmPourLesEnfants.html"> La TRM pour les Enfants</a>
+						</p>
+					</section>
+
+					<section>
+						<p style="font-size: 0.8em;">
+							Il faut plutôt créer chaque année la même proportion <br>
+							(par exemple 10&nbsp;%) par rapport au total des unités déjà existantes </p>
+						<a href="images/Ballon-relatif.png">
+							<img height="50%" width="50%" style="margin: 0.1em 0em;" src="images/Ballon-relatif.png" alt="Confetti dessiné sur le ballon gonflable">
+						</a>
+						<p style="font-size: 0.6em; margin: 0.1em 0em;">
+							Comme un confetti dessiné sur un ballon qui gonfle<br>
+							- <a href="http://cuckooland.free.fr/LaTrmPourLesEnfants.html"> La TRM pour les Enfants</a>
+						</p>
+					</section>
+
+					<section>
+						<h3>Définissons la moyenne <em>M/N</em></h3>
+
+						<ul style="font-size: 0.9em">
+							<li>
+								<em>M</em> représente le nombre d'unités monétaires
+								en circulation</li>
+							<li>
+								<em>N</em> représente le nombre de naufragés</li>
+						</ul>
+						<p style="text-align: left;">
+							<em>M/N</em> est donc le nombre d'unités monétaires qu'aurait chaque naufragé si elles étaient réparties à parts égales</p>
+					</section>
+
+					<section>
+						<p style="text-align: right;">
+							<em>J'ai 10 unités en ma possession</em> <br>
+						</p>
+						<p style="text-align: left;">
+							Un nombre d'unités monétaire n'indique rien en soit. <br>
+							Il faut pouvoir le comparer à un référentiel <br>
+							qui fasse sens pour tout naufragé.
+						</p>
+						<p>&#8659;</p>
+						<p style="text-align: left;">
+							Il suffit de le comparer à la répartition moyenne <em>M/N</em>.
+						</p>
+						<p style="text-align: right;">
+							<em>J'ai 10 unités alors que la moyenne est 10. <br>
+								Je suis à la moyenne&nbsp;!</em>
+						</p>
+					</section>
+
+					<section>
+						<h4>Conclusion</h4>
+						<p style="text-align: right;">
+							Chaque année, une même proportion de <em>M/N</em> est créée à destination de chaque naufragé<br>
+						    (dans un premier temps, disons 10&nbsp;%&nbsp;par&nbsp;an)</p>
+
+						<div class="fragment">
+							<p>-</p>
+							<p style="text-align: left;">
+								Ce taux de croissance de 10&nbsp;%&nbsp;par&nbsp;an s'appelle <em>c</em>, <br>
+								ces nouvelles unités s'appellent le Dividende Universel</p>
+
+							<p style="margin-top: 1em">
+								<span style="padding: 0.2em; background-color: aliceblue; border-style:solid; border-width:0.1em; border-color:#CCCCCC; text-align: justify; font-size: 1.1em;"><strong><em>DU = c &times; M/N</em></strong></span>
+							</p>
+						</div>
+					</section>
+				</section>
+
+				<!--********************************
+					4) Propriétés remarquables du DU
+				*********************************-->
+				<section id="naufrages">
+					<section>
+						<h2>Propriétés remarquables du Dividende&nbsp;Universel</h2>
+					</section>
+
+					<section>
+						<h3>Remarque préliminaire</h3>
+						<p style="font-size: 0.8em;">
+							Pour faciliter les études, <br>
+							nous nous plaçons souvent dans ce cas particulier&nbsp;:
+						</p>
+						<a href="images/EchangesEquilibrés.png">
+							<img height="50%" width="50%" style="margin: 0.1em 0em;" src="images/EchangesEquilibrés.png" alt="Echanges équilibrés">
+						</a>
+						<p style="font-size: 0.6em; margin: 0.1em 0em;">
+							Les comptes n'évoluent pas d'une année sur l'autre, <br>
+							ce qui ne veut pas dire qu'il n'y a eu aucun échange <br>
+							- <a href="http://cuckooland.free.fr/MiseEnBoiteDuRdB.html">Mise en boîte du Revenu de Base</a>
+						</p>
+					</section>
+
+					<section>
+						<h3>Le DU comme référence</h3>
+						<p>
+							Rappel&nbsp;: un nombre d'unités n'indique rien en soit, <br>
+							c'est la part relative à la moyenne <em>M/N</em> qui compte
+						</p>
+						<p class="fragment">
+							Ce qui revient à comparer ce nombre <br>
+							au dernier DU créé puisque par définition&nbsp;: <br>
+							<em>DU = c &times; M/N</em>
+						</p>
+						<div class="fragment">
+							<p>-</p>
+							<p>
+								On dit alors que l'on compte en DU<br>
+								comme d'autres comptent en SMIC ou en RMI</p>
+							<p>
+							<em>Tel joueur de foot gagne 1000 SMIC par mois</em></p>
+						</div>
+					</section>
+
+					<section>
+						<h3>Concernant <em>M/N</em></h3>
+						<p>Quand on compte en nombre de DU, que vaut <em>M/N</em>&nbsp;?</p>
+						<div class="fragment">
+							<p>
+								Par définition&nbsp;: DU = c &times; M/N <br>
+							</p>
+							<p>
+								&rArr; la moyenne <em>M/N</em> est constante et vaut <em>1/c</em> <br>
+								(si <em>c</em> vaut 10&nbsp;% par an, <em>M/N</em> vaut 10)</p>
+						</div>
+					</section>
+
+					<section>
+						<h3>Concernant <em>M</em></h3>
+						<p>Quand on compte en nombre de DU, que vaut <em>M</em>&nbsp;?</p>
+						<div class="fragment">
+							<p>
+								Par définition&nbsp;: DU = c &times; M/N
+							</p>
+							<p>
+								Donc <em>M</em> = <em>N/c</em>
+							</p>
+							<p>Autrement dit&nbsp;:</p>
+							<p><strong>Si la population N est stable, <br>
+								la masse monétaire M est stable&nbsp;!</strong></p>
+						</div>
+					</section>
+
+					<section>
+						<h3>Attraction vers la moyenne <em>M/N</em></h3>
+						<p style="font-size: 0.8em;">
+							Si on trace l'évolution du compte d'un individu entrant dans le système, on constate qu'il tend vers la moyenne <em>M/N</em> 
+						</p>
+						<a href="images/DuréeDeConvergence.png">
+							<img height="75%" width="75%" style="margin: 0.1em 0em;" src="images/DuréeDeConvergence.png" alt="Convergence à la moyenne depuis en dessous">
+						</a>
+						<p style="font-size: 0.6em; margin: 0.1em 0em;">
+							Compte ne possédant aucune unité monétaire à la naissance<br>
+							- <a href="http://cuckooland.free.fr/LaTrmEnCouleur.html">La TRM en couleur</a>
+						</p>
+					</section>
+
+					<section>
+						<p style="font-size: 0.8em;">
+							Il en est de même si on trace l'évolution du compte d'un individu entrant dans le système avec plus que la moyenne <em>M/N</em>
+						</p>
+						<a href="images/DuréeDeConvergence_2Moy.png">
+							<img style="margin: 0.1em 0em;" src="images/DuréeDeConvergence_2Moy.png" alt="Convergence à la moyenne depuis au dessus">
+						</a>
+						<p style="font-size: 0.6em; margin: 0.1em 0em;">
+							Compte possédant deux fois la moyenne <em>M/N</em> à la naissance<br>
+							- 	<a href="http://cuckooland.free.fr/LaTrmEnCouleur.html">La TRM en couleur</a>
+						</p>
+					</section>
+
+					<section>
+						<h3>L'effet anti évasion fiscale</h3>
+						<p style="font-size: 0.8em;">
+							Imaginons un individu possédant toutes les unités monétaires
+						</p>
+						<p style="font-size: 0.8em;">
+							Après émission des DU sur 40 ans, <br>
+							la part de cet individu ne représentera plus que 2,5&nbsp;%
+						</p>
+						<div style="width: 49%; display: inline-block; vertical-align: top;">
+							<a href="images/TempsDeDilution.png">
+								<img src="images/TempsDeDilution.png" alt="Temps de dilution - année 0">
+							</a>
+						</div>
+						<div style="width: 49%; display: inline-block;">
+							<a href="images/TempsDeDilution40.png">
+								<img src="images/TempsDeDilution40.png" alt="Temps de dilution - année 40">
+							</a>
+						</div>
+						<p style="font-size: 0.6em; margin: 0.1em 0em;">
+							Illustration du temps de dilution <br>
+							- <a href="http://cuckooland.free.fr/LaTrmEnCouleur.html">La TRM en couleur</a>
+						</p>
+					</section>
+
+				</section>
+
+				<!--***********************
+				5) Equivalence DU / RdB
+				************************-->
+				<section id="equivalence">
+					<section>
+						<h2>Equivalence <em>Dividende&nbsp;Universel&nbsp;/&nbsp;Revenu&nbsp;de&nbsp;Base</em></h2>
+					</section>
+
+					<section>
+						<h3>Rappel</h3>
+						<div style="padding: 0.2em; background-color: aliceblue; border-style:solid; border-width:0.1em; border-color:#CCCCCC; text-align: justify; font-size: 0.7em;">
+							<p style="margin: 0.2em;">
+							Le revenu de base est un droit inaliénable, inconditionnel, cumulable avec d’autres revenus, distribué par une communauté politique à tous ses membres, de la naissance à la mort, sur base individuelle, sans contrôle des ressources ni exigence de contrepartie, dont le montant et le financement sont ajustés démocratiquement. </p>
+						</div>
+						<p style="font-size: 0.6em; margin: 0.1em 0em;">
+							Définition du RdB donnée par <br>
+							le <a href="https://www.revenudebase.info/decouvrir/">Mouvement Français pour un Revenu de Base (MFRB)</a>
+						</p>
+					</section>
+
+					<section>
+						<p>
+							Cette équivalence <em>RdB</em> / <em>DU</em> a été démontrée <a href="http://trm.creationmonetaire.info/appendice-2.html#generalisation-et-loi-de-changement-de-referentiel">mathématiquement</a> par Stéphane Laborde</p>
+						<div style="width: 49%; display: inline-block; vertical-align: top;">
+							<a href="images/MiseEnBoiteDuRdB_RdB.png">
+								<img src="images/MiseEnBoiteDuRdB_RdB.png" alt="Mise en boite du RdB - RdB">
+							</a>
+						</div>
+						<div style="width: 49%; display: inline-block;">
+							<a href="images/MiseEnBoiteDuRdB_DU.png">
+								<img src="images/MiseEnBoiteDuRdB_DU.png" alt="Mise en boite du RdB - DU">
+							</a>
+						</div>
+						<p style="font-size: 0.6em; margin: 0.1em 0em;">
+							Illustration de l'équivalence <em>RdB</em> / <em>DU</em><br>
+							- <a href="http://cuckooland.free.fr/MiseEnBoiteDuRdB.html">Mise en boîte du Revenu de Base</a>
+						</p>
+					</section>
+
+					<section>
+						<h3>Le RdB - Communication brouillée</h3>
+						<p>
+							Le RdB ne remet pas en cause le code monétaire, <br>
+							il est donc plus difficile de réfuter les mots&nbsp;:
+						</p>
+						<p>"financement"<br> 
+							"cancer* de l'assistanat"<br> 
+							"spoliation de l'impôt"
+						</p>
+						<p><strong>Alors que ces mots sont des aberrations&nbsp;!</strong></p>
+						<p style="margin-left: 3em; text-align: left; font-size: 0.6em;">
+							* Le cancer, c'est plutôt ces monnaies mal fichues qui pervertissent <br>
+							jusqu'aux coeurs les plus beaux et poussent à tous les ravages
+						</p>
+					</section>
+
+					<section>
+						<h3>Le RdB - Une verrue de plus</h3>
+						<p>
+							Un système monétaire asymétrique est instable <br>
+							et voué à l'effondrement
+						</p>
+						<p>
+							Un tas de verrues sont ajoutées pour le faire durer
+						</p>
+						<p>&#8659;</p>
+						<p>
+							Le RdB est vu par beaucoup comme une verrue de plus
+						</p>
+						<p>
+							<em>Le RdB&nbsp;? Une roue de secours du capitalisme&nbsp;!</em>
+						</p>
+					</section>
+
+				</section>
+
+				<!--********************************************
+					6) Comment choisir le taux de croissance c ?
+				*********************************************-->
+				<section id="choisirc">
+					<section>
+						<h2>Comment choisir <br>
+							le taux de croissance <em>c</em>&nbsp;?</h2>
+					</section>
+
+					<section>
+						<p style="text-align: left;">
+							Des pistes existent <br>
+							toutes basées sur la demi-espérance de vie humaine</p>
+						<p style="text-align: left;">
+							Voyons-en une...</p>
+					</section>
+
+					<section>
+						<p style="font-size: 0.8em;">
+							D'une part&nbsp;: un entrant dans le système doit avoir émis <br>
+							sa part de monnaie au bout d'une demi-vie
+						</p>
+						<a href="images/DuréeDeConvergence.png">
+							<img style="margin: 0.1em 0em;" src="images/DuréeDeConvergence.png" alt="Convergence à la moyenne">
+						</a>
+						<p style="font-size: 0.6em; margin: 0.1em 0em;">
+							Quantité de monnaie émise au bout d'une demi-vie <br>
+							- <a href="http://cuckooland.free.fr/LaTrmEnCouleur.html">La TRM en couleur</a>
+						</p>
+					</section>
+
+					<section>
+						<p style="font-size: 0.8em;">
+							D'autre part&nbsp;: les unités monétaires existantes une demi-vie plus tôt doivent avoir été progressivement diluées dans celles qui ont été produites depuis
+						</p>
+						<div style="width: 49%; display: inline-block; vertical-align: top;">
+							<a href="images/TempsDeDilution.png">
+								<img src="images/TempsDeDilution.png" alt="Temps de dilution - année 0">
+							</a>
+						</div>
+						<div style="width: 49%; display: inline-block;">
+							<a href="images/TempsDeDilution40.png">
+								<img src="images/TempsDeDilution40.png" alt="Temps de dilution - année 40">
+							</a>
+						</div>
+						<p style="font-size: 0.6em; margin: 0.1em 0em;">
+							Illustration du temps de dilution <br>
+							- <a href="http://cuckooland.free.fr/LaTrmEnCouleur.html">La TRM en couleur</a>
+						</p>
+					</section>
+
+					<section>
+						<p style="font-size: 0.9em;">
+							Les graphes précédents peuvent être synthétisés <br>
+							dans un tableau pour quatre valeurs différentes de <em>c</em>
+						</p>
+						<a href="images/RecapDilutions.png">
+							<img style="margin: 0.1em 0em;"  src="images/RecapDilutions.png" alt="Convergence à la moyenne">
+						</a>
+						<p style="font-size: 0.6em; margin: 0.1em 0em;">
+							Récap pour différents taux - <a href="http://cuckooland.free.fr/LaTrmPourLesEnfants.html"> La TRM pour les Enfants</a>
+						</p>
+					</section>
+
+					<section>
+						<p>
+							Suite à ces calculs et simulations, <br>
+							un taux de 10&nbsp;%&nbsp;par&nbsp;an <br>
+							semble un bon compromis
+						</p>
+						<h3>A valider&nbsp;!</h3>
+					</section>
+				</section>
+
+				<!--*******************
+					7) La TRM
+				********************-->
+				<section id="trm">
+					<section>
+						<h2>La TRM</h2>
+					</section>
+
+					<section>
+						<h3>TRM = Théorie Relative de la Monnaie</h3>
+						<p style="text-align: right;">
+							<a href="http://www.creationmonetaire.info/2012/11/theorie-relative-de-la-monnaie-2-718.html">Travaux</a> de Stéphane Laborde (Ingénieur Télécom)<br>
+							publiée en novembre 2010<br>
+							où il théorise une monnaie "relativiste"
+						</p>
+					</section>
+
+					<section>
+						<h3>Pourquoi "Relative"&nbsp;?</h3>
+						
+						<ul style="font-size: 0.8em">
+							<li class="fragment">
+								Un nombre d'unités n'indique rien en soit, <br>
+								c'est la part relative à la référence <em>M/N</em> qui compte</li>
+							<li class="fragment">
+								Il n’y a pas de valeur économique absolue
+								<ul>
+									<li>
+										Ce qui a valeur pour un individu<br>
+										n'en a pas forcément pour un autre
+									</li>
+									<li>
+										Ce qui a valeur à une époque <br>
+										n'en a pas forcément à une autre
+									</li>
+								</ul>
+							</li>
+							<li class="fragment">
+								Opposition à la <a href="https://fr.wikipedia.org/wiki/Th%C3%A9orie_quantitative_de_la_monnaie">Théorie Quantitative de la Monnaie</a> <br>
+								de <a href="https://fr.wikipedia.org/wiki/Irving_Fisher">Irving Fisher</a>*, <a href="https://fr.wikipedia.org/wiki/Milton_Friedman">Milton Friedman</a>** et consort 
+								<p style="font-size: 0.6em;">
+									* finalement pourfendeur du <a href="https://fr.wikipedia.org/wiki/Syst%C3%A8me_de_r%C3%A9serves_fractionnaires">système de réserves fractionnaires</a> dans <a href="http://revolution-monetaire.blogspot.com/p/100-money-dirving-fisher.html">100&nbsp;%&nbsp;monnaie</a> <br>
+									** par ailleurs un promoteur du RdB avec son <a href="https://fr.wikipedia.org/wiki/Imp%C3%B4t_n%C3%A9gatif_sur_le_revenu">impôt&nbsp;négatif</a>
+								</p>
+							</li>
+						</ul>
+					</section>
+
+					<section>
+						<div style="text-align: left;">
+							<p>La monnaie relativiste a d'autres noms&nbsp;:<br>
+								- monnaie symétrique <br>
+								- monnaie neutre 
+								<span style="font-size: 0.7em;">
+									en référence à la <a href="https://fr.wikipedia.org/wiki/Neutralit%C3%A9_du_r%C3%A9seau">Neutralité du net</a>
+								</span><br>
+								- et surtout <strong>monnaie libre&nbsp;!</strong>
+								<span style="font-size: 0.7em;">
+								en référence au <a href="https://fr.wikipedia.org/wiki/Logiciel_libre">logiciel libre</a></span>
+							</p>
+						</div>
+					</section>
+
+				</section>
+
+				<!--***********************
+					8) Duniter
+				************************-->
+				<section id="duniter">
+					<section>
+						<h2>Duniter</h2>
+					</section>
+
+					<section>
+						<h3>La monnaie sur papier, c'est bien, mais...</h3> 
+						<p style="font-size: 0.9em;">
+							Internet fournit des leviers bien plus puissants&nbsp;!</p>
+						<h3>Les informaticiens ont le pouvoir <br>
+							de créer une monnaie libre</h3>
+					</section>
+
+					<section>
+						<p style="text-align: right;">
+							Duniter est un projet logiciel <br>
+							de monnaie cryptographique
+						</p>
+						<p style="text-align: left;">
+							Constitué de logiciels libres, <br>
+							il permet de créer des monnaies libres
+						</p>
+					</section>
+
+					<section>
+						<p style="text-align: left;">
+							Parmi les nombreux projets de crypto-monnaie à RdB,
+							Duniter possède apriori (en août 2018)&nbsp;:</p>
+						<ul>
+							<li>le code monétaire le mieux formalisé (TRM)</li>
+							<li>l'implémentation logicielle la plus avancée</li>
+						</ul>
+					</section>
+
+					<section>
+						<h3>Les choix techniques</h3>
+						<ul>
+							<p>Certains sont classiques&nbsp;:</p>
+							<li>
+								La partie serveur est décentralisée,
+								constituée d'un réseau de nœuds (P2P)</li>
+							<li>
+								Ecriture des données dans des blocs signés et chaînés entre eux par leur empreinte numérique unique (Blockchain)</li>
+							<li>
+								Ordonnancement des écritures via la résolution d'un défi combinatoire (Proof of Work) </li>
+						</ul>
+					</section>
+
+					<section>
+						<h3>Les spécificités techniques</h3>
+						<p style="text-align: left;">
+							Utilisation d'une <a href="https://fr.wikipedia.org/wiki/Toile_de_confiance">toile de confiance</a>* <br>
+							afin d'identifier les co-créateurs de la monnaie</p>
+
+						<p style="text-align: right;">Nécessaire pour s'assurer que chacun produit le même nombre de DUs par intervalle de temps </p>
+
+						<p style="text-align: left; font-size: 0.6em;">* Il sera question plus précisément de cette toile de confiance <a href="#/toile-de-confiance-g1">un peu plus tard</a></p>
+					</section>
+
+					<section>
+						<p style="text-align: left;">La toile de confiance permet aussi&nbsp;:</p>
+						<ul>
+							<li>d'autoriser uniquement les membres à écrire dans la chaîne de blocs</li>
+							<li>d'attribuer à ces membres une difficulté personnalisée pour la preuve de travail</li>
+						</ul>
+						<p style="text-align: left;">
+							&rArr; <strong>Des nœuds disposant de puissances de calcul très différentes ont les mêmes chances d’écrire des blocs&nbsp;!</strong></p>
+					</section>
+
+					<section>
+						<div style="position:relative;">
+							<h3>C'est comme ce truc vu à la télé... <br>
+								le <a href="https://fr.wikipedia.org/wiki/Bitcoin">bêtecon</a>&nbsp;?</h3>
+							<div style="font-size: 0.9em;"><em>
+								<p style="text-align: left;">Le bêtecon, ça bousille la planète&nbsp;:</p>
+								<ul>
+									<li>c'est purement spéculatif, <br>
+										un grand loto où on espére empocher une plus-value</li>
+									<li>ça nécessite plein d'ordinateurs pour fonctionner, <br>
+										l'équivalent de la <a href="https://www.lesnumeriques.com/vie-du-net/minage-bitcoins-consomme-plus-electricite-que-159-pays-n68683.html">consommation électrique de pays entiers</a></li>
+								</ul></em>
+							</div>
+							<p class="fragment" style="transform: rotate(-45deg); text-transform: uppercase; font-size: 2em; color: rgb(230, 10, 58); position:absolute; top:40%; left:10%;">
+								<strong>Faux avec Duniter</strong>
+							</p>
+						</div>
+					</section>
+
+					<section>
+						<div style="position:relative;">
+							<h3>La phylosophie des crypto-monnaies type <a href="https://fr.wikipedia.org/wiki/Bitcoin">bêtecon</a></h3>
+							<div style="font-size: 0.9em;">
+								<ul>
+									<li class="fragment">
+										un nœud <em>bêtecon</em>, s'il produit sa preuve de travail,
+										est récompensé par de nouvelles unités monétaires </li>
+									<li class="fragment">
+										un nœud <em>bêtecon</em> possédant une grande puissance de calcul
+										augmente ses chances de produire la preuve de travail <br>
+										(pas de difficulté personnalisée) </li>
+									<li class="fragment">
+										le code monétaire de <em>bêtecon</em> est basé <strong>sur la rareté, <br>
+										sur le modèle de l'or</strong> <br>
+										(au fil du temps, la preuve de travail rapporte de moins en moins de nouvelles unités monétaires) </li>
+								</ul>
+							</div>
+							<p class="fragment" style="transform: rotate(-45deg); text-transform: uppercase; font-size: 2em; color: rgb(230, 10, 58); position:absolute; top:40%; left:10%;">
+								<strong>Faux avec Duniter</strong>
+							</p>
+						</div>
+					</section>
+
+					<section>
+						<p style="font-size: 0.9em">Celui qui fait tourner un nœud <em>bêtecon</em> est appelé un mineur</p>
+						<p style="font-size: 0.9em">Certains investissent dans plusieurs nœuds <em>bêtecon</em> pour maximiser leur chance de remporter les défis combinatoires</p>
+						<a href="images/1076468-bitmain-societe-miniere-de-bitcoins-en-mongolie-interieure.jpg">
+							<img height="50%" width="50%" src="images/1076468-bitmain-societe-miniere-de-bitcoins-en-mongolie-interieure.jpg" alt="Une «ferme de bitcoins»">
+						</a>
+						<p style="font-size: 0.6em; margin: 0.1em 0em;">
+							Une  <a href="http://www.liberation.fr/futurs/2017/11/29/le-bitcoin-un-mystere-monetaire-planetaire_1613465">ferme de <em>bêtecon</em></a> - Mongolie intérieure - Chine
+						</p>
+					</section>
+
+					<section>
+						<p>Avec Duniter, un nano-ordinateur suffit pour remporter <strong>régulièrement</strong> le défi combinatoire</p>
+						<img height="50%" width="50%" src="images/raspberry_pi_b_2_0_0-660x330.jpg" alt="Raspberry Pi">
+						<p style="font-size: 0.6em; margin: 0.1em 0em;">
+							Un <a href="https://fr.wikipedia.org/wiki/Raspberry_Pi">Raspberry Pi</a>
+						</p>
+					</section>
+				</section>
+
+				<!--***********************
+					9) La June
+				************************-->
+				<section id="la-june">
+					<section>
+						<h2>«&nbsp;La June&nbsp;»</h2>
+					</section>
+
+					<section>
+						<p style="text-align: right;">
+							Le 8 mars 2017 <br>
+							Journée internationale des droits des femmes
+						</p>
+
+						<p style="text-align: left;">
+							La première monnaie libre est lancée<br>
+							propulsée par Duniter
+						</p>
+
+						<p style="text-align: right;">
+							Nom de code&nbsp;: Ğ1 <br>
+							prononcée «&nbsp;La June&nbsp;»
+						</p>
+
+						<p class="fragment" style="text-align: left;">
+							<em>
+								- Dis, t'as de la thune&nbsp;?<br>
+								- Non, mais j'ai de la june&nbsp;!
+							</em>
+						</p>
+					</section>
+
+					<section>
+						<h3>Règles de la monnaie</h3>
+						<div style="font-size: 0.9em;">
+							<ul>
+								<li>
+									Taux de croissance de la masse monétaire &nbsp;: <br>
+									<strong><em>c</em> = 4,88&nbsp;% à chaque équinoxe</strong>
+								</li>
+								<li>
+									<p>Formule* utilisée pour le calcul du DU&nbsp;: <br>
+									<strong>DU(t+1) = DU(t) + c² &times; (M/N)(t)</strong></p>
+								</li>
+								<li>
+									<p>Emission journalisée**</p>
+									<div style="font-size: 0.6em;">
+										<p>
+											* équivalente à la formule classique <em>DU = c &times; M/N</em> quand N est stable, <br>
+											mais se comporte mieux quand forte variation
+										</p>
+										<p>
+											** Plus précisément, comme l'émission est journalisée&nbsp;:
+											<ul>
+												<li>DU<sub>jour</sub>(équinoxe suivant) = DU<sub>jour</sub>(équinoxe) + c² &times; (M/N)(équinoxe) / (182,625 jours)</li>
+												<li>DU<sub>jour</sub>(0) = 10 Ğ1</li>
+											</ul>
+										</p>
+									</div>
+								</li>
+							</ul>
+						</div>
+					</section>
+
+					<section id="toile-de-confiance-g1">
+						<h3>Règles principales de la <a href="https://duniter.org/fr/la-toile-de-confiance-en-d%c3%a9tail/">toile de confiance</a></h3>
+						<p style="text-align: left;">
+							Pour être membre, <br>
+							il faut être certifié par d'autres membres</p>
+						<ul>
+							<li>
+								Nombre minimal de certifications <br>
+								pour être membre&nbsp;: <strong>5</strong></li>
+							<li>
+								Durée de validité d'une certification <br>
+								qui a été enregistrée&nbsp;: <strong>2&nbsp;ans</strong></li>
+						</ul>
+					</section>
+
+					<section>
+						<p style="text-align: left;">L'émission de certifications par une même personne suit certaines contraintes&nbsp;:</p>
+						<ul>
+							<li>
+								Délai minimal entre deux enregistrements de certifications&nbsp;: <strong>5&nbsp;jours</strong></li>
+							<li>
+								Nombre maximum de certifications en cours de validité&nbsp;: <strong>100</strong></li>
+						</ul>
+					</section>
+
+					<section>
+						<p style="text-align: left;">Définissons la distance entre membres...</p>
+						<p style="text-align: right;">
+							Si Paul a certifié Jacques <br>
+							&rArr; Jacques est à une distance 1 de Paul&nbsp;;
+						</p>
+						<p style="text-align: left;">
+							sinon si Paul a certifié quelqu'un <br>
+							qui lui-même a certifié Jacques <br>
+							&rArr; Jacques est à une distance 2 de Paul&nbsp;;
+						</p>
+						<p style="text-align: center;">
+							etc.
+						</p>
+						<p style="text-align: right;">
+							S'il n'existe pas de lien entre Paul et Jacques <br>
+							&rArr; la distance est infinie !
+						</p>
+					</section>
+
+					<section>
+						<div style="font-size: 0.9em;">
+							<p style="text-align: left;">La distance maximale entre un nouvel entrant et les membres référents est de <strong>5</strong>.
+							</p>
+							<p style="text-align: left;">
+								Néanmoins, cette règle ne s'applique pas strictement,<br>
+								un pourcentage minimum de membres référents est à atteindre pour respecter la règle de distance&nbsp;: <strong>80&nbsp;%</strong>.
+							</p>
+							<p>Mais c'est quoi un membre référent&nbsp;?</p>
+						</div>
+					</section>
+
+					<section>
+						<p>
+							Un membre référent <br>
+							a reçu et émis au moins <em>Y</em> certifications
+						</p>
+						<p>
+							<em>Y</em> évolue au rythme de la racine cinquième de <em>N</em>, <br>
+							<em>N</em> étant le nombre total de membres
+						</p>
+						<p>Par exemple&nbsp;: <br>
+							pour N=1 000, Y vaut 4<br>
+							pour N=10 000, Y vaut 7<br>
+							pour N=100 000, Y vaut 10<br>
+							pour N=1 000 000, Y vaut 16<br>
+						</p>
+					</section>
+
+					<section>
+						<h3>Spécialiste de la théorie des graphes,<br>
+							Nous avons besoin de toi&nbsp;!</h3>
+						<p>Pour avoir une toile qui puisse grandir sans difficulté,</p>
+						<p>tout en dissuadant les tricheurs</p>
+					</section>
+				</section>
+
+				<!--************************
+					10) L'écosystème Duniter
+				*************************-->
+				<section id="ecosysteme-duniter">
+					<section data-transition="default-in none-out">
+						<h2>L'écosystème Duniter</h2>
+						<div style="visibility: hidden">
+							<p style="font-size: 0.9em;">
+								Car à quoi bon avoir une base de données comme Duniter <br>
+								s'il n'y a pas de logiciels clients qui l'exploitent&nbsp;!
+							</p>
+							<p><strong>Faisons un petit tour de l'existant...</strong></p>
+						</div>
+					</section>
+
+					<section data-transition="none-in default-out">
+						<h2>L'écosystème Duniter</h2>
+						<div>
+							<p style="font-size: 0.9em;">
+								Car à quoi bon avoir une base de données comme Duniter <br>
+								s'il n'y a pas de logiciels clients qui l'exploitent&nbsp;!
+							</p>
+							<p><strong>Faisons un petit tour de l'existant...</strong></p>
+						</div>
+					</section>
+
+					<section>
+						<h3><a href="https://git.duniter.org/clients/python/sakia">Sakia</a></h3>
+						
+						<p style="text-align: left;">
+							Premier client développé pour Duniter, <br>
+							il permet de&nbsp;:
+						</p>
+						<ul>
+							<li>se connecter à une monnaie Duniter existante</li>
+							<li>consulter ses comptes</li>
+							<li>afficher les montants en DU ou en unité monétaire </li>
+							<li>effectuer des transferts de monnaie</li>
+							<li>gérer des contacts</li>
+							<li>etc.</li>
+						</ul>
+						<p>Client lourd réalisé avec <em>PyQt5</em> et <em>Python 3</em></p>
+					</section>
+
+					<section>
+						<h3><a href="https://git.duniter.org/clients/cesium/cesium">Cesium</a></h3>
+						
+						<p style="text-align: left;">
+							Autre client pour Duniter,<br>
+							le plus avancé au niveau des fonctionnalités utilisateur, <br>
+							il fournit par exemple&nbsp;:
+						</p>
+						<div>
+							<ul>
+								<li>une <a href="https://g1.duniter.fr/#/app/wot/map">carte</a> des utilisateurs s'étant géolocalisés</li>
+								<li>un service de messagerie chiffrée</li>
+								<li>une représentation interactive de la chaîne de blocs</li>
+								<li>une visualisation du <a href="https://g1.duniter.fr/#/app/network">réseau</a> des noeuds Duniter</li>
+								<li>etc.</li>
+							</ul>
+						</div>
+						<p>Client web réalisé avec <em>ionic.js</em>
+						</p>
+					</section>
+
+					<section>
+						<h3><a href="https://git.duniter.org/clients/python/silkaj">Silkaj</a></h3>
+						
+						<p style="text-align: left;">
+							Client en ligne de commande, <br>
+							idéal pour programmer des versements récurrents. <br>
+						</p>
+						<p style="text-align: left;">
+							Exemples :
+						</p>
+						<ul style="font-size: 0.9em;">
+							<li><em>amount</em> pour obtenir le montant présent sur un compte</li>
+							<li><em>transaction</em> pour effectuer une transaction</li>
+							<li><em>network</em> pour obtenir une vue détaillée du réseau</li>
+							<li><em>diffi</em> pour avoir les difficultés personnalisées actuelles</li>
+							<li>etc.</li>
+						</ul>
+						<p>Client réalisé avec <em>Python&nbsp;3</em>
+						</p>
+					</section>
+
+					<section>
+						<h3><a href="https://www.gchange.fr/#/app/home">Ğchange</a></h3>
+						<p>Place de marché (réalisée avec <em>ionic.js</em>)</p>
+						<ul style="font-size: 0.9em;">
+								<li>Annonces avec photos (offre ou demande)</li>
+								<li>Recherche textuelle (full-text), par catégorie, lieu...</li>
+								<li>Gestion des commentaires</li>
+								<li>Messages privés (pour contacter le vendeur)</li>
+								<li>etc.</li>
+							</ul>
+					</section>		
+
+					<section>
+						<h3><a href="https://remuniter.cgeek.fr/">Remuniter</a></h3>
+						<p style="text-align: left;">Service de dons pour financer les calculateurs de blocs</p>
+						<ul>
+							<li>les dons redistribués sont évidemment des Ğ1</li>
+							<li>fonctionne sur la confiance faite en celui qui héberge la redistribution des dons</li>
+							<li>actuellement complètement centralisé </li>
+						</ul>								
+						<p style="text-align: left;">Réalisé sous la forme d'un plugin de noeud Duniter</p>
+					</section>
+
+					<section>
+						<h3><a href="https://wotmap.duniter.io">WotMap</a></h3>
+						<p>Outil graphique pour explorer la toile de confiance <br>
+							(exploite les données de profil Césium	)</p>
+						<a href="images/WotMap.png">
+							<img height="65%" width="65%" src="images/WotMap.png" alt="Paidge dans WotMap">
+						</a>
+						<p style="font-size: 0.6em; margin: 0.1em 0em;">
+							<a href="https://duniter.normandie-libre.fr/wotmap">WotMap</a>, réalisé avec <a href="http://sigmajs.org">SigmaJS</a>
+						</p>
+					</section>
+
+					<section>
+						<h3>Et bien d'autres services existent&nbsp;!</h3>
+					</section>
+				</section>
+
+				<!--***********************
+					11) Pour en savoir plus
+				************************-->
+				<section>
+					<section>
+						<h2>Pour aller plus loin</h2>
+					</section>
+
+					<section>
+						<h3>Rencontrez des collectifs&nbsp;!</h3>
+						<p>
+							Des évènements partout en France<br>
+							Apéros, jeu <a href="http://geconomicus.glibre.org/">Ğéconomicus</a>, Ğmarché...<br>
+						</p>
+
+						<p>
+							Retrouvez-les sur le net
+						</p>
+
+						<p>
+							<a href="https://monnaie-libre.fr">monnaie-libre.fr</a><br>
+							<a href="forum.monnaie-libre.fr">forum.monnaie-libre.fr</a>
+						</p>
+					</section>
+
+					<section>
+						<h3>Et parcourez la toile&nbsp;!</h3>
+						<div style="font-size: 0.9em;">
+							<ul>
+								<li>
+									<a href="//http://creationmonetaire.info">creationmonetaire.info</a> - un des blogs de Stéphane Laborde </li>
+								<li>
+									<a href="http://cuckooland.free.fr">cuckooland.free.fr</a> - avec cette présentation et plus</li>
+								<li>
+									<a href="http://monnaie.ploc.be">monnaie.ploc.be</a> - par Emmanuel Bultot, mathématicien</li>
+								<li>
+									<a href="http://allocation-universelle.net/theorie-relative-monnaie.html">allocation-universelle.net</a> - par François Jortay, économiste</li>
+								<li>
+									<a href="http://duniter.org">duniter.org</a> - site du projet Duniter</li>
+								<li>
+									... (pardon aux copains dont les travaux ne sont pas cités)</li>
+							</ul>
+						</div>
+					</section>
+				</section>
+
+				<!--************************
+					13) Questions - Réponses
+				*************************-->
+				<section>
+					<section data-transition="default-in none-out">
+						<h1>A vous de jouer&nbsp;!</h1>
+						<p style="visibility: hidden">
+							La monnaie libre <br>
+							se construit par tous <br>
+							et pour tous
+						</p>
+					</section>
+
+					<section data-transition="none-in default-out">
+						<h1>A vous de jouer&nbsp;!</h1>
+						<p>
+							La monnaie libre <br>
+							se construit par tous <br>
+							et pour tous
+						</p>
+					</section>
+				</section>
+			</div>
+		</div>
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.js"></script>
+
+		<script>
+			// More info about config & dependencies:
+			// - https://github.com/hakimel/reveal.js#configuration
+			// - https://github.com/hakimel/reveal.js#dependencies
+			Reveal.initialize({
+				slideNumber: true,
+				history: true,
+				transition: 'convex',
+				margin: 0.2,
+				dependencies: [
+					{ src: 'plugin/markdown/marked.js' },
+					{ src: 'plugin/markdown/markdown.js' },
+					{ src: 'plugin/notes/notes.js', async: true },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
+				]
+			});
+		</script>
+	</body>
+</html>
