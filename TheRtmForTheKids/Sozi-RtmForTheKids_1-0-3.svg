@@ -1877,7 +1877,7 @@
       id="gBubblesMinute2-2"
       transform="translate(0,4)">
      <g
-       id="gFee2-1-2-1"
+       id="gFee2-2-1"
        class="FeeText"
        transform="translate(258.51309,65.989022)">
       <use
@@ -1890,7 +1890,7 @@
         transform="translate(130.55477,466.53574)" />
       <flowRoot
         xml:space="preserve"
-        id="FlowFee2-1-2-1"
+        id="FlowFee2-2-1"
         transform="translate(-261.00103,-2070.578)"><flowRegion
          id="flowRegion5321-7"><rect
           id="rect5323-4"
@@ -1924,7 +1924,7 @@
          id="flowPara5357">I have 10 euros. </flowPara><flowPara
          id="flowPara20612">It’s pocket money that Mum gives me every week.</flowPara></flowRoot>     </g>
      <g
-       id="gFee2-2-1"
+       id="gFee2-2-2"
        class="FeeText"
        transform="translate(-7.3618565,-6.7796875e-5)">
       <use
@@ -1937,7 +1937,7 @@
         transform="translate(223.64429,553.79795)" />
       <flowRoot
         xml:space="preserve"
-        id="FlowFee2-2-1"
+        id="FlowFee2-2-2"
         transform="translate(4.6998041,-1927.6106)"><flowRegion
          id="flowRegion5363"><rect
           id="rect5365"
@@ -3836,7 +3836,7 @@
          xml:space="preserve"><tspan
           y="-60.096817"
           x="3643.5361"
-          id="tspan7052">11,25/20</tspan></text>
+          id="tspan7052">11.25/20</tspan></text>
       </g>
      </g>
     </g>
@@ -4031,7 +4031,7 @@
          xml:space="preserve"><tspan
           y="-74.954361"
           x="3637.5361"
-          id="tspan6222">11,25/20</tspan></text>
+          id="tspan6222">11.25/20</tspan></text>
        <text
          id="text10444"
          y="-65.882431"
@@ -4039,7 +4039,7 @@
          xml:space="preserve"><tspan
           y="-65.882431"
           x="3619.5364"
-          id="tspan10446">lower than 10</tspan></text>
+          id="tspan10446">above 10</tspan></text>
        <text
          xml:space="preserve"
          x="3619.5364"
@@ -4197,7 +4197,7 @@
          xml:space="preserve"><tspan
           y="-68.954361"
           x="3643.5361"
-          id="tspan10426">11,6/20</tspan></text>
+          id="tspan10426">11.6/20</tspan></text>
        <text
          id="text10452"
          y="-62.266464"
@@ -4222,7 +4222,7 @@
          id="text10440"><tspan
           id="tspan10442"
           x="3643.5361"
-          y="-57.882431">9,5/20</tspan></text>
+          y="-57.882431">9.5/20</tspan></text>
       </g>
      </g>
     </g>
@@ -10384,7 +10384,7 @@
         xml:space="preserve"><tspan
          y="328.01114"
          x="1165.7517"
-         id="tspan11212">Price: 0,01 DU</tspan></text>
+         id="tspan11212">Price: 0.01 DU</tspan></text>
      </g>
      <rect
        style="fill:none;stroke:#000000;stroke-opacity:1"
@@ -10558,7 +10558,7 @@
           x="2973.272"
           y="730.20135"
           style="fill:#000000;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara4096">It’s weird … It reminds me of the story of the three sisters: there're two years between each one, and when they were children, the difference in age seemed huge …</flowPara></flowRoot>     </g>
+         id="flowPara4096">It’s weird … It reminds me of the story of the three sisters: there’re two years between each one, and when they were children, the difference in age seemed huge …</flowPara></flowRoot>     </g>
      <g
        transform="translate(-6.0059831,24.25533)"
        class="FeeText"
@@ -11700,7 +11700,7 @@
           y="-1439.4203">1 DU</tspan><tspan
           x="3438.6079"
           y="-1401.9203"
-          id="tspan8750">(3,3 thousand euros)</tspan></text>
+          id="tspan8750">(3.3 thousand euros)</tspan></text>
        <rect
          style="fill:none;stroke:#999999;stroke-width:2.08129573;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
          id="rect8752"
@@ -12840,10 +12840,10 @@
           y="360.18204" /></flowRegion><flowPara
          id="flowPara6309">Space occupied by the store of the one having all the euros</flowPara><flowPara
          id="flowPara6311">90 %</flowPara><flowPara
-         id="flowPara16103">38,7 %</flowPara><flowPara
-         id="flowPara6313">15,1 %</flowPara><flowPara
-         id="flowPara6315">6,1 %</flowPara><flowPara
-         id="flowPara6317">2,5 %</flowPara><flowPara
+         id="flowPara16103">38.7 %</flowPara><flowPara
+         id="flowPara6313">15.1 %</flowPara><flowPara
+         id="flowPara6315">6.1 %</flowPara><flowPara
+         id="flowPara6317">2.5 %</flowPara><flowPara
          id="flowPara6319" /></flowRoot>     </g>
     </g>
    </g>
@@ -13055,7 +13055,7 @@
           height="27.465984"
           x="2996.0327"
           y="710.23578" /></flowRegion><flowPara
-         id="flowPara10371">Yes, limited and well fixed! Humans dream about a money withstanding the test of time, it makes them feel secure. But it's madness! Now, we want a money in the image of man, both living at the same rhythm. And it’s the rate of the DU which sets this rhythm.</flowPara></flowRoot>     </g>
+         id="flowPara10371">Yes, limited and well fixed! Humans dream about a money withstanding the test of time, it makes them feel secure. But it’s madness! Now, we want a money in the image of man, both living at the same rhythm. And it’s the rate of the DU which sets this rhythm.</flowPara></flowRoot>     </g>
      <g
        id="gElsie11-1-2"
        class="ElsieText"
@@ -13629,7 +13629,7 @@
           width="20.612103"
           id="rect8534" /></flowRegion><flowPara
          id="flowPara8536">Money issued by an incoming </flowPara><flowPara
-         id="flowPara8546">9,5 DUs</flowPara><flowPara
+         id="flowPara8546">9.5 DUs</flowPara><flowPara
          id="flowPara8538">18 DUs</flowPara><flowPara
          id="flowPara8540">25.8 DUs</flowPara><flowPara
          id="flowPara8544">32.8 DUs</flowPara></flowRoot>     </g>
@@ -13684,7 +13684,8 @@
           height="40.092075"
           x="1510.0372"
           y="360.18204" /></flowRegion><flowPara
-         id="flowPara8622">Space occupied by the money supply of outgoing people 90.6 %</flowPara><flowPara
+         id="flowPara8620">Space occupied by the money supply of outgoing people</flowPara><flowPara
+         id="flowPara8622">90.6 %</flowPara><flowPara
          id="flowPara8624">82 %</flowPara><flowPara
          id="flowPara8626">74.3 %</flowPara><flowPara
          id="flowPara8630">67.3 %</flowPara></flowRoot>     </g>

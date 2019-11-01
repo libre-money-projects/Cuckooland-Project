@@ -1872,7 +1872,7 @@
       id="gBubblesMinute2-2"
       transform="translate(0,4)">
      <g
-       id="gFee2-1-2-1"
+       id="gFee2-2-1"
        class="FeeText"
        transform="translate(258.51309,65.989022)">
       <use
@@ -1885,7 +1885,7 @@
         transform="translate(130.55477,466.53574)" />
       <flowRoot
         xml:space="preserve"
-        id="FlowFee2-1-2-1"
+        id="FlowFee2-2-1"
         transform="translate(-261.00103,-2070.578)"><flowRegion
          id="flowRegion5321-7"><rect
           id="rect5323-4"
@@ -1918,7 +1918,7 @@
           y="716.62476" /></flowRegion><flowPara
          id="flowPara5357">J’ai 10 euros. C’est l’argent de poche que me donne maman chaque semaine.</flowPara></flowRoot>     </g>
      <g
-       id="gFee2-2-1"
+       id="gFee2-2-2"
        class="FeeText"
        transform="translate(-7.3618565,-6.7796875e-5)">
       <use
@@ -1931,7 +1931,7 @@
         transform="translate(223.64429,553.79795)" />
       <flowRoot
         xml:space="preserve"
-        id="FlowFee2-2-1"
+        id="FlowFee2-2-2"
         transform="translate(4.6998041,-1927.6106)"><flowRegion
          id="flowRegion5363"><rect
           id="rect5365"
@@ -3189,7 +3189,7 @@
           id="textPath4375"
           startOffset="100%"
           xlink:href="#path6501"><tspan
-  id="tspan4358">Pour Emprunter, il faut payer des intérêts    </tspan></textPath></text>
+  id="tspan4358">Pour emprunter, il faut payer des intérêts    </tspan></textPath></text>
       </g>
       <g
         class="RunnerBlueText"
@@ -7117,7 +7117,7 @@
         xlink:href="#path3222-7"
         startOffset="50%"
         id="textPath4449"><tspan
-  id="tspan4000">Que t'as intérêt de l'utiliser</tspan></textPath></text>
+  id="tspan4000">Que t’as intérêt de l’utiliser</tspan></textPath></text>
     </g>
    </g>
    <g
@@ -7757,7 +7757,7 @@
           height="19.980429"
           width="108.26193"
           id="rect3753" /></flowRegion><flowPara
-         id="flowPara3755">Oui, je vois le problème : 10 euros, par rapport à la quantité d’euros qui ne fait que grossir, c’est de moins en moins… comme un confetti posé sur un ballon gonflable et qui semblerait de plus en plus minuscule quand le ballon est gonflé. Ce n’est pas juste.</flowPara></flowRoot>     </g>
+         id="flowPara3755">Oui, je vois le problème : 10 euros, par rapport à la quantité d’euros qui ne fait que grossir, c’est de moins en moins… comme un confetti posé sur un ballon gonflable et qui semblerait de plus en plus minuscule quand le ballon est gonflé.</flowPara></flowRoot>     </g>
      <g
        transform="translate(-4.8818213,6)"
        class="FeeText"
@@ -12442,7 +12442,7 @@
           height="30.727501"
           x="1510.0372"
           y="360.18204" /></flowRegion><flowPara
-         id="flowPara6201">1 ans</flowPara><flowPara
+         id="flowPara6201">1 an</flowPara><flowPara
          id="flowPara6276">10 ans</flowPara><flowPara
          id="flowPara6203">20 ans</flowPara><flowPara
          id="flowPara6205">30 ans</flowPara><flowPara
@@ -12868,7 +12868,7 @@
           height="30.727501"
           width="27.508434"
           id="rect6354" /></flowRegion><flowPara
-         id="flowPara6356">1 ans</flowPara><flowPara
+         id="flowPara6356">1 an</flowPara><flowPara
          id="flowPara16101">10 ans</flowPara><flowPara
          id="flowPara6358">20 ans</flowPara><flowPara
          id="flowPara6360">30 ans</flowPara><flowPara
@@ -13261,7 +13261,7 @@
           height="13.568252"
           width="110.41521"
           id="rect10383" /></flowRegion><flowPara
-         id="flowPara10385">Nous allons partager les 330 millions d’individus en 2 : ceux qui ont moins de quarante ans, appelons-les les entrants…</flowPara></flowRoot>     </g>
+         id="flowPara10385">Nous allons partager les 330 millions d’individus en deux : ceux qui ont moins de quarante ans, appelons-les les entrants…</flowPara></flowRoot>     </g>
      <g
        transform="translate(11.295167,-2.6126681)"
        class="ElsieText"
@@ -14451,7 +14451,7 @@
           height="25.840742"
           width="110.21152"
           id="rect11721" /></flowRegion><flowPara
-         id="flowPara9403">C’est vrai. Tes ancêtres t’ont transmis des tas de choses, comme les chiffres et les lettres que nous utilisons aujourd’hui. Tu n’as pas eu à travailler pour y avoir accès. Tout ceci a une grande valeur et n’appartient pas plus aux uns qu'aux autres. D’une certaine façon, le DU représente cet héritage universel.</flowPara></flowRoot>     </g>
+         id="flowPara9403">C’est vrai. Tes ancêtres t’ont transmis des tas de choses, comme les chiffres et les lettres que nous utilisons aujourd’hui. Tu n’as pas eu à travailler pour y avoir accès. Tout ceci a une grande valeur et n’appartient pas plus aux uns qu’aux autres. D’une certaine façon, le DU représente cet héritage universel.</flowPara></flowRoot>     </g>
     </g>
     <g
       style="overflow:visible"
@@ -18544,7 +18544,7 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
    id="Fleur1-2" />
  <ns1:frame
    ns1:refid="rViewMinute1-3"
-   ns1:title="- 3 - Voter 'OUI' ou 'NON'"
+   ns1:title="- 3 - Voter « OUI » ou « NON »"
    ns1:sequence="5"
    ns1:hide="false"
    ns1:clip="true"
@@ -18558,7 +18558,7 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
    id="Fleur1-3" />
  <ns1:frame
    ns1:refid="rViewMinute1-4"
-   ns1:title="- 4 - L'argent dirige le monde"
+   ns1:title="- 4 - L’argent dirige le monde"
    ns1:sequence="6"
    ns1:hide="false"
    ns1:clip="true"
@@ -18586,7 +18586,7 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
    id="Fleur1-5" />
  <ns1:frame
    ns1:refid="rViewMinute1-6"
-   ns1:title="- 6 - C'est comme ça"
+   ns1:title="- 6 - C’est comme ça"
    ns1:sequence="8"
    ns1:hide="false"
    ns1:clip="true"
@@ -18638,7 +18638,7 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
    ns1:clip="true"
    ns1:hide="false"
    ns1:sequence="11"
-   ns1:title="- 1 - 10 billions d'euros en tout"
+   ns1:title="- 1 - 10 billions d’euros en tout"
    ns1:refid="rViewMinute2-1" />
  <ns1:frame
    id="Fleur2-2"
@@ -18666,7 +18666,7 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
    ns1:clip="true"
    ns1:hide="false"
    ns1:sequence="13"
-   ns1:title="- 3 - Une note de 10, c'est relatif"
+   ns1:title="- 3 - Une note de 10, c’est relatif"
    ns1:refid="rViewMinute2-3" />
  <ns1:frame
    id="Fleur2-4"
@@ -18680,7 +18680,7 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
    ns1:clip="true"
    ns1:hide="false"
    ns1:sequence="14"
-   ns1:title="- 4 - Nécessité d'un référentiel"
+   ns1:title="- 4 - Nécessité d’un référentiel"
    ns1:refid="rViewMinute2-4" />
  <ns1:frame
    id="Fleur2-5"
@@ -18708,7 +18708,7 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
    ns1:clip="true"
    ns1:hide="false"
    ns1:sequence="16"
-   ns1:title="- 6 - Demande d'augmentation"
+   ns1:title="- 6 - Demande d’augmentation"
    ns1:refid="rViewMinute2-6" />
  <ns1:frame
    ns1:refid="FrameLargeMinute2"
@@ -18726,7 +18726,7 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
    id="Fleur2-Recap" />
  <ns1:frame
    ns1:refid="FrameMinute3"
-   ns1:title="Fleur 3 - Réserve de valeur et intermédiaire d'échange"
+   ns1:title="Fleur 3 - Réserve de valeur et intermédiaire d’échange"
    ns1:sequence="18"
    ns1:hide="false"
    ns1:clip="true"
@@ -18932,7 +18932,7 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
    ns1:clip="true"
    ns1:hide="false"
    ns1:sequence="32"
-   ns1:title="- 6 - La monnaie à l'image de l'or"
+   ns1:title="- 6 - La monnaie à l’image de l’or"
    ns1:refid="rViewMinute4-6" />
  <ns1:frame
    ns1:refid="FrameLargeMinute4"
@@ -18964,7 +18964,7 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
    id="Fleur5-Intro" />
  <ns1:frame
    ns1:refid="rViewMinute5-1"
-   ns1:title="- 1 - Le nombre d'euros augmente"
+   ns1:title="- 1 - Le nombre d’euros augmente"
    ns1:sequence="35"
    ns1:hide="false"
    ns1:clip="true"
@@ -19086,7 +19086,7 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
    ns1:clip="true"
    ns1:hide="false"
    ns1:sequence="43"
-   ns1:title="- 1 - Envie d'une masse monétaire constante"
+   ns1:title="- 1 - Envie d’une masse monétaire constante"
    ns1:refid="rViewMinute6-1" />
  <ns1:frame
    id="Fleur6-2"
@@ -19114,7 +19114,7 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
    ns1:clip="true"
    ns1:hide="false"
    ns1:sequence="45"
-   ns1:title="- 3 - Partager la nouvelle monnaie dans l'espace"
+   ns1:title="- 3 - Partager la nouvelle monnaie dans l’espace"
    ns1:refid="rViewMinute6-3" />
  <ns1:frame
    id="Fleur6-4"
@@ -19310,7 +19310,7 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
    ns1:clip="true"
    ns1:hide="false"
    ns1:sequence="59"
-   ns1:title="- 1 - L'élastique double de longueur rapidement"
+   ns1:title="- 1 - L’élastique double de longueur rapidement"
    ns1:refid="rViewMinute8-1" />
  <ns1:frame
    id="Fleur8-2"
@@ -19324,7 +19324,7 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
    ns1:clip="true"
    ns1:hide="false"
    ns1:sequence="60"
-   ns1:title="- 2 - Toutes les semaines, c'est difficile à suivre"
+   ns1:title="- 2 - Toutes les semaines, c’est difficile à suivre"
    ns1:refid="rViewMinute8-2" />
  <ns1:frame
    id="Fleur8-3"
@@ -19426,7 +19426,7 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
    id="Fleur9-1" />
  <ns1:frame
    ns1:refid="rViewMinute9-2"
-   ns1:title="- 2 - Un référentiel basé sur l'être humain"
+   ns1:title="- 2 - Un référentiel basé sur l’être humain"
    ns1:sequence="68"
    ns1:hide="false"
    ns1:clip="true"
@@ -19468,7 +19468,7 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
    id="Fleur9-4" />
  <ns1:frame
    ns1:refid="rViewMinute9-5"
-   ns1:title="- 5 - En même temps, on a reçu plein d'argent"
+   ns1:title="- 5 - En même temps, on a reçu plein d’argent"
    ns1:sequence="71"
    ns1:hide="false"
    ns1:clip="true"
@@ -19482,7 +19482,7 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
    id="Fleur9-5" />
  <ns1:frame
    ns1:refid="rViewMinute9-6"
-   ns1:title="- 6 - L'histoire des trois sœurs"
+   ns1:title="- 6 - L’histoire des trois sœurs"
    ns1:sequence="72"
    ns1:hide="false"
    ns1:clip="true"
