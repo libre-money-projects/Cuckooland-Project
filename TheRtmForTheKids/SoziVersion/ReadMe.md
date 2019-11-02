@@ -1,12 +1,7 @@
-Presentation
-============
-
-[The RTM for the kids](http://cuckooland.free.fr/TheRtmForTheKids.html) is a presentation about the [Relative Theory of Money](http://www.creationmonetaire.info/2012/11/theorie-relative-de-la-monnaie-2-718.html) animated by [Sozi](http://sozi.baierouge.fr/).
-
 First checks
 ============
 
-Things to check after modification of the working svg file, with a text editor: 
+Things to check **after modification** of the working svg file, with a text editor: 
 
 * Search `font-size` attibutes in the definition of objects and delete them (because they should be defined in _CSS_ part).
 * All "Flowed Texts" should have an `ID` of the form _Flow..._ (no default `ID` of the form _flowRoot..._).
@@ -47,8 +42,10 @@ To have a playable Sozi version, we have to modify the working svg file because:
 If you use a new font, don't forget to add it in the "font" directory.
 
 
-Pdf version 
+Pdf version
 ===========
+
+**Note**: to have a pdf version of `The RTM for the kids`, the best solution is to use the Scribus version.
 
 To have a pdf version of the Sozi presentation, we need to tune the working svg file because:
 
