@@ -1,0 +1,9 @@
+{
+  "name": "transition-helper",
+  "version": "1.0.0",
+  "description": "Program helping to build The RTM for the Kids in different languages",
+  "main": "main.js",
+  "dependencies": {
+    "nunjucks": "^3.2.0"
+  }
+}
