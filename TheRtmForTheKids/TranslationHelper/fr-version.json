@@ -21,7 +21,8 @@
     "ElsieSignature": "Élise",
     "FairySignature": "La fée",
     "Flower": "Fleur",
-
+    "FlowerId": "Fleur",
+    
     "gTitleMinute1": "Principe de symétrie",
 
     "FlowElsie1_1_1": "« Un homme, un vote ! » J’ai entendu ça dans une chanson.",
@@ -274,9 +275,9 @@
     "FlowElsie11_2_2": "… et les sortants, ceux qui ont plus de quarante ans ! C’est encore d’une symétrie dont tu veux parler !",
     "FlowFee11_3_1": "Tu as vu juste. Au bout de quarante ans, on a déjà calculé que les entrants ont quasiment reçu leur 10 DU. Ce côté de la symétrie est satisfaisant.",
     "FlowElsie11_3_1": "Oui, reste à voir les sortants : au bout de quarante ans, ils ne sont plus très nombreux…",
-    "FlowFee11_3_2" : "Et la monnaie qui existait quand ils faisaient partie des entrants, qu’est-elle devenue ?",
-    "FlowElsie11_3_2" : "En fait, on l’a déjà calculé : au bout de 40 ans, elle aussi a quasiment disparu, elle ne représente plus que 2,5 %.",
-    "FlowFee11_4_1" : "2,5 %, c’est une valeur raisonnable, car la 40ème année, on peut estimer que les sortants sont peu, mais qu’ils représentent encore à peu près 2,5 %.",
+    "FlowFee11_3_2": "Et la monnaie qui existait quand ils faisaient partie des entrants, qu’est-elle devenue ?",
+    "FlowElsie11_3_2": "En fait, on l’a déjà calculé : au bout de 40 ans, elle aussi a quasiment disparu, elle ne représente plus que 2,5 %.",
+    "FlowFee11_4_1": "2,5 %, c’est une valeur raisonnable, car la 40ème année, on peut estimer que les sortants sont peu, mais qu’ils représentent encore à peu près 2,5 %.",
     "FlowElsie11_4_1": "Pourquoi les sortants ne seraient plus que 2,5 % ?",
     "FlowFee11_5_1": "2,5 pour 100, c’est la même chose que 1 pour 40. Or, on peut estimer que tous les ans, il y a une même proportion des sortants qui disparaît.",
     "FlowElsie11_5_1": "Et une même proportion pendant 40 ans, ça veut dire 1 personne sur 40 qui disparaît chaque année.",
