@@ -5,7 +5,8 @@ nunjucks.configure({ autoescape: true });
 
 const versions = {
     en_version: require("./en-version.json"),
-    fr_version: require("./fr-version.json")
+    fr_version: require("./fr-version.json"),
+    cat_version: require("./cat-version.json")
 };
 
 const templates = [
@@ -21,7 +22,7 @@ for (let [key, context] of Object.entries(versions)) {
             if (err) {
                 return console.log(err);
             }
-            console.log(`'${dest}' was saved!`);
+            console.log(`'${dest}' saved!`);
         });
     }
 }

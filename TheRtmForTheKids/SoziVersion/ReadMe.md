@@ -25,8 +25,8 @@ To have a playable Sozi version, we have to modify the working svg file because:
     4. hide (`Ctrl+Shft+O`, then `Alt+H`);
     5. find (`Ctrl+F`) objects with `ID` set to _CurvedText_ (in current version, 26 objects should be found);
     6. convert to a _Path_ (`Ctrl+Shft+C`);
-    7. find (`Ctrl+F`) objects with `ID` set to _Flow_ (search all objects starting by "Flow"; in current version, 214 objects should be found);
-    8. convert to a _Text_ (202 _Flowed Texts_ should be actually converted);
+    7. find (`Ctrl+F`) objects with `ID` set to _Flow_ (search all objects starting by "Flow"; in current version, 224 objects should be found);
+    8. convert to a _Text_ (212 _Flowed Texts_ should be actually converted);
     9. execute _Vaccum Defs_ (this action is accessible in the _File_ menu);
     10. save.
 

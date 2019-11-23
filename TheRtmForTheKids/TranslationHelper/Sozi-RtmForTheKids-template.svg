@@ -12791,20 +12791,20 @@
          id="flowRegion6189"><rect
           style="text-align:center;text-anchor:middle"
           id="rect6191"
-          width="16.561789"
-          height="15.998853"
+          width="15.957928"
+          height="15.696922"
           x="1494.6537"
           y="355.01703" /></flowRegion><flowPara
          id="flowPara6193"
          style="line-height:1.25">{{FlowRate}} 10% {{Mean}} 10 {{UDs}}</flowPara></flowRoot>      <flowRoot
         xml:space="preserve"
         id="FlowDuCreationYears-one"
-        transform="translate(-742.01501,-1049.9081)"
+        transform="translate(-745.82665,-1049.6061)"
         style="line-height:0.01%"><flowRegion
          id="flowRegion6197"><rect
           id="rect6199"
-          width="27.508434"
-          height="30.727501"
+          width="15.884115"
+          height="25.44372"
           x="1510.0372"
           y="360.18204" /></flowRegion><flowPara
          id="flowPara6201"
@@ -12868,18 +12868,16 @@
          style="fill:#be14c9;fill-opacity:1;fill-rule:nonzero;stroke:none;" />
       </g>
       <flowRoot
-        transform="translate(-728.01501,-1064.4933)"
+        transform="translate(-728.46792,-1049.1343)"
         id="FlowDuCreationValues-one"
         xml:space="preserve"
         style="line-height:0.01%"><flowRegion
          id="flowRegion6242"><rect
           y="360.18204"
           x="1510.0372"
-          height="41.001518"
-          width="20.612103"
+          height="40.548622"
+          width="19.253416"
           id="rect6244" /></flowRegion><flowPara
-         id="flowPara6246"
-         style="line-height:1.25">{{MoneyReceivedByAnIndividual_1}} {{MoneyReceivedByAnIndividual_2}} {{MoneyReceivedByAnIndividual_3}}</flowPara><flowPara
          id="flowPara6248"
          style="line-height:1.25">0{{DecSep}}91 {{UD}}</flowPara><flowPara
          id="flowPara6280"
@@ -12890,7 +12888,20 @@
          style="line-height:1.25">9{{DecSep}}4 {{UDs}}</flowPara><flowPara
          id="flowPara6254"
          style="line-height:1.25">9{{DecSep}}8 {{UDs}}</flowPara><flowPara
-         id="flowPara6256" /></flowRoot>     </g>
+         id="flowPara6256" /></flowRoot>      <flowRoot
+        style="line-height:0.01%"
+        xml:space="preserve"
+        id="FlowMoneyReceived-one"
+        transform="translate(-728.46792,-1064.4933)"><flowRegion
+         id="flowRegion3528"><rect
+          id="rect3526"
+          width="19.857277"
+          height="15.035505"
+          x="1510.0372"
+          y="360.18204" /></flowRegion><flowPara
+         style="line-height:1.25"
+         id="flowPara3530">{{MoneyReceivedByAnIndividual}}</flowPara><flowPara
+         id="flowPara3542" /></flowRoot>     </g>
     </g>
    </g>
    <g
@@ -13256,15 +13267,15 @@
           style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
          id="flowPara6348"
          style="line-height:1.25">{{FlowRate}} 10% {{Mean}} 10 {{UDs}}</flowPara></flowRoot>      <flowRoot
-        transform="translate(-742.01501,-1049.9081)"
+        transform="translate(-746.02429,-1049.4199)"
         id="FlowDuReserveYears-one"
         xml:space="preserve"
         style="line-height:0.01%"><flowRegion
          id="flowRegion6352"><rect
           y="360.18204"
           x="1510.0372"
-          height="30.727501"
-          width="27.508434"
+          height="25.81341"
+          width="16.43693"
           id="rect6354" /></flowRegion><flowPara
          id="flowPara6356"
          style="line-height:1.25">1 {{Year}}</flowPara><flowPara
@@ -13330,16 +13341,14 @@
       <flowRoot
         xml:space="preserve"
         id="FlowDuReserveValues-one"
-        transform="translate(-708.22194,-1064.4933)"
+        transform="translate(-708.22194,-1049.3685)"
         style="line-height:0.01%"><flowRegion
          id="flowRegion6305"><rect
           id="rect6307"
-          width="34.23922"
-          height="40.092075"
+          width="33.736839"
+          height="25.52309"
           x="1510.0372"
           y="360.18204" /></flowRegion><flowPara
-         id="flowPara6309"
-         style="line-height:1.25">{{SpaceOccupiedAllTheEuros_1}} {{SpaceOccupiedAllTheEuros_2}} {{SpaceOccupiedAllTheEuros_3}}</flowPara><flowPara
          id="flowPara6311"
          style="line-height:1.25">90 %</flowPara><flowPara
          id="flowPara16103"
@@ -13350,7 +13359,20 @@
          style="line-height:1.25">6{{DecSep}}1 %</flowPara><flowPara
          id="flowPara6317"
          style="line-height:1.25">2{{DecSep}}5 %</flowPara><flowPara
-         id="flowPara6319" /></flowRoot>     </g>
+         id="flowPara6319" /></flowRoot>      <flowRoot
+        style="line-height:0.01%"
+        transform="translate(-708.22194,-1064.4933)"
+        id="FlowSpaceOccupied-one"
+        xml:space="preserve"><flowRegion
+         id="flowRegion3570"><rect
+          y="360.18204"
+          x="1510.0372"
+          height="15.403211"
+          width="34.180016"
+          id="rect3568" /></flowRegion><flowPara
+         style="line-height:1.25"
+         id="flowPara3572">{{SpaceOccupiedAllTheEuros}}</flowPara><flowPara
+         id="flowPara3584" /></flowRoot>     </g>
     </g>
    </g>
    <g
@@ -14099,12 +14121,12 @@
       <flowRoot
         xml:space="preserve"
         id="FlowRate1Percent"
-        transform="translate(-730.67696,-1059.3894)"
+        transform="translate(-730.20332,-1059.3894)"
         style="line-height:0.01%"><flowRegion
          id="flowRegion9661"><rect
           id="rect9663"
-          width="16.561789"
-          height="15.998853"
+          width="15.614493"
+          height="15.16997"
           x="1494.6537"
           y="355.01703"
           style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
@@ -14112,12 +14134,12 @@
          style="line-height:1.25">{{FlowRate}} 1 % {{Mean}} 100 {{UDs}}</flowPara></flowRoot>      <flowRoot
         xml:space="preserve"
         id="FlowYear1Percent"
-        transform="translate(-742.01501,-1049.9081)"
+        transform="translate(-745.33049,-1049.3161)"
         style="line-height:0.01%"><flowRegion
          id="flowRegion8568"><rect
           id="rect8570"
-          width="27.508434"
-          height="30.727501"
+          width="15.54884"
+          height="20.307262"
           x="1510.0372"
           y="360.18204" /></flowRegion><flowPara
          id="flowPara8580"
@@ -14170,18 +14192,16 @@
          transform="matrix(0.32372542,0,0,1.0000318,528.1324,15.401278)" />
       </g>
       <flowRoot
-        transform="translate(-728.30765,-1064.4933)"
+        transform="translate(-728.30765,-1049.1909)"
         id="FlowIngoing1Percent"
         xml:space="preserve"
         style="line-height:0.01%"><flowRegion
          id="flowRegion8532"><rect
           y="360.18204"
           x="1510.0372"
-          height="35.430408"
-          width="20.612103"
+          height="20.273695"
+          width="18.243866"
           id="rect8534" /></flowRegion><flowPara
-         id="flowPara8536"
-         style="line-height:1.25">{{MoneyIssuedByAnIncoming_1}} {{MoneyIssuedByAnIncoming_2}} {{MoneyIssuedByAnIncoming_3}}</flowPara><flowPara
          id="flowPara8546"
          style="line-height:1.25">9{{DecSep}}5 {{UDs}}</flowPara><flowPara
          id="flowPara8538"
@@ -14189,7 +14209,19 @@
          id="flowPara8540"
          style="line-height:1.25">25{{DecSep}}8 {{UDs}}</flowPara><flowPara
          id="flowPara8544"
-         style="line-height:1.25">32{{DecSep}}8 {{UDs}}</flowPara></flowRoot>     </g>
+         style="line-height:1.25">32{{DecSep}}8 {{UDs}}</flowPara></flowRoot>      <flowRoot
+        style="line-height:0.01%"
+        xml:space="preserve"
+        id="FlowIngoingIssued1Percent"
+        transform="translate(-728.30765,-1064.4933)"><flowRegion
+         id="flowRegion3612"><rect
+          id="rect3610"
+          width="18.48069"
+          height="14.70834"
+          x="1510.0372"
+          y="360.18204" /></flowRegion><flowPara
+         style="line-height:1.25"
+         id="flowPara3622">{{MoneyIssuedByAnIncoming}}</flowPara></flowRoot>     </g>
      <g
        id="gOutgoing1Percent">
       <path
@@ -14234,16 +14266,14 @@
       <flowRoot
         xml:space="preserve"
         id="FlowOutgoing1Percent"
-        transform="translate(-708.51458,-1064.4933)"
+        transform="translate(-708.51458,-1049.3093)"
         style="line-height:0.01%"><flowRegion
          id="flowRegion8616"><rect
           id="rect8618"
-          width="34.23922"
-          height="40.092075"
+          width="34.002396"
+          height="20.198889"
           x="1510.0372"
           y="360.18204" /></flowRegion><flowPara
-         id="flowPara8620"
-         style="line-height:1.25">{{SpaceOccupiedByOutgoingPeople_1}} {{SpaceOccupiedByOutgoingPeople_2}} {{SpaceOccupiedByOutgoingPeople_3}}</flowPara><flowPara
          id="flowPara8622"
          style="line-height:1.25">90{{DecSep}}6 %</flowPara><flowPara
          id="flowPara8624"
@@ -14251,7 +14281,19 @@
          id="flowPara8626"
          style="line-height:1.25">74{{DecSep}}3 %</flowPara><flowPara
          id="flowPara8630"
-         style="line-height:1.25">67{{DecSep}}3 %</flowPara></flowRoot>     </g>
+         style="line-height:1.25">67{{DecSep}}3 %</flowPara></flowRoot>      <flowRoot
+        style="line-height:0.01%"
+        transform="translate(-708.51458,-1064.4933)"
+        id="FlowOutgoingOccupied1Percent"
+        xml:space="preserve"><flowRegion
+         id="flowRegion3676"><rect
+          y="360.18204"
+          x="1510.0372"
+          height="14.988769"
+          width="34.002396"
+          id="rect3674" /></flowRegion><flowPara
+         style="line-height:1.25"
+         id="flowPara3686">{{SpaceOccupiedByOutgoingPeople}}</flowPara></flowRoot>     </g>
     </g>
     <g
       id="g5PercentTable"
@@ -14276,21 +14318,21 @@
          id="flowRegion9945"><rect
           y="355.01703"
           x="1494.6537"
-          height="15.998853"
-          width="16.561789"
+          height="15.288382"
+          width="16.680201"
           id="rect9947"
           style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
          id="flowPara9949"
          style="line-height:1.25">{{FlowRate}} 5 % {{Mean}} 20 {{UDs}}</flowPara></flowRoot>      <flowRoot
-        transform="translate(-742.01501,-1049.9081)"
+        transform="translate(-746.13342,-1049.3161)"
         id="FlowYear5Percent"
         xml:space="preserve"
         style="line-height:0.01%"><flowRegion
          id="flowRegion9953"><rect
           y="360.18204"
           x="1510.0372"
-          height="30.727501"
-          width="27.508434"
+          height="20.307261"
+          width="16.1409"
           id="rect9955" /></flowRegion><flowPara
          id="flowPara9957"
          style="line-height:1.25">10 {{Years}}</flowPara><flowPara
@@ -14344,16 +14386,14 @@
       <flowRoot
         xml:space="preserve"
         id="FlowIngoing5Percent"
-        transform="translate(-728.30765,-1064.4933)"
+        transform="translate(-728.30765,-1049.1909)"
         style="line-height:0.01%"><flowRegion
          id="flowRegion9983"><rect
           id="rect9985"
-          width="20.612103"
-          height="35.430408"
+          width="18.243866"
+          height="20.036871"
           x="1510.0372"
           y="360.18204" /></flowRegion><flowPara
-         id="flowPara9987"
-         style="line-height:1.25">{{MoneyIssuedByAnIncoming_1}} {{MoneyIssuedByAnIncoming_2}} {{MoneyIssuedByAnIncoming_3}}</flowPara><flowPara
          id="flowPara9989"
          style="line-height:1.25">7{{DecSep}}7 {{UDs}}</flowPara><flowPara
          id="flowPara9991"
@@ -14361,7 +14401,19 @@
          id="flowPara9993"
          style="line-height:1.25">15{{DecSep}}4 {{UDs}}</flowPara><flowPara
          id="flowPara9997"
-         style="line-height:1.25">17{{DecSep}}2 {{UDs}}</flowPara></flowRoot>     </g>
+         style="line-height:1.25">17{{DecSep}}2 {{UDs}}</flowPara></flowRoot>      <flowRoot
+        style="line-height:0.01%"
+        transform="translate(-728.30765,-1064.4933)"
+        id="FlowIngoingIssued5Percent"
+        xml:space="preserve"><flowRegion
+         id="flowRegion3744"><rect
+          y="360.18204"
+          x="1510.0372"
+          height="15.300399"
+          width="18.362278"
+          id="rect3741" /></flowRegion><flowPara
+         style="line-height:1.25"
+         id="flowPara3756">{{MoneyIssuedByAnIncoming}}</flowPara></flowRoot>     </g>
      <g
        id="gOutgoing5Percent">
       <path
@@ -14404,18 +14456,16 @@
          transform="matrix(0.13276506,0,0,1,694.50106,15.275597)" />
       </g>
       <flowRoot
-        transform="translate(-708.51458,-1064.4933)"
+        transform="translate(-708.51458,-1049.1909)"
         id="FlowOutgoing5Percent"
         xml:space="preserve"
         style="line-height:0.01%"><flowRegion
          id="flowRegion10015"><rect
           y="360.18204"
           x="1510.0372"
-          height="40.092075"
-          width="34.23922"
+          height="20.080477"
+          width="33.291924"
           id="rect10017" /></flowRegion><flowPara
-         id="flowPara10019"
-         style="line-height:1.25">{{SpaceOccupiedByOutgoingPeople_1}} {{SpaceOccupiedByOutgoingPeople_2}} {{SpaceOccupiedByOutgoingPeople_3}}</flowPara><flowPara
          id="flowPara10021"
          style="line-height:1.25">61{{DecSep}}5 %</flowPara><flowPara
          id="flowPara10023"
@@ -14423,7 +14473,19 @@
          id="flowPara10025"
          style="line-height:1.25">23{{DecSep}}4 %</flowPara><flowPara
          id="flowPara10029"
-         style="line-height:1.25">14 %</flowPara></flowRoot>     </g>
+         style="line-height:1.25">14 %</flowPara></flowRoot>      <flowRoot
+        style="line-height:0.01%"
+        xml:space="preserve"
+        id="FlowOutgoingOccupied5Percent"
+        transform="translate(-708.51458,-1064.4933)"><flowRegion
+         id="flowRegion10016"><rect
+          id="rect3808"
+          width="33.410336"
+          height="14.988769"
+          x="1510.0372"
+          y="360.18204" /></flowRegion><flowPara
+         style="line-height:1.25"
+         id="flowPara3821">{{SpaceOccupiedByOutgoingPeople}}</flowPara></flowRoot>     </g>
     </g>
     <g
       transform="translate(0,30)"
@@ -14441,28 +14503,28 @@
         id="path6928"
         sodipodi:nodetypes="ccccc" />
       <flowRoot
-        transform="translate(-730.67696,-1059.3894)"
+        transform="translate(-730.20332,-1059.3894)"
         id="FlowRate10Percent"
         xml:space="preserve"
         style="line-height:0.01%"><flowRegion
          id="flowRegion10037"><rect
           y="355.01703"
           x="1494.6537"
-          height="15.998853"
-          width="16.561789"
+          height="14.933146"
+          width="15.496082"
           id="rect10039"
           style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
          id="flowPara10041"
          style="line-height:1.25">{{FlowRate}} 10% {{Mean}} 10 {{UDs}}</flowPara></flowRoot>      <flowRoot
-        transform="translate(-742.01501,-1049.9081)"
+        transform="translate(-745.19911,-1049.4345)"
         id="FlowYear10Percent"
         xml:space="preserve"
         style="line-height:0.01%"><flowRegion
          id="flowRegion10045"><rect
           y="360.18204"
           x="1510.0372"
-          height="30.727501"
-          width="27.508434"
+          height="20.544085"
+          width="15.548841"
           id="rect10047" /></flowRegion><flowPara
          id="flowPara10049"
          style="line-height:1.25">10 {{Years}}</flowPara><flowPara
@@ -14516,16 +14578,14 @@
       <flowRoot
         xml:space="preserve"
         id="FlowIngoing10Percent"
-        transform="translate(-728.30765,-1064.4933)"
+        transform="translate(-728.30765,-1049.1909)"
         style="line-height:0.01%"><flowRegion
          id="flowRegion10075"><rect
           id="rect10077"
-          width="20.612103"
-          height="35.430408"
+          width="18.243866"
+          height="20.036871"
           x="1510.0372"
           y="360.18204" /></flowRegion><flowPara
-         id="flowPara10079"
-         style="line-height:1.25">{{MoneyIssuedByAnIncoming_1}} {{MoneyIssuedByAnIncoming_2}} {{MoneyIssuedByAnIncoming_3}}</flowPara><flowPara
          id="flowPara10081"
          style="line-height:1.25">6{{DecSep}}1 {{UDs}}</flowPara><flowPara
          id="flowPara10083"
@@ -14533,7 +14593,19 @@
          id="flowPara10085"
          style="line-height:1.25">9{{DecSep}}4 {{UDs}}</flowPara><flowPara
          id="flowPara10089"
-         style="line-height:1.25">9{{DecSep}}8 {{UDs}}</flowPara></flowRoot>     </g>
+         style="line-height:1.25">9{{DecSep}}8 {{UDs}}</flowPara></flowRoot>      <flowRoot
+        style="line-height:0.01%"
+        transform="translate(-728.30765,-1064.4933)"
+        id="FlowIngoingIssued10Percent"
+        xml:space="preserve"><flowRegion
+         id="flowRegion3641"><rect
+          y="360.18204"
+          x="1510.0372"
+          height="14.70834"
+          width="18.362278"
+          id="rect3639" /></flowRegion><flowPara
+         style="line-height:1.25"
+         id="flowPara3654">{{MoneyIssuedByAnIncoming}}</flowPara></flowRoot>     </g>
      <g
        id="gOutgoing10Percent">
       <path
@@ -14576,18 +14648,16 @@
          transform="matrix(0.02426307,0,0,1,781.38876,15.275597)" />
       </g>
       <flowRoot
-        transform="translate(-708.51458,-1064.4933)"
+        transform="translate(-708.51458,-1049.3093)"
         id="FlowOutgoing10Percent"
         xml:space="preserve"
         style="line-height:0.01%"><flowRegion
          id="flowRegion10107"><rect
           y="360.18204"
           x="1510.0372"
-          height="40.092075"
-          width="34.23922"
+          height="19.962065"
+          width="34.120808"
           id="rect10109" /></flowRegion><flowPara
-         id="flowPara10111"
-         style="line-height:1.25">{{SpaceOccupiedByOutgoingPeople_1}} {{SpaceOccupiedByOutgoingPeople_2}} {{SpaceOccupiedByOutgoingPeople_3}}</flowPara><flowPara
          id="flowPara10113"
          style="line-height:1.25">38{{DecSep}}7 %</flowPara><flowPara
          id="flowPara10115"
@@ -14595,7 +14665,19 @@
          id="flowPara10117"
          style="line-height:1.25">6{{DecSep}}1 %</flowPara><flowPara
          id="flowPara10121"
-         style="line-height:1.25">2{{DecSep}}5 %</flowPara></flowRoot>     </g>
+         style="line-height:1.25">2{{DecSep}}5 %</flowPara></flowRoot>      <flowRoot
+        style="line-height:0.01%"
+        xml:space="preserve"
+        id="FlowOutgoingOccupied10Percent"
+        transform="translate(-708.51458,-1064.4933)"><flowRegion
+         id="flowRegion3708"><rect
+          id="rect3706"
+          width="34.002396"
+          height="14.870358"
+          x="1510.0372"
+          y="360.18204" /></flowRegion><flowPara
+         style="line-height:1.25"
+         id="flowPara3721">{{SpaceOccupiedByOutgoingPeople}}</flowPara></flowRoot>     </g>
     </g>
     <g
       id="g20PercentTable"
@@ -14620,21 +14702,21 @@
          id="flowRegion10129"><rect
           y="355.01703"
           x="1494.6537"
-          height="15.998853"
+          height="15.525206"
           width="16.561789"
           id="rect10131"
           style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
          id="flowPara10133"
          style="line-height:1.25">{{FlowRate}} 20% {{Mean}} 5 {{UDs}}</flowPara></flowRoot>      <flowRoot
-        transform="translate(-742.01501,-1049.9081)"
+        transform="translate(-746.13342,-1049.4345)"
         id="FlowYear20Percent"
         xml:space="preserve"
         style="line-height:0.01%"><flowRegion
          id="flowRegion10137"><rect
           y="360.18204"
           x="1510.0372"
-          height="30.727501"
-          width="27.508434"
+          height="20.425673"
+          width="15.904077"
           id="rect10139" /></flowRegion><flowPara
          id="flowPara10141"
          style="line-height:1.25">10 {{Years}}</flowPara><flowPara
@@ -14688,16 +14770,14 @@
       <flowRoot
         xml:space="preserve"
         id="FlowIngoing20Percent"
-        transform="translate(-728.30765,-1064.4933)"
+        transform="translate(-728.30765,-1049.3093)"
         style="line-height:0.01%"><flowRegion
          id="flowRegion10167"><rect
           id="rect10169"
-          width="20.612103"
-          height="35.430408"
+          width="18.243866"
+          height="20.155283"
           x="1510.0372"
           y="360.18204" /></flowRegion><flowPara
-         id="flowPara10171"
-         style="line-height:1.25">{{MoneyIssuedByAnIncoming_1}} {{MoneyIssuedByAnIncoming_2}} {{MoneyIssuedByAnIncoming_3}}</flowPara><flowPara
          id="flowPara10173"
          style="line-height:1.25">4{{DecSep}}19 {{UDs}}</flowPara><flowPara
          id="flowPara10175"
@@ -14705,7 +14785,19 @@
          id="flowPara10177"
          style="line-height:1.25">4{{DecSep}}98 {{UDs}}</flowPara><flowPara
          id="flowPara10181"
-         style="line-height:1.25">4{{DecSep}}997 {{UDs}}</flowPara></flowRoot>     </g>
+         style="line-height:1.25">4{{DecSep}}997 {{UDs}}</flowPara></flowRoot>      <flowRoot
+        style="line-height:0.01%"
+        transform="translate(-728.30765,-1064.4933)"
+        id="FlowIngoingIssued20Percent"
+        xml:space="preserve"><flowRegion
+         id="flowRegion3778"><rect
+          y="360.18204"
+          x="1510.0372"
+          height="15.181987"
+          width="18.717514"
+          id="rect3776" /></flowRegion><flowPara
+         style="line-height:1.25"
+         id="flowPara3788">{{MoneyIssuedByAnIncoming}}</flowPara></flowRoot>     </g>
      <g
        id="gOutgoing20Percent">
       <path
@@ -14748,18 +14840,16 @@
          transform="matrix(0.00352013,0,0,1,798.0281,15.275597)" />
       </g>
       <flowRoot
-        transform="translate(-708.51458,-1064.4933)"
+        transform="translate(-704.51458,-1049.1909)"
         id="FlowOutgoing20Percent"
         xml:space="preserve"
         style="line-height:0.01%"><flowRegion
          id="flowRegion10199"><rect
           y="360.18204"
           x="1510.0372"
-          height="40.092075"
-          width="34.23922"
+          height="19.962065"
+          width="33.410336"
           id="rect10201" /></flowRegion><flowPara
-         id="flowPara10203"
-         style="line-height:1.25">{{SpaceOccupiedByOutgoingPeople_1}} {{SpaceOccupiedByOutgoingPeople_2}} {{SpaceOccupiedByOutgoingPeople_3}}</flowPara><flowPara
          id="flowPara10205"
          style="line-height:1.25">16{{DecSep}}4 %</flowPara><flowPara
          id="flowPara10207"
@@ -14767,7 +14857,19 @@
          id="flowPara10209"
          style="line-height:1.25">0{{DecSep}}73 %</flowPara><flowPara
          id="flowPara10213"
-         style="line-height:1.25">0{{DecSep}}37 %</flowPara></flowRoot>     </g>
+         style="line-height:1.25">0{{DecSep}}37 %</flowPara></flowRoot>      <flowRoot
+        style="line-height:0.01%"
+        xml:space="preserve"
+        id="FlowOutgoingOccupied20Percent"
+        transform="translate(-708.51458,-1064.4933)"><flowRegion
+         id="flowRegion3843"><rect
+          id="rect3841"
+          width="33.528748"
+          height="14.633533"
+          x="1510.0372"
+          y="360.18204" /></flowRegion><flowPara
+         style="line-height:1.25"
+         id="flowPara3853">{{SpaceOccupiedByOutgoingPeople}}</flowPara></flowRoot>     </g>
     </g>
    </g>
    <g
