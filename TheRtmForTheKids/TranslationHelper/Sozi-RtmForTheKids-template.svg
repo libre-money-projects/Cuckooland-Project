@@ -2643,7 +2643,7 @@
         xlink:href="#CircleIntMinute2"
         startOffset="50%"
         id="textPath4875"><tspan
-  id="tspan7751">{{gTitleMinute2_1}}</tspan></textPath></text>
+  id="tspan7751">{{split(gTitleMinute2)[0]}}</tspan></textPath></text>
      <text
        id="CurvedTextExtMinute2"
        xml:space="preserve"
@@ -2651,7 +2651,7 @@
         xlink:href="#CircleExtMinute2"
         startOffset="50%"
         id="textPath4883"><tspan
-  id="tspan7397">{{gTitleMinute2_2}}</tspan></textPath></text>
+  id="tspan7397">{{split(gTitleMinute2)[1]}}</tspan></textPath></text>
     </g>
    </g>
    <a
@@ -3424,9 +3424,9 @@
           width="55.461449"
           id="rect7273" /></flowRegion><flowPara
          id="flowPara7275"
-         style="line-height:1.25">{{FlowHotVicious1_1}}</flowPara><flowPara
+         style="line-height:1.25">{{split(FlowHotVicious1)[0]}}</flowPara><flowPara
          id="flowPara7293"
-         style="line-height:1.25">{{FlowHotVicious1_2}}</flowPara></flowRoot>     </g>
+         style="line-height:1.25">{{split(FlowHotVicious1)[1]}}</flowPara></flowRoot>     </g>
      <g
        transform="translate(0,20)"
        id="g7297">
@@ -3450,9 +3450,9 @@
           x="3566.8757"
           y="2178.136" /></flowRegion><flowPara
          id="flowPara7307"
-         style="line-height:1.25">{{FlowHotVicious2_1}}</flowPara><flowPara
+         style="line-height:1.25">{{split(FlowHotVicious2)[0]}}</flowPara><flowPara
          id="flowPara7309"
-         style="line-height:1.25">{{FlowHotVicious2_2}}</flowPara></flowRoot>     </g>
+         style="line-height:1.25">{{split(FlowHotVicious2)[1]}}</flowPara></flowRoot>     </g>
      <path
        style="fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:#502d16;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
        d="m 3571.2784,-499.30967 8.2032,-0.2069 -2.9929,-2.1196 c 0.2884,-0.4078 0.5664,-0.8302 0.8311,-1.2687 l 0,0 c 0.9437,-1.5204 1.6048,-3.3888 1.6454,-5.4814 -0.055,-2.0874 -0.7259,-3.9465 -1.673,-5.4578 -1.2488,-2.0501 -2.7868,-3.7446 -4.3093,-5.2462 l -3.4298,3.4298 c 1.4061,1.4271 2.7004,2.8092 3.5784,4.3093 0.5881,1.0519 1.0287,2.0858 0.9834,2.9824 l 0,0 c 0.052,0.897 -0.3828,1.9345 -0.9663,2.9885 l 0,0 c -0.1855,0.3203 -0.3901,0.6351 -0.6107,0.9461 l -2.969,-2.1027 z"
@@ -3488,9 +3488,9 @@
           x="3566.8757"
           y="2178.136" /></flowRegion><flowPara
          id="flowPara5164"
-         style="line-height:1.25">{{FlowColdVicious1_1}}</flowPara><flowPara
+         style="line-height:1.25">{{split(FlowColdVicious1)[0]}}</flowPara><flowPara
          id="flowPara5166"
-         style="line-height:1.25">{{FlowColdVicious1_2}}</flowPara></flowRoot>     </g>
+         style="line-height:1.25">{{split(FlowColdVicious1)[1]}}</flowPara></flowRoot>     </g>
      <g
        id="g5168"
        transform="translate(0,18)">
@@ -3514,9 +3514,9 @@
           width="55.461449"
           id="rect5176" /></flowRegion><flowPara
          id="flowPara5178"
-         style="line-height:1.25">{{FlowColdVicious2_1}}</flowPara><flowPara
+         style="line-height:1.25">{{split(FlowColdVicious2)[0]}}</flowPara><flowPara
          id="flowPara5180"
-         style="line-height:1.25">{{FlowColdVicious2_2}}</flowPara></flowRoot>     </g>
+         style="line-height:1.25">{{split(FlowColdVicious2)[1]}}</flowPara></flowRoot>     </g>
      <path
        id="path5182"
        d="m 3571.43,-497.43193 8.2032,-0.2069 -2.9929,-2.1196 c 0.2884,-0.4078 0.5664,-0.8302 0.8311,-1.2687 l 0,0 c 0.9437,-1.5204 1.6048,-3.3888 1.6454,-5.4814 -0.055,-2.0874 -0.7259,-3.9465 -1.673,-5.4578 -1.2488,-2.0501 -2.7868,-3.7446 -4.3093,-5.2462 l -3.4298,3.4298 c 1.4061,1.4271 2.7004,2.8092 3.5784,4.3093 0.5881,1.0519 1.0287,2.0858 0.9834,2.9824 l 0,0 c 0.052,0.897 -0.3828,1.9345 -0.9663,2.9885 l 0,0 c -0.1855,0.3203 -0.3901,0.6351 -0.6107,0.9461 l -2.969,-2.1027 z"
@@ -3747,7 +3747,7 @@
          style="line-height:0%"><tspan
           id="tspan10298"
           x="3619.5364"
-          y="-66.954361">{{Less10_1}}</tspan></text>
+          y="-66.954361">{{split(Less10)[0]}}</tspan></text>
        <text
          id="text10302"
          y="-62.954361"
@@ -3756,7 +3756,7 @@
          style="line-height:0%"><tspan
           y="-62.954361"
           x="3619.5364"
-          id="tspan10304">{{Less10_2}}</tspan></text>
+          id="tspan10304">{{split(Less10)[1]}}</tspan></text>
       </g>
      </g>
     </g>
@@ -4169,7 +4169,7 @@
          style="line-height:0%"><tspan
           y="-65.882431"
           x="3619.5364"
-          id="tspan10446">{{More10_1}}</tspan></text>
+          id="tspan10446">{{split(More10)[0]}}</tspan></text>
        <text
          xml:space="preserve"
          x="3619.5364"
@@ -4178,7 +4178,7 @@
          style="line-height:0%"><tspan
           id="tspan10450"
           x="3619.5364"
-          y="-61.882431">{{More10_2}}</tspan></text>
+          y="-61.882431">{{split(More10)[1]}}</tspan></text>
       </g>
      </g>
     </g>
@@ -5282,7 +5282,7 @@
         xlink:href="#CircleIntMinute4"
         startOffset="50%"
         id="textPath4894"><tspan
-  id="tspan7640">{{gTitleMinute4_1}}</tspan></textPath></text>
+  id="tspan7640">{{split(gTitleMinute4)[0]}}</tspan></textPath></text>
      <text
        xml:space="preserve"
        id="CurvedTextExtMinute4"
@@ -5290,7 +5290,7 @@
         xlink:href="#CircleExtMinute4"
         startOffset="50%"
         id="textPath4904"><tspan
-  id="tspan7647">{{gTitleMinute4_2}}</tspan></textPath></text>
+  id="tspan7647">{{split(gTitleMinute4)[1]}}</tspan></textPath></text>
     </g>
    </g>
    <a
@@ -5795,15 +5795,15 @@
         y="395.94012"
         x="3496.1106"
         id="tspan10107"
-        sodipodi:role="line">{{HereWeMarkOutOf_1}}</tspan><tspan
+        sodipodi:role="line">{{split(HereWeMarkOutOf)[0]}}</tspan><tspan
         id="tspan10109"
         y="400.94012"
         x="3496.1106"
-        sodipodi:role="line">{{HereWeMarkOutOf_2}}</tspan><tspan
+        sodipodi:role="line">{{split(HereWeMarkOutOf)[1]}}</tspan><tspan
         id="tspan10111"
         y="405.94012"
         x="3495.5872"
-        sodipodi:role="line">{{HereWeMarkOutOf_3}} 12</tspan></text>
+        sodipodi:role="line">{{split(HereWeMarkOutOf)[2]}} 12</tspan></text>
     </g>
     <g
       transform="translate(-34.612553,-281.86333)"
@@ -5827,15 +5827,15 @@
         sodipodi:role="line"
         id="tspan10134"
         x="3496.1106"
-        y="395.94012">{{HereWeMarkOutOf_1}}</tspan><tspan
+        y="395.94012">{{split(HereWeMarkOutOf)[0]}}</tspan><tspan
         sodipodi:role="line"
         x="3496.1106"
         y="400.94012"
-        id="tspan10136">{{HereWeMarkOutOf_2}}</tspan><tspan
+        id="tspan10136">{{split(HereWeMarkOutOf)[1]}}</tspan><tspan
         sodipodi:role="line"
         x="3495.5872"
         y="405.94012"
-        id="tspan10138">{{HereWeMarkOutOf_3}} 10</tspan></text>
+        id="tspan10138">{{split(HereWeMarkOutOf)[2]}} 10</tspan></text>
     </g>
    </g>
    <g
@@ -10149,7 +10149,7 @@
        style="line-height:0%"><textPath
         xlink:href="#CircleIntMinute8"
         startOffset="50%"
-        id="textPath5011-3">{{gTitleMinute8_1}}<tspan
+        id="textPath5011-3">{{split(gTitleMinute8)[0]}}<tspan
   id="tspan7654-1" /></textPath></text>
      <text
        xml:space="preserve"
@@ -10158,7 +10158,7 @@
         xlink:href="#CircleExtMinute8"
         startOffset="50%"
         id="textPath5019-3"><tspan
-  id="tspan3293-4">{{gTitleMinute8_2}}</tspan></textPath></text>
+  id="tspan3293-4">{{split(gTitleMinute8)[1]}}</tspan></textPath></text>
     </g>
    </g>
    <a
@@ -11873,7 +11873,7 @@
        style="line-height:0%"><textPath
         xlink:href="#CircleIntMinute9"
         startOffset="50%"
-        id="textPath5011-93">{{gTitleMinute9_1}}<tspan
+        id="textPath5011-93">{{split(gTitleMinute9)[0]}}<tspan
   id="tspan7654-19" /></textPath></text>
      <text
        xml:space="preserve"
@@ -11882,7 +11882,7 @@
         xlink:href="#CircleExtMinute9"
         startOffset="50%"
         id="textPath5019-5"><tspan
-  id="tspan3293-0">{{gTitleMinute9_2}}</tspan></textPath></text>
+  id="tspan3293-0">{{split(gTitleMinute9)[1]}}</tspan></textPath></text>
     </g>
    </g>
    <a
@@ -12900,7 +12900,7 @@
           x="1510.0372"
           y="360.18204" /></flowRegion><flowPara
          style="line-height:1.25"
-         id="flowPara3530">{{MoneyReceivedByAnIndividual}}</flowPara><flowPara
+         id="flowPara3530">{{split(MoneyReceivedByAnIndividual).join(' ')}}</flowPara><flowPara
          id="flowPara3542" /></flowRoot>     </g>
     </g>
    </g>
@@ -13199,9 +13199,9 @@
           x="3566.8757"
           y="2178.136" /></flowRegion><flowPara
          id="flowPara5210"
-         style="line-height:1.25">{{FlowVirtuous1_1}}</flowPara><flowPara
+         style="line-height:1.25">{{split(FlowVirtuous1)[0]}}</flowPara><flowPara
          id="flowPara5212"
-         style="line-height:1.25">{{FlowVirtuous1_2}}</flowPara></flowRoot>     </g>
+         style="line-height:1.25">{{split(FlowVirtuous1)[1]}}</flowPara></flowRoot>     </g>
      <g
        id="g5214"
        transform="translate(0,18)">
@@ -13221,9 +13221,9 @@
           width="62.174992"
           id="rect5222" /></flowRegion><flowPara
          id="flowPara5224"
-         style="line-height:1.25">{{FlowVirtuous2_1}}</flowPara><flowPara
+         style="line-height:1.25">{{split(FlowVirtuous2)[0]}}</flowPara><flowPara
          id="flowPara5226"
-         style="line-height:1.25">{{FlowVirtuous2_2}}</flowPara></flowRoot>     </g>
+         style="line-height:1.25">{{split(FlowVirtuous2)[1]}}</flowPara></flowRoot>     </g>
      <path
        id="path5228"
        d="m 3570.4912,-497.73511 8.2032,-0.2069 -2.9929,-2.1196 c 0.2884,-0.4078 0.5664,-0.8302 0.8311,-1.2687 l 0,0 c 0.9437,-1.5204 1.6048,-3.3888 1.6454,-5.4814 -0.055,-2.0874 -0.7259,-3.9465 -1.673,-5.4578 -1.2488,-2.0501 -2.7868,-3.7446 -4.3093,-5.2462 l -3.4298,3.4298 c 1.4061,1.4271 2.7004,2.8092 3.5784,4.3093 0.5881,1.0519 1.0287,2.0858 0.9834,2.9824 l 0,0 c 0.052,0.897 -0.3828,1.9345 -0.9663,2.9885 l 0,0 c -0.1855,0.3203 -0.3901,0.6351 -0.6107,0.9461 l -2.969,-2.1027 z"
@@ -13371,7 +13371,7 @@
           width="34.180016"
           id="rect3568" /></flowRegion><flowPara
          style="line-height:1.25"
-         id="flowPara3572">{{SpaceOccupiedAllTheEuros}}</flowPara><flowPara
+         id="flowPara3572">{{split(SpaceOccupiedAllTheEuros).join(' ')}}</flowPara><flowPara
          id="flowPara3584" /></flowRoot>     </g>
     </g>
    </g>
@@ -13397,7 +13397,7 @@
        style="line-height:0%"><textPath
         xlink:href="#CircleIntMinute10"
         startOffset="50%"
-        id="textPath5011-6">{{gTitleMinute10_1}}<tspan
+        id="textPath5011-6">{{split(gTitleMinute10)[0]}}<tspan
   id="tspan7654-50" /></textPath></text>
      <text
        xml:space="preserve"
@@ -13406,7 +13406,7 @@
         xlink:href="#CircleExtMinute10"
         startOffset="50%"
         id="textPath5019-0"><tspan
-  id="tspan3293-06">{{gTitleMinute10_2}}</tspan></textPath></text>
+  id="tspan3293-06">{{split(gTitleMinute10)[1]}}</tspan></textPath></text>
     </g>
    </g>
    <a
@@ -14221,7 +14221,7 @@
           x="1510.0372"
           y="360.18204" /></flowRegion><flowPara
          style="line-height:1.25"
-         id="flowPara3622">{{MoneyIssuedByAnIncoming}}</flowPara></flowRoot>     </g>
+         id="flowPara3622">{{split(MoneyIssuedByAnIncoming).join(' ')}}</flowPara></flowRoot>     </g>
      <g
        id="gOutgoing1Percent">
       <path
@@ -14413,7 +14413,7 @@
           width="18.362278"
           id="rect3741" /></flowRegion><flowPara
          style="line-height:1.25"
-         id="flowPara3756">{{MoneyIssuedByAnIncoming}}</flowPara></flowRoot>     </g>
+         id="flowPara3756">{{split(MoneyIssuedByAnIncoming).join(' ')}}</flowPara></flowRoot>     </g>
      <g
        id="gOutgoing5Percent">
       <path
@@ -14605,7 +14605,7 @@
           width="18.362278"
           id="rect3639" /></flowRegion><flowPara
          style="line-height:1.25"
-         id="flowPara3654">{{MoneyIssuedByAnIncoming}}</flowPara></flowRoot>     </g>
+         id="flowPara3654">{{split(MoneyIssuedByAnIncoming).join(' ')}}</flowPara></flowRoot>     </g>
      <g
        id="gOutgoing10Percent">
       <path
@@ -14797,7 +14797,7 @@
           width="18.717514"
           id="rect3776" /></flowRegion><flowPara
          style="line-height:1.25"
-         id="flowPara3788">{{MoneyIssuedByAnIncoming}}</flowPara></flowRoot>     </g>
+         id="flowPara3788">{{split(MoneyIssuedByAnIncoming).join(' ')}}</flowPara></flowRoot>     </g>
      <g
        id="gOutgoing20Percent">
       <path
@@ -14894,14 +14894,14 @@
        style="line-height:0%"><textPath
         xlink:href="#CircleIntMinute11"
         startOffset="50%"
-        id="textPath5011-61">{{gTitleMinute11_1}}</textPath></text>
+        id="textPath5011-61">{{split(gTitleMinute11)[0]}}</textPath></text>
      <text
        id="CurvedTextExtMinute11"
        xml:space="preserve"
        style="line-height:0%"><textPath
         id="textPath6229"
         startOffset="50%"
-        xlink:href="#CircleExtMinute11">{{gTitleMinute11_2}}</textPath></text>
+        xlink:href="#CircleExtMinute11">{{split(gTitleMinute11)[1]}}</textPath></text>
     </g>
    </g>
    <a
@@ -15918,14 +15918,14 @@
        xlink:href="#CircleIntText"
        startOffset="50%"
        id="textPath4871"><tspan
-  id="tspan7339">{{gCenterTitle_1}}</tspan></textPath></text>
+  id="tspan7339">{{split(gCenterTitle)[0]}}</tspan></textPath></text>
     <text
       id="CurvedTextChildrenCircle"
       xml:space="preserve"
       style="line-height:0%"><textPath
        xlink:href="#CircleOutText"
        startOffset="50%"
-       id="textPath5645">{{gCenterTitle_2}}</textPath></text>
+       id="textPath5645">{{split(gCenterTitle)[1]}}</textPath></text>
    </g>
    <path
      transform="matrix(0,1,-1,0,3597.1719,-2541.5328)"
@@ -19272,7 +19272,7 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
    id="{{FlowerId}}1-Recap" />
  <ns1:frame
    ns1:refid="FrameMinute2"
-   ns1:title="{{Flower}} 2 - {{gTitleMinute2_1}} {{gTitleMinute2_2}}"
+   ns1:title="{{Flower}} 2 - {{split(gTitleMinute2).join(' ')}}"
    ns1:sequence="10"
    ns1:hide="false"
    ns1:clip="true"
@@ -19496,7 +19496,7 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
    id="{{FlowerId}}3-Recap" />
  <ns1:frame
    ns1:refid="FrameMinute4"
-   ns1:title="{{Flower}} 4 - {{gTitleMinute4_1}} {{gTitleMinute4_2}}"
+   ns1:title="{{Flower}} 4 - {{split(gTitleMinute4).join(' ')}}"
    ns1:sequence="26"
    ns1:hide="false"
    ns1:clip="true"
@@ -19944,7 +19944,7 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
    id="{{FlowerId}}7-Recap" />
  <ns1:frame
    ns1:refid="FrameMinute8"
-   ns1:title="{{Flower}} 8 - {{gTitleMinute8_1}} {{gTitleMinute8_2}}"
+   ns1:title="{{Flower}} 8 - {{split(gTitleMinute8).join(' ')}}"
    ns1:sequence="58"
    ns1:hide="false"
    ns1:clip="true"
@@ -20056,7 +20056,7 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
    id="{{FlowerId}}8-Recap" />
  <ns1:frame
    ns1:refid="FrameMinute9"
-   ns1:title="{{Flower}} 9 - {{gTitleMinute9_1}} {{gTitleMinute9_2}}"
+   ns1:title="{{Flower}} 9 - {{split(gTitleMinute9).join(' ')}}"
    ns1:sequence="66"
    ns1:hide="false"
    ns1:clip="true"
@@ -20168,7 +20168,7 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
    id="{{FlowerId}}9-Recap" />
  <ns1:frame
    ns1:refid="FrameMinute10"
-   ns1:title="{{Flower}} 10 - {{gTitleMinute10_1}} {{gTitleMinute10_2}}"
+   ns1:title="{{Flower}} 10 - {{split(gTitleMinute10).join(' ')}}"
    ns1:sequence="74"
    ns1:hide="false"
    ns1:clip="true"
@@ -20280,7 +20280,7 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
    id="{{FlowerId}}10-Recap" />
  <ns1:frame
    ns1:refid="FrameMinute11"
-   ns1:title="{{Flower}} 11 - {{gTitleMinute11_1}} {{gTitleMinute11_2}}"
+   ns1:title="{{Flower}} 11 - {{split(gTitleMinute11).join(' ')}}"
    ns1:sequence="82"
    ns1:hide="false"
    ns1:clip="true"

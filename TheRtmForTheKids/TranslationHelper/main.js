@@ -1,7 +1,8 @@
 const nunjucks = require('nunjucks');
 const fs = require('fs');
+const util = require('util');
 
-nunjucks.configure({ autoescape: true });
+nunjucks.configure({ autoescape: true }).addGlobal('split', split);
 
 const versions = {
     en_version: require("./en-version.json"),
@@ -25,4 +26,9 @@ for (let [key, context] of Object.entries(versions)) {
             console.log(`'${dest}' saved!`);
         });
     }
+}
+
+function split(message) {
+    const arrayOfStrings = message.split('|');
+    return arrayOfStrings.map(s=>s.trim());
 }

@@ -1,8 +1,7 @@
 {
     "TheRtmForTheKids": "La TRM pels nens",
 
-    "gCenterTitle_1": "La Teoria Relativa de la Moneda",
-    "gCenterTitle_2": "amb Elise i la seva amiga la fada",
+    "gCenterTitle": "La Teoria Relativa de la Moneda | amb Elise i la seva amiga la fada",
     
     "BackCover_Description": "Per a Elise, el món adult és absurd. No pot tenir discussions lògiques amb ells. Durant hores, s’escapa amb la seva amiga de fades. Junts buscaran entendre aquesta cosa estranya que condueix el món i que s’anomena diners. Finalment descobriran Stéphane Laborde i la Teoria Relativa de la Moneda…",
     "TwelveYearsAndUp": "A partir de 12 anys",
@@ -42,8 +41,7 @@
     "FlowFee1_6_1": "Vosaltres els humans sou graciosos! «Diners! Diners!» Parleu sense parar d’un tema del qual no sabeu res: la moneda. Però quan us adoneu que destrueix la vostra democràcia i, fins i tot, la vostra existència, ho accepteu, com si fos natural i inevitable.",
     "FlowElsie1_6_1": "No és veritat! Són els adults els que accepten les coses i sempre responen «És així!» Jo vull conèixer millor la moneda.",
 
-    "gTitleMinute2_1": "La reserva mitjana de moneda",
-    "gTitleMinute2_2": "com a referència",
+    "gTitleMinute2": "La reserva mitjana de moneda | com a referència",
     
     "FlowElsie2_1_1": "Vaig llegir que si reuníssim tots els euros del món, tindríem 10 milions de milions.",
     "FlowFee2_1_1": "Sí, això es diu massa monetària.",
@@ -72,14 +70,10 @@
     "gBlueWheelText": "    Per pagar interessos, has de contractar un préstec.",
     "FlowElsie3_2_1": "Però llavors, els rics són cada cop més rics i els pobres cada cop més pobres!",
     "FlowFee3_2_1": "Anomenem això un cercle viciós.  No es un sistema que intenta donar a tothom un poder igual.",
-    "FlowHotVicious1_1": "Més fàcilment tinc diners, ",
-    "FlowHotVicious1_2": "més influència tinc.",
-    "FlowHotVicious2_1": "Més tinc influència, ",
-    "FlowHotVicious2_2": "més fàcilment tinc diners.",
-    "FlowColdVicious1_1": "Menys tinc influència, ",
-    "FlowColdVicious1_2": "menys fàcilment tinc diners.",
-    "FlowColdVicious2_1": "Menys fàcilment tinc diners, ",
-    "FlowColdVicious2_2": "menys influència tinc.",
+    "FlowHotVicious1": "Més fàcilment tinc diners,| més influència tinc.",
+    "FlowHotVicious2": "Més tinc influència,| més fàcilment tinc diners.",
+    "FlowColdVicious1": "Menys tinc influència,| menys fàcilment tinc diners.",
+    "FlowColdVicious2": "Menys fàcilment tinc diners,| menys influència tinc.",
     "FlowElsie3_3_1": "M’imagino a l’escola: si tenim una mitjana per sota de 10, el mes següent trindriem un 0 de càstig…",
     "FlowFee3_3_1": "Òbviament, les probabilitats de superar la mitjana són menors amb aquest càstig.",
     "Month": "Mes",
@@ -87,14 +81,12 @@
     "Total": "Total",
     "Colon": ":",
     "Mean": "Mitjana",
-    "Less10_1": "per sota de 10",
-    "Less10_2": "llavors un càstig!",
+    "Less10": "per sota de 10 | llavors un càstig!",
     "Punishment": "Càstig",
     "WithoutPunishment": "mentre que sense càstig…",
     "FlowElsie3_4_1": "… mentre que els que tenen una mitjana de més de 10 rebrien una recompensa de 20 sobre 20!",
     "FlowFee3_4_1": "Amb aquesta recompensa, el risc de baixar per sota de la mitjana és menor.",
-    "More10_1": "per sobre de 10",
-    "More10_2": "llavors una recompensa!",
+    "More10": "per sobre de 10 | llavors una recompensa!",
     "Reward": "Recompensa",
     "WithoutReward": "mentre que sense recompensa…",
     "FlowFee3_5_1": "De fet, amb aquest sistema, sembla que es recomana als rics que no gastin massa, a mantenir el que s’anomena capital, per tal d’aprofitar els diners que guanyaran prestant-lo.",
@@ -103,8 +95,7 @@
     "FlowElsie3_6_1": "Sí, l’objectiu de la moneda és que s’intercanviï! Aquesta és una gran contradicció, em pregunto és pot solucionar aquest problema?",
     "FlowFee3_6_1": "Cal pensar-hi! Perquè rics com pobres queden atrapats en aquests cercles viciosos: estan condemnats a una competència cada cop més violenta i destructiva…",
 
-    "gTitleMinute4_1": "Una renda",
-    "gTitleMinute4_2": "com a referencia",
+    "gTitleMinute4": "Una renda | com a referencia",
     
     "FlowFee4_1_1": "I aquest llibre tan bonic que tens, quant ha costat?",
     "FlowElsie4_1_1": "Era car! 30 euros! 3 setmanes de diners de butxaca!",
@@ -134,9 +125,7 @@
     "FlowFee5_5_1": "En segon lloc, aquestes creacions són realitzades per poques persones i només són conegudes per unes quantes altres.",
     "FlowElsie5_5_1": "Alguns puntuen sobre 10 mentre que altres puntuen sobre 12, i no ho sabem? Per tant, una nota pot semblar enorme, mentre no ho sigui!",
     "FlowFee5_5_2": "Sí. I és així que els preus poden semblar molt elevats, mentre no ho són tant. Estem parlant de bombolles… i asimetries espacials.",
-    "HereWeMarkOutOf_1": "Aquí, ",
-    "HereWeMarkOutOf_2": "les sotes ",
-    "HereWeMarkOutOf_3": "son sobre ",
+    "HereWeMarkOutOf": "Aquí,| les sotes | son sobre | 10",
     "FlowElsie5_6_1": "És astut! Ja no hi ha necessitat de copiar al seu veí per enganyar!",
     "FlowFee5_6_1": "Faria gràcia si les conseqüències no fossin tan dramàtiques. Ja què una moneda hauria de ser una unitat de compte fiable.",
     "FlowElsie5_6_2": "És veritat, com podem acceptar mesurar alguna cosa amb ulleres tan distorsionadores!",
@@ -176,8 +165,7 @@
     "FlowElsie7_6_1": "Sí! I això és just fer!",
     "FlowFee7_6_1": "Aquest ingrés al qual tothom té dret, té un nom, es diu DU. La paraula DU és en realitat l’abreviatura d’un nom més complicat: Dividend Universal.",
 
-    "gTitleMinute8_1": "Creixement",
-    "gTitleMinute8_2": "exponencial",
+    "gTitleMinute8": "Creixement | exponencial",
 
     "FlowElsie8_1_1": "Amb un 10 per cent és fàcil calcular, és una divisió per 10, només hem de canviar la coma! Per 100 euros, en creem 10; una setmana després, per 110, en creem 11; dues setmanes després, per 121, creem 12.1.",
     "FlowFee8_1_1": "Mira aquesta banda elàstica: si s’amplia un 10% cada setmana, la seva llargària gairebé s’haurà duplicat la setena setmana. Es diu que aquest tipus de creixement ràpid és exponencial.",
@@ -203,8 +191,7 @@
     "FlowFee8_6_1": "Si és així, almenys si el nombre de persones no canvia! Es diu que, amb aquesta referència, l’oferta de diners és estable. El seu creixement és zero, del tot no és exponencial.",
     "BillionDUs": "mil milions de DU",
 
-    "gTitleMinute9_1": "El DU",
-    "gTitleMinute9_2": "com a referencia",
+    "gTitleMinute9": "El DU | com a referencia",
 
     "FlowElsie9_1_1": "Comptant en DU, hem utilitzat un nova referència, no?",
     "FlowFee9_1_1": "Sí. També podríem utilitzar el teu llibre com a referència. Quant valdria el DU en nombre de llibres?",
@@ -228,8 +215,7 @@
     "Years": "anys",
     "Sister": "Germana",
 
-    "gTitleMinute10_1": "Atracció",
-    "gTitleMinute10_2": "cap a la mitjana",
+    "gTitleMinute10": "Atracció | cap a la mitjana",
 
     "FlowFee10_1_1": "Vegem tres casos. En primer lloc, la persona qui té la mitjana de 30 mil euros, és a dir 10 DU, continua tenint aquesta mitjana de 10 DU, o 33 mil euros després de compartir la nova moneda.",
     "FlowElsie10_1_1": "Si, com amb l’elàstic: s’allarga de manera que la mitjana de 10 DU de l’any 2 correspon a 10 + 1 DU de l’any 1.",
@@ -245,7 +231,7 @@
     "FlowElsie10_3_2": "No aconsegueix la mitjana de 10 DU, però es molt a prop!",
     "UdOfYear": "DU de l’any",
     "FlowRate": "Pctge",
-    "MoneyReceivedByAnIndividual": "Moneda rebuda per una persona",
+    "MoneyReceivedByAnIndividual": "Moneda | rebuda per | una persona",
     "FlowFee10_4_1": "En tercer lloc, el que tenia més que la reserva mitjana…",
     "FlowElsie10_4_1": "És una mica semblant: es queda per sobre, però s’acosta més. Aquesta vegada, és com amb la primera germana.",
     "FlowFee10_5_1": "Observa el cas d’una persona que tindria tota l’oferta de diners, i els altres res…",
@@ -253,14 +239,11 @@
     "FlowFee10_6_1": "Petita, però com? Si ho calculem, trobem que la seva reserva no representarà més del 39% de la massa monetària a l’any 10; un 15% a l’any 20; un 6% a l’any 30; i un 2,5% a l’any 40…",
     "FlowElsie10_6_1": "El Robin Hood serà feliç! Amb el DU, si la meva reserva  està per sobre de la mitjana, sembla que disminueix, mentre que si està per sota, sembla augmentar!",
     "FlowFee10_6_2": "Sí, aquesta vegada es pot parlar d’un cercle virtuós.",
-    "FlowVirtuous1_1": "Si tinc poca influència, ",
-    "FlowVirtuous1_2": "el DU augmenta la meva influència.",
-    "FlowVirtuous2_1": "Si tinc molta influència, ",
-    "FlowVirtuous2_2": "el DU disminueix la meva influència.",
-    "SpaceOccupiedAllTheEuros": "Lloc ocupat per la reserva d’aquell que tingui tots els euros",
+    "FlowVirtuous1": "Si tinc poca influència,| el DU augmenta la meva influència.",
+    "FlowVirtuous2": "Si tinc molta influència,| el DU disminueix la meva influència.",
+    "SpaceOccupiedAllTheEuros": "Lloc ocupat per | la reserva d’aquell que | tingui tots els euros",
 
-    "gTitleMinute11_1": "Percentatge del ",
-    "gTitleMinute11_2": "Dividend Universal",
+    "gTitleMinute11": "Percentatge del | Dividend Universal",
 
     "FlowElsie11_1_1": "Amb aquest augment permanent, una reserva d’euros que sembla fantàstic un dia ja no ho és anys després. Sembla un truc per donar-li una vida limitada.",
     "FlowFee11_1_1": "Sí, limitada i ben definida! Els humans somien amb una moneda eterna, aixo els tranquil·litza. Però és una bogeria! Aquí volem una moneda semblant a l’home, i que viu al mateix ritme. I és el percentatge del DU que estableix aquest ritme.",
@@ -281,8 +264,8 @@
     "FlowElsie11_6_1": "Podríem tornar a fer els càlculs amb altres valors del percentatge, per veure què dóna amb 1%, 5% o 20%?",
     "FlowFee11_6_1": "Mira, els resultats es troben en aquestes taules: podem veure que el 10% és el valor que més respecta la simetria que vam escollir.",
     "FlowElsie11_6_2": "Millor, 10 es molt còmode!",
-    "MoneyIssuedByAnIncoming": "Moneda creada pels un entrant",
-    "SpaceOccupiedByOutgoingPeople": "Lloc ocupat per la massa monetària dels deixants",
+    "MoneyIssuedByAnIncoming": "Moneda | creada pels | un entrant",
+    "SpaceOccupiedByOutgoingPeople": "Lloc ocupat per | la massa monetària | dels deixants",
 
     "gTitleMinute12": "Moneda lliure",
 

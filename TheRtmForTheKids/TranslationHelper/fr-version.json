@@ -1,8 +1,7 @@
 {
     "TheRtmForTheKids": "La TRM pour les enfants",
 
-    "gCenterTitle_1": "La Théorie Relative de la Monnaie",
-    "gCenterTitle_2": "avec Élise et son amie la fée",
+    "gCenterTitle": "La Théorie Relative de la Monnaie | avec Élise et son amie la fée",
     
     "BackCover_Description": "Pour Élise, le monde des adultes est absurde. Elle n’arrive pas à avoir de discussions logiques avec eux. Alors des heures durant, elle s’évade avec son amie la fée. Ensemble, elles vont chercher à comprendre cette chose étrange qui dirige le monde et que l’on appelle l’argent. Elles finiront par découvrir Stéphane Laborde et sa Théorie Relative de la Monnaie…",
     "TwelveYearsAndUp": "À partir de 12 ans",
@@ -42,8 +41,7 @@
     "FlowFee1_6_1": "Vous, les humains, vous êtes drôles ! « L’argent ! L’argent ! » Vous parlez sans arrêt d’un sujet dont vous ne connaissez rien : la monnaie. Mais quand vous sentez qu’elle détruit votre démocratie, et même votre existence, vous l’acceptez, comme si c’était naturel et inévitable.",
     "FlowElsie1_6_1": "C’est faux ! Ce sont les adultes qui acceptent les choses et répondent toujours « C’est comme ça ! » Moi, je vais chercher à mieux connaître la monnaie.",
 
-    "gTitleMinute2_1": "La réserve moyenne",
-    "gTitleMinute2_2": "comme référentiel",
+    "gTitleMinute2": "La réserve moyenne | comme référentiel",
     
     "FlowElsie2_1_1": "J’ai lu que si on réunissait tous les euros du monde, on en compterait 10 millions de millions.",
     "FlowFee2_1_1": "Oui, c’est ce que l’on appelle la masse monétaire.",
@@ -72,14 +70,10 @@
     "gBlueWheelText": "    Pour payer les intérêts, il faut emprunter",
     "FlowElsie3_2_1": "Mais alors, les riches sont de plus en plus riches, et les pauvres de plus en plus pauvres !",
     "FlowFee3_2_1": "On appelle ça des cercles vicieux. C’est loin d’être un système qui tire tout le monde vers un pouvoir égal.",
-    "FlowHotVicious1_1": "Plus j’ai d’argent facilement, ",
-    "FlowHotVicious1_2": "plus j’ai d’influence.",
-    "FlowHotVicious2_1": "Plus j’ai d’influence, ",
-    "FlowHotVicious2_2": "plus j’ai d’argent facilement.",
-    "FlowColdVicious1_1": "Moins j’ai d’influence, ",
-    "FlowColdVicious1_2": "moins j’ai d’argent facilement.",
-    "FlowColdVicious2_1": "Moins j’ai d’argent facilement, ",
-    "FlowColdVicious2_2": "moins j’ai d’influence.",
+    "FlowHotVicious1": "Plus j’ai d’argent facilement,| plus j’ai d’influence.",
+    "FlowHotVicious2": "Plus j’ai d’influence,| plus j’ai d’argent facilement.",
+    "FlowColdVicious1": "Moins j’ai d’influence,| moins j’ai d’argent facilement.",
+    "FlowColdVicious2": "Moins j’ai d’argent facilement,| moins j’ai d’influence.",
     "FlowElsie3_3_1": "J’imagine à l’école : si on a une moyenne en dessous de 10, alors le mois suivant on a un 0 en punition…",
     "FlowFee3_3_1": "Évidemment, les chances de repasser au-dessus de la moyenne sont plus faibles avec cette punition.",
     "Month": "Mois",
@@ -87,14 +81,12 @@
     "Total": "Total",
     "Colon": " :",
     "Mean": "Moyenne",
-    "Less10_1": "en dessous de 10",
-    "Less10_2": "donc punition !",
+    "Less10": "en dessous de 10 | donc punition !",
     "Punishment": "Punition",
     "WithoutPunishment": "alors que sans punition…",
     "FlowElsie3_4_1": "… alors que ceux qui ont une moyenne au-dessus de 10 reçoivent en récompense un 20 sur 20 !",
     "FlowFee3_4_1": "Le risque de descendre en dessous de la moyenne est plus faible avec cette récompense.",
-    "More10_1": "au-dessus de 10",
-    "More10_2": "donc récompense !",
+    "More10": "au-dessus de 10 | donc récompense !",
     "Reward": "Récompense",
     "WithoutReward": "alors que sans récompense…",
     "FlowFee3_5_1": "En fait, les plus riches sont encouragés à ne pas trop dépenser, à garder ce que l’on appelle un capital, afin de profiter de l’argent qu’ils gagneront en le prêtant.",
@@ -103,8 +95,7 @@
     "FlowElsie3_6_1": "Oui, le but de la monnaie est qu’elle soit échangée ! C’est une sacrée contradiction, je me demande si on peut résoudre ce problème ?",
     "FlowFee3_6_1": "Il faut y réfléchir ! Car les riches comme les pauvres sont piégés dans ces cercles vicieux : ils sont condamnés à une compétition toujours plus violente et destructrice…",
 
-    "gTitleMinute4_1": "Un revenu",
-    "gTitleMinute4_2": "comme référentiel",
+    "gTitleMinute4": "Un revenu | comme référentiel",
     
     "FlowFee4_1_1": "Et ce beau livre que tu as là, quel était son prix ?",
     "FlowElsie4_1_1": "Il était cher ! 30 euros ! 3 semaines d’argent de poche !",
@@ -134,9 +125,7 @@
     "FlowFee5_5_1": "Deuxièmement, ces créations sont faites par quelques personnes et connues uniquement de quelques autres.",
     "FlowElsie5_5_1": "Certains notent sur 10 pendant que d’autres notent sur 12, et on ne le sait pas ? Du coup, une note peut sembler énorme, alors qu’elle ne l’est pas !",
     "FlowFee5_5_2": "Oui. Et c’est comme ça que des prix peuvent sembler très élevés, mais qu’ils ne le sont pas tant que ça. On parle alors de bulles… et d’asymétries spatiales.",
-    "HereWeMarkOutOf_1": "Ici, ",
-    "HereWeMarkOutOf_2": "on note ",
-    "HereWeMarkOutOf_3": "sur",
+    "HereWeMarkOutOf": "Ici,| on note | sur | 10",
     "FlowElsie5_6_1": "C’est astucieux ! il n’y a même plus besoin de copier sur son voisin pour tricher !",
     "FlowFee5_6_1": "On en rirait si les conséquences n’étaient pas si dramatiques. Car une monnaie devrait être une unité de compte fiable.",
     "FlowElsie5_6_2": "C’est vrai, comment peut-on accepter de mesurer quelque chose avec des lunettes aussi déformantes !",
@@ -176,8 +165,7 @@
     "FlowElsie7_6_1": "Oui ! Et c’est ça qu’il est juste de faire !",
     "FlowFee7_6_1": "Ce revenu auquel tout le monde a droit, il a un nom, on l’appelle un DU. Le mot DU est en fait l’abréviation d’un nom plus compliqué : Dividende Universel.",
 
-    "gTitleMinute8_1": "Croissance",
-    "gTitleMinute8_2": "exponentielle",
+    "gTitleMinute8": "Croissance | exponentielle",
 
     "FlowElsie8_1_1": "10 pour 100, c’est pratique, ça correspond à une division par 10, on a juste à décaler la virgule ! Pour 100 euros, on en crée 10 ; une semaine plus tard, pour 110, on en crée 11 ; deux semaines plus tard, pour 121, on en crée 12,1.",
     "FlowFee8_1_1": "Regarde cette bande élastique : si on l’allonge de 10 % chaque semaine, sa longueur aura presque doublé la septième semaine. On dit de ce genre de croissance rapide qu’elle est exponentielle.",
@@ -203,8 +191,7 @@
     "FlowFee8_6_1": "C’est ça, du moins si le nombre de personnes ne change pas ! On dit que dans ce référentiel, la masse monétaire est stable. Sa croissance est nulle, elle n’est plus du tout exponentielle.",
     "BillionDUs": "milliards de DU",
 
-    "gTitleMinute9_1": "Le DU",
-    "gTitleMinute9_2": "comme référentiel",
+    "gTitleMinute9": "Le DU | comme référentiel",
 
     "FlowElsie9_1_1": "En comptant en DU, on a utilisé un nouveau référentiel, c’est ça ?",
     "FlowFee9_1_1": "Oui. On pourrait aussi utiliser ton livre comme référentiel. Combien vaudrait le DU en nombre de livres ?",
@@ -228,8 +215,7 @@
     "Years": "ans",
     "Sister": "Sœur",
 
-    "gTitleMinute10_1": "Attraction",
-    "gTitleMinute10_2": "vers la moyenne",
+    "gTitleMinute10": "Attraction | vers la moyenne",
 
     "FlowFee10_1_1": "Voyons trois cas. Premièrement : la personne qui a la moyenne de 30 mille euros, c’est-à-dire 10 DU, reste à cette moyenne de 10 DU, soit 33 mille euros après émission de la nouvelle monnaie.",
     "FlowElsie10_1_1": "On l’a vu avec l’élastique : il s’allonge pour que la moyenne de 10 DU de l’année 2 corresponde à 10+1 DU de l’année 1.",
@@ -245,7 +231,7 @@
     "FlowElsie10_3_2": "Il n’atteint pas la moyenne de 10 DU, mais c’est très proche !",
     "UdOfYear": "DU de l’année",
     "FlowRate": "Taux",
-    "MoneyReceivedByAnIndividual": "Monnaie reçue par un individu",
+    "MoneyReceivedByAnIndividual": "Monnaie | reçue par | un individu",
     "FlowFee10_4_1": "Troisièmement, celui qui avait plus que la réserve moyenne…",
     "FlowElsie10_4_1": "C’est un peu pareil : il reste au-dessus mais s’en rapproche. Cette fois, c’est comme avec la première sœur.",
     "FlowFee10_5_1": "Remarque le cas d’un individu qui aurait toute la masse monétaire en sa possession, et les autres rien…",
@@ -253,14 +239,11 @@
     "FlowFee10_6_1": "Petite, mais à quel point ? Si on fait le calcul, on trouve que sa réserve ne représentera plus que 39 % de la masse monétaire à la 10ème année ; 15 % à la 20ème ; 6 % à la 30ème ; et 2,5 % à la 40ème…",
     "FlowElsie10_6_1": "C’est Robin des Bois qui va être content ! Grâce au DU, si ma réserve est au-dessus de la moyenne, elle semble diminuer, alors que si elle est en dessous, elle semble augmenter !",
     "FlowFee10_6_2": "Oui, cette fois, on peut parler d’un cercle vertueux.",
-    "FlowVirtuous1_1": "Si j’ai peu d’influence, ",
-    "FlowVirtuous1_2": "le DU augmente mon influence.",
-    "FlowVirtuous2_1": "Si j’ai beaucoup d’influence, ",
-    "FlowVirtuous2_2": "le DU diminue mon influence.",
-    "SpaceOccupiedAllTheEuros": "Place occupée par la réserve de celui qui a tous les euros",
+    "FlowVirtuous1": "Si j’ai peu d’influence,| le DU augmente mon influence.",
+    "FlowVirtuous2": "Si j’ai beaucoup d’influence,| le DU diminue mon influence.",
+    "SpaceOccupiedAllTheEuros": "Place occupée par | la réserve de celui | qui a tous les euros",
 
-    "gTitleMinute11_1": "Taux du",
-    "gTitleMinute11_2": "Dividende Universel",
+    "gTitleMinute11": "Taux du | Dividende Universel",
 
     "FlowElsie11_1_1": "Avec cette augmentation permanente, une réserve d’euros qui semble grande un jour ne l’est plus des années plus tard. On dirait une astuce pour lui donner une durée de vie limitée.",
     "FlowFee11_1_1": "Oui, limitée et bien fixée ! Les humains rêvent d’une monnaie résistant au temps, ça les rassure. Mais c’est une folie ! Là, nous voulons une monnaie à l’image de l’homme, les deux vivant au même rythme. Et c’est le taux du DU qui fixe ce rythme.",
@@ -281,8 +264,8 @@
     "FlowElsie11_6_1": "On pourrait refaire les calculs avec d’autres valeurs pour le taux, voir ce que ça donne avec 1 %, 5 % ou 20 % ?",
     "FlowFee11_6_1": "Regarde, les résultats sont dans ces tableaux : on peut constater que 10 % est la valeur qui respecte le mieux la symétrie que l’on a choisie.",
     "FlowElsie11_6_2": "Tant mieux, 10 c’est bien pratique !",
-    "MoneyIssuedByAnIncoming": "Monnaie émise par un entrant",
-    "SpaceOccupiedByOutgoingPeople": "Place occupée par la masse monétaire des sortants",
+    "MoneyIssuedByAnIncoming": "Monnaie | émise par | un entrant",
+    "SpaceOccupiedByOutgoingPeople": "Place occupée par | la masse monétaire | des sortants",
 
     "gTitleMinute12": "Monnaie libre",
 
