@@ -2,7 +2,9 @@ const nunjucks = require('nunjucks');
 const fs = require('fs');
 const util = require('util');
 
-nunjucks.configure({ autoescape: true }).addGlobal('split', split);
+nunjucks.configure({ autoescape: true })
+    .addGlobal('split', split)
+    .addGlobal('format', format)
 
 const versions = {
     en_version: require("./en-version.json"),
@@ -31,4 +33,12 @@ for (let [key, context] of Object.entries(versions)) {
 function split(message) {
     const arrayOfStrings = message.split('|');
     return arrayOfStrings.map(s=>s.trim());
+}
+
+function format(value, loc) {
+    // return new Intl.NumberFormat(loc).format(value);
+    if (loc === "fr") {
+        return value.toString(10).replace(".", ",");
+    }
+    return value;
 }

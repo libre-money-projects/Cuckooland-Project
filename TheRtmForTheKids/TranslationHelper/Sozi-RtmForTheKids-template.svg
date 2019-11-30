@@ -3626,7 +3626,7 @@
          style="line-height:0%"><tspan
           y="-108.31119"
           x="3615.322"
-          id="tspan5568">{{Month}} 1</tspan></text>
+          id="tspan5568">{{MonthOne}}</tspan></text>
        <text
          xml:space="preserve"
          x="3619.5364"
@@ -3635,7 +3635,7 @@
          style="line-height:0%"><tspan
           id="tspan5572"
           x="3619.5364"
-          y="-96.954361">{{Mark}} 1{{Colon}}</tspan></text>
+          y="-96.954361">{{MarkOne}}</tspan></text>
        <text
          id="text5574"
          y="-96.954361"
@@ -3653,7 +3653,7 @@
          style="line-height:0%"><tspan
           y="-92.954361"
           x="3619.5364"
-          id="tspan5580">{{Mark}} 2{{Colon}}</tspan></text>
+          id="tspan5580">{{MarkOne.replace('1', '2')}}</tspan></text>
        <text
          xml:space="preserve"
          x="3637.5361"
@@ -3671,7 +3671,7 @@
          style="line-height:0%"><tspan
           id="tspan5588"
           x="3619.5364"
-          y="-88.954361">{{Mark}} 3{{Colon}}</tspan></text>
+          y="-88.954361">{{MarkOne.replace('1', '3')}}</tspan></text>
        <text
          id="text5590"
          y="-88.954361"
@@ -3689,7 +3689,7 @@
          style="line-height:0%"><tspan
           y="-84.954361"
           x="3619.5364"
-          id="tspan5596">{{Mark}} 4{{Colon}}</tspan></text>
+          id="tspan5596">{{MarkOne.replace('1', '4')}}</tspan></text>
        <text
          xml:space="preserve"
          x="3637.5361"
@@ -3711,7 +3711,7 @@
          style="line-height:0%"><tspan
           id="tspan5604"
           x="3619.5364"
-          y="-78.954361">{{Total}}{{Colon}}</tspan></text>
+          y="-78.954361">{{Total}}</tspan></text>
        <text
          id="text5608"
          y="-78.954361"
@@ -3729,7 +3729,7 @@
          style="line-height:0%"><tspan
           y="-74.954361"
           x="3619.5364"
-          id="tspan5614">{{Mean}}{{Colon}}</tspan></text>
+          id="tspan5614">{{MeanC}}</tspan></text>
        <text
          xml:space="preserve"
          x="3637.5361"
@@ -3791,7 +3791,7 @@
          style="line-height:0%"><tspan
           y="-105.49033"
           x="3611.5364"
-          id="tspan6986">{{Month}} 2</tspan></text>
+          id="tspan6986">{{MonthOne.replace('1', '2')}}</tspan></text>
        <text
          xml:space="preserve"
          x="3619.5364"
@@ -3800,7 +3800,7 @@
          style="line-height:0%"><tspan
           id="tspan6990"
           x="3619.5364"
-          y="-97.490326">{{Punishment}}{{Colon}}</tspan></text>
+          y="-97.490326">{{Punishment}}</tspan></text>
        <text
          id="text6992"
          y="-97.490326"
@@ -3818,7 +3818,7 @@
          style="line-height:0%"><tspan
           y="-93.490326"
           x="3619.5364"
-          id="tspan6998">{{Mark}} 1{{Colon}}</tspan></text>
+          id="tspan6998">{{MarkOne}}</tspan></text>
        <text
          xml:space="preserve"
          x="3643.5361"
@@ -3836,7 +3836,7 @@
          style="line-height:0%"><tspan
           id="tspan7006"
           x="3619.5364"
-          y="-89.490326">{{Mark}} 2{{Colon}}</tspan></text>
+          y="-89.490326">{{MarkOne.replace('1', '2')}}</tspan></text>
        <text
          id="text7008"
          y="-89.490326"
@@ -3854,7 +3854,7 @@
          style="line-height:0%"><tspan
           y="-85.490326"
           x="3619.5364"
-          id="tspan7014">{{Mark}} 3{{Colon}}</tspan></text>
+          id="tspan7014">{{MarkOne.replace('1', '3')}}</tspan></text>
        <text
          xml:space="preserve"
          x="3643.5361"
@@ -3872,7 +3872,7 @@
          style="line-height:0%"><tspan
           id="tspan7040"
           x="3619.5364"
-          y="-81.490326">{{Mark}} 4{{Colon}}</tspan></text>
+          y="-81.490326">{{MarkOne.replace('1', '4')}}</tspan></text>
        <text
          id="text7042"
          y="-81.490326"
@@ -3894,7 +3894,7 @@
          style="line-height:0%"><tspan
           id="tspan7022"
           x="3619.5364"
-          y="-75.486298">{{Total}}{{Colon}}</tspan></text>
+          y="-75.486298">{{Total}}</tspan></text>
        <text
          id="text7026"
          y="-75.490326"
@@ -3912,7 +3912,7 @@
          style="line-height:0%"><tspan
           y="-71.338394"
           x="3619.5364"
-          id="tspan7032">{{Mean}}{{Colon}}</tspan></text>
+          id="tspan7032">{{MeanC}}</tspan></text>
        <text
          xml:space="preserve"
          x="3643.5361"
@@ -3930,7 +3930,7 @@
          style="line-height:0%;text-align:start;text-anchor:start"><tspan
           id="tspan7048"
           x="3619.5364"
-          y="-60.48085">{{Mean}}{{Colon}}</tspan></text>
+          y="-60.48085">{{MeanC}}</tspan></text>
        <text
          xml:space="preserve"
          x="3619.5364"
@@ -3948,7 +3948,7 @@
          style="line-height:0%"><tspan
           y="-60.096817"
           x="3643.5361"
-          id="tspan7052">11{{DecSep}}25/20</tspan></text>
+          id="tspan7052">{{format(11.25, loc)}}/20</tspan></text>
       </g>
      </g>
     </g>
@@ -4048,7 +4048,7 @@
          style="line-height:0%"><tspan
           id="tspan5544"
           x="3615.5364"
-          y="-105.62354">{{Month}} 1</tspan></text>
+          y="-105.62354">{{MonthOne}}</tspan></text>
        <text
          id="text6190"
          y="-96.954361"
@@ -4057,7 +4057,7 @@
          style="line-height:0%"><tspan
           y="-96.954361"
           x="3619.5364"
-          id="tspan6192">{{Mark}} 1{{Colon}}</tspan></text>
+          id="tspan6192">{{MarkOne}}</tspan></text>
        <text
          xml:space="preserve"
          x="3637.5366"
@@ -4075,7 +4075,7 @@
          style="line-height:0%"><tspan
           id="tspan6176"
           x="3619.5364"
-          y="-92.954361">{{Mark}} 2{{Colon}}</tspan></text>
+          y="-92.954361">{{MarkOne.replace('1', '2')}}</tspan></text>
        <text
          id="text6178"
          y="-92.954361"
@@ -4093,7 +4093,7 @@
          style="line-height:0%"><tspan
           y="-88.954361"
           x="3619.5364"
-          id="tspan6184">{{Mark}} 3{{Colon}}</tspan></text>
+          id="tspan6184">{{MarkOne.replace('1', '3')}}</tspan></text>
        <text
          xml:space="preserve"
          x="3637.5361"
@@ -4111,7 +4111,7 @@
          style="line-height:0%"><tspan
           id="tspan6200"
           x="3619.5364"
-          y="-84.954361">{{Mark}} 4{{Colon}}</tspan></text>
+          y="-84.954361">{{MarkOne.replace('1', '4')}}</tspan></text>
        <text
          id="text6202"
          y="-84.954361"
@@ -4133,7 +4133,7 @@
          style="line-height:0%"><tspan
           y="-78.954361"
           x="3619.5364"
-          id="tspan6208">{{Total}}{{Colon}}</tspan></text>
+          id="tspan6208">{{Total}}</tspan></text>
        <text
          xml:space="preserve"
          x="3637.5361"
@@ -4151,7 +4151,7 @@
          style="line-height:0%"><tspan
           id="tspan6218"
           x="3619.5364"
-          y="-74.954361">{{Mean}}{{Colon}}</tspan></text>
+          y="-74.954361">{{MeanC}}</tspan></text>
        <text
          id="text6220"
          y="-74.954361"
@@ -4160,7 +4160,7 @@
          style="line-height:0%"><tspan
           y="-74.954361"
           x="3637.5361"
-          id="tspan6222">11{{DecSep}}25/20</tspan></text>
+          id="tspan6222">{{format(11.25, loc)}}/20</tspan></text>
        <text
          id="text10444"
          y="-65.882431"
@@ -4213,7 +4213,7 @@
          style="line-height:0%"><tspan
           id="tspan10376"
           x="3615.5364"
-          y="-102.71397">{{Month}} 2</tspan></text>
+          y="-102.71397">{{MonthOne.replace('1', '2')}}</tspan></text>
        <text
          id="text10378"
          y="-94.954361"
@@ -4222,7 +4222,7 @@
          style="line-height:0%"><tspan
           y="-94.954361"
           x="3619.5364"
-          id="tspan10380">{{Reward}}{{Colon}}</tspan></text>
+          id="tspan10380">{{Reward}}</tspan></text>
        <text
          xml:space="preserve"
          x="3643.5366"
@@ -4240,7 +4240,7 @@
          style="line-height:0%"><tspan
           id="tspan10388"
           x="3619.5364"
-          y="-90.954361">{{Mark}} 1{{Colon}}</tspan></text>
+          y="-90.954361">{{MarkOne}}</tspan></text>
        <text
          id="text10390"
          y="-90.954361"
@@ -4258,7 +4258,7 @@
          style="line-height:0%"><tspan
           y="-86.954361"
           x="3619.5364"
-          id="tspan10396">{{Mark}} 2{{Colon}}</tspan></text>
+          id="tspan10396">{{MarkOne.replace('1', '2')}}</tspan></text>
        <text
          xml:space="preserve"
          x="3643.5361"
@@ -4276,7 +4276,7 @@
          style="line-height:0%"><tspan
           id="tspan10404"
           x="3619.5364"
-          y="-82.954361">{{Mark}} 3{{Colon}}</tspan></text>
+          y="-82.954361">{{MarkOne.replace('1', '3')}}</tspan></text>
        <text
          id="text10406"
          y="-82.954361"
@@ -4294,7 +4294,7 @@
          style="line-height:0%"><tspan
           y="-78.954361"
           x="3619.5364"
-          id="tspan10430">{{Mark}} 4{{Colon}}</tspan></text>
+          id="tspan10430">{{MarkOne.replace('1', '4')}}</tspan></text>
        <text
          xml:space="preserve"
          x="3643.5361"
@@ -4316,7 +4316,7 @@
          style="line-height:0%"><tspan
           y="-72.950333"
           x="3619.5364"
-          id="tspan10412">{{Total}}{{Colon}}</tspan></text>
+          id="tspan10412">{{Total}}</tspan></text>
        <text
          xml:space="preserve"
          x="3643.5361"
@@ -4334,7 +4334,7 @@
          style="line-height:0%"><tspan
           id="tspan10422"
           x="3619.5364"
-          y="-69.338394">{{Mean}}{{Colon}}</tspan></text>
+          y="-69.338394">{{MeanC}}</tspan></text>
        <text
          id="text10424"
          y="-68.954361"
@@ -4343,7 +4343,7 @@
          style="line-height:0%"><tspan
           y="-68.954361"
           x="3643.5361"
-          id="tspan10426">11{{DecSep}}6/20</tspan></text>
+          id="tspan10426">{{format(11.6, loc)}}/20</tspan></text>
        <text
          id="text10452"
          y="-62.266464"
@@ -4361,7 +4361,7 @@
          xml:space="preserve"><tspan
           y="-58.266464"
           x="3619.5364"
-          id="tspan10438">{{Mean}}{{Colon}}</tspan></text>
+          id="tspan10438">{{MeanC}}</tspan></text>
        <text
          xml:space="preserve"
          x="3643.5361"
@@ -4370,7 +4370,7 @@
          style="line-height:0%"><tspan
           id="tspan10442"
           x="3643.5361"
-          y="-57.882431">9{{DecSep}}5/20</tspan></text>
+          y="-57.882431">{{format(9.5, loc)}}/20</tspan></text>
       </g>
      </g>
     </g>
@@ -5795,15 +5795,15 @@
         y="395.94012"
         x="3496.1106"
         id="tspan10107"
-        sodipodi:role="line">{{split(HereWeMarkOutOf)[0]}}</tspan><tspan
+        sodipodi:role="line">{{split(HereWeMarkOutOfTen)[0].replace('10', '12')}}</tspan><tspan
         id="tspan10109"
         y="400.94012"
         x="3496.1106"
-        sodipodi:role="line">{{split(HereWeMarkOutOf)[1]}}</tspan><tspan
+        sodipodi:role="line">{{split(HereWeMarkOutOfTen)[1].replace('10', '12')}}</tspan><tspan
         id="tspan10111"
         y="405.94012"
         x="3495.5872"
-        sodipodi:role="line">{{split(HereWeMarkOutOf)[2]}} 12</tspan></text>
+        sodipodi:role="line">{{split(HereWeMarkOutOfTen)[2].replace('10', '12')}}</tspan></text>
     </g>
     <g
       transform="translate(-34.612553,-281.86333)"
@@ -5827,15 +5827,15 @@
         sodipodi:role="line"
         id="tspan10134"
         x="3496.1106"
-        y="395.94012">{{split(HereWeMarkOutOf)[0]}}</tspan><tspan
+        y="395.94012">{{split(HereWeMarkOutOfTen)[0]}}</tspan><tspan
         sodipodi:role="line"
         x="3496.1106"
         y="400.94012"
-        id="tspan10136">{{split(HereWeMarkOutOf)[1]}}</tspan><tspan
+        id="tspan10136">{{split(HereWeMarkOutOfTen)[1]}}</tspan><tspan
         sodipodi:role="line"
         x="3495.5872"
         y="405.94012"
-        id="tspan10138">{{split(HereWeMarkOutOf)[2]}} 10</tspan></text>
+        id="tspan10138">{{split(HereWeMarkOutOfTen)[2]}}</tspan></text>
     </g>
    </g>
    <g
@@ -9426,7 +9426,7 @@
         xml:space="preserve"><tspan
          id="tspan5519"
          y="-1724.4607"
-         x="2884.2461">{{Mean}}{{Colon}} 30 {{Thousand}} {{Euros}}</tspan></text>
+         x="2884.2461">{{MeanThreeThousandEuros.replace('3', '30')}}</tspan></text>
       <g
         id="gDuStackBandsYear1"
         transform="translate(-200,0)">
@@ -9681,10 +9681,10 @@
          id="text1DuYear1"><tspan
           id="tspan5561"
           x="3396.7026"
-          y="-1439.4203">1 {{UD}}</tspan><tspan
+          y="-1439.4203">{{OneUD}}</tspan><tspan
           x="3396.7026"
           y="-1401.9203"
-          id="tspan5563">(3 {{Thousand}} {{Euros}})</tspan></text>
+          id="tspan5563">({{ThreeThousandEuros}})</tspan></text>
        <rect
          style="fill:none;stroke:#999999;stroke-width:2.08129573;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
          id="rect1DuYear1"
@@ -9703,10 +9703,10 @@
         xml:space="preserve"><tspan
          id="tspan5545"
          y="-1307.5548"
-         x="3064.5618">{{MonnetarySupplyAtYear}} 1</tspan><tspan
+         x="3064.5618">{{MonnetarySupplyAtYearOne}}</tspan><tspan
          id="tspan5551"
          y="-1270.0548"
-         x="3064.5618">10 {{TrillionEuros}}</tspan></text>
+         x="3064.5618">{{TenTrillionEuros}}</tspan></text>
       <g
         id="gBandLabels">
        <g
@@ -9724,7 +9724,7 @@
           xml:space="preserve"><tspan
            y="-1797.6985"
            x="3440.9622"
-           id="tspan5668">{{BandOfIndividual}} 1</tspan></text>
+           id="tspan5668">{{BandOfIndividualOne}}</tspan></text>
         <rect
           ry="5"
           rx="5"
@@ -9750,7 +9750,7 @@
           xml:space="preserve"><tspan
            y="-1759.8894"
            x="3448.1462"
-           id="tspan5668-1">{{BandOfIndividual}} 2</tspan></text>
+           id="tspan5668-1">{{BandOfIndividualOne.replace('1', '2')}}</tspan></text>
         <rect
           ry="5"
           rx="5"
@@ -9776,7 +9776,7 @@
           xml:space="preserve"><tspan
            y="-1722.0988"
            x="3453.8015"
-           id="tspan5668-1-5">{{BandOfIndividual}} 3</tspan></text>
+           id="tspan5668-1-5">{{BandOfIndividualOne.replace('1', '3')}}</tspan></text>
         <rect
           ry="5"
           rx="5"
@@ -9827,7 +9827,7 @@
         id="text194DuStackYear"><tspan
          id="tspan5521"
          x="3479.5786"
-         y="-2078.4607">{{Mean}}{{Colon}} 60 {{Thousand}} {{Euros}}</tspan></text>
+         y="-2078.4607">{{MeanThreeThousandEuros.replace('3', '60')}}</tspan></text>
       <use
         height="1052.3622"
         width="744.09448"
@@ -9844,10 +9844,10 @@
         xml:space="preserve"><tspan
          id="tspan5543"
          y="-1309.3112"
-         x="3674.0295">{{MonnetarySupplyAtYear}} 7</tspan><tspan
+         x="3674.0295">{{MonnetarySupplyAtYearOne.replace('1', '7')}}</tspan><tspan
          id="tspan5555"
          y="-1271.8112"
-         x="3674.0295">20 {{TrillionEuros}}</tspan></text>
+         x="3674.0295">{{TenTrillionEuros.replace('10', '20')}}</tspan></text>
       <g
         transform="translate(407.29782,-18.03633)"
         id="gLabel1DuYear7">
@@ -9863,10 +9863,10 @@
          id="text1DuYear7"><tspan
           id="tspan5561-4"
           x="3408.1663"
-          y="-1443.576">1 {{UD}}</tspan><tspan
+          y="-1443.576">{{OneUD}}</tspan><tspan
           x="3408.1663"
           y="-1406.076"
-          id="tspan5563-5">(6 {{Thousand}} {{Euros}})</tspan></text>
+          id="tspan5563-5">({{ThreeThousandEuros.replace('3', '6')}})</tspan></text>
        <rect
          style="fill:none;stroke:#999999;stroke-width:2.08129573;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
          id="rect1DuYear7"
@@ -9989,7 +9989,7 @@
         id="text5527"><tspan
          x="2884.2461"
          y="-1694.078"
-         id="tspan5529">= 10 {{UDs}}</tspan></text>
+         id="tspan5529">= {{TenUDs}}</tspan></text>
      </g>
      <g
        id="g5717"
@@ -10002,7 +10002,7 @@
         xml:space="preserve"><tspan
          y="-2050.6731"
          x="3479.5786"
-         id="tspan5723">= 10 {{UDs}}</tspan></text>
+         id="tspan5723">= {{TenUDs}}</tspan></text>
      </g>
     </g>
    </g>
@@ -10092,7 +10092,7 @@
         xml:space="preserve"><tspan
          id="tspan5863"
          y="-1777.1293"
-         x="2884.2461">= 10 {{UDs}}</tspan></text>
+         x="2884.2461">= {{TenUDs}}</tspan></text>
       <text
         id="text5865"
         y="-1317.0199"
@@ -10101,7 +10101,7 @@
         xml:space="preserve"><tspan
          id="tspan5869"
          y="-1317.0199"
-         x="3064.5618">= 3{{DecSep}}3 {{BillionDUs}}</tspan></text>
+         x="3064.5618">= {{ThreeBillionDUs.replace('3', format(3.3, loc))}}</tspan></text>
      </g>
      <g
        transform="translate(134.57498,0)"
@@ -10114,7 +10114,7 @@
         id="text5873"><tspan
          id="tspan5875"
          x="3479.5786"
-         y="-2131.1301">= 10 {{UDs}}</tspan></text>
+         y="-2131.1301">= {{TenUDs}}</tspan></text>
       <text
         id="text5877"
         y="-1317.0199"
@@ -10123,7 +10123,7 @@
         xml:space="preserve"><tspan
          id="tspan5881"
          y="-1317.0199"
-         x="3674.0295">= 3{{DecSep}}3 {{BillionDUs}}</tspan></text>
+         x="3674.0295">= {{ThreeBillionDUs.replace('3', format(3.3, loc))}}</tspan></text>
      </g>
     </g>
    </g>
@@ -10798,7 +10798,7 @@
         xml:space="preserve"><tspan
          y="328.01114"
          x="1165.7517"
-         id="tspan11212">{{Price}}{{Colon}} 0{{DecSep}}01 {{UD}}</tspan></text>
+         id="tspan11212">{{Price.replace('1', format(0.01, loc))}}</tspan></text>
      </g>
      <rect
        style="fill:none;stroke:#000000;stroke-opacity:1"
@@ -11094,7 +11094,7 @@
         style="line-height:0%"><tspan
          y="99.351685"
          x="527.18439"
-         id="tspan6866">2 {{Years}}</tspan></text>
+         id="tspan6866">{{TwoYears}}</tspan></text>
       <text
         xml:space="preserve"
         x="533.48761"
@@ -11103,7 +11103,7 @@
         style="line-height:0%"><tspan
          id="tspan6870"
          x="533.48761"
-         y="74.186836">4 {{Years}}</tspan></text>
+         y="74.186836">{{TwoYears.replace('2', '4')}}</tspan></text>
       <text
         id="textSister1-Year4"
         y="48.955597"
@@ -11112,7 +11112,7 @@
         style="line-height:0%"><tspan
          y="48.955597"
          x="541.03278"
-         id="tspan6874">6 {{Years}}</tspan></text>
+         id="tspan6874">{{TwoYears.replace('2', '6')}}</tspan></text>
       <text
         transform="matrix(0.8660254,-0.68565396,0.36461541,0.8660254,0,0)"
         id="textSister3-Y"
@@ -11122,7 +11122,7 @@
         style="line-height:0%"><tspan
          y="484.98398"
          x="415.35834"
-         id="tspan6969">{{Sister}} 3</tspan></text>
+         id="tspan6969">{{SisterOne.replace('1', '3')}}</tspan></text>
       <text
         transform="matrix(0.8660254,-0.68565396,0.36461541,0.8660254,0,0)"
         id="textSister2-Y"
@@ -11132,7 +11132,7 @@
         style="line-height:0%"><tspan
          y="490.07635"
          x="421.82535"
-         id="tspan6965">{{Sister}} 2</tspan></text>
+         id="tspan6965">{{SisterOne.replace('1', '2')}}</tspan></text>
       <text
         transform="matrix(0.8660254,-0.68565396,0.36461541,0.8660254,0,0)"
         xml:space="preserve"
@@ -11142,7 +11142,7 @@
         style="line-height:0%"><tspan
          id="tspan6961"
          x="428.71841"
-         y="494.81363">{{Sister}} 1</tspan></text>
+         y="494.81363">{{SisterOne}}</tspan></text>
      </g>
      <g
        id="gSistersYear50">
@@ -11782,7 +11782,7 @@
         style="line-height:0%"><tspan
          id="tspan6909"
          x="597.00372"
-         y="74.116707">48 {{Years}}</tspan></text>
+         y="74.116707">{{TwoYears.replace('2', '48')}}</tspan></text>
       <text
         id="textSister2-Year50"
         y="70.584259"
@@ -11791,7 +11791,7 @@
         style="line-height:0%"><tspan
          y="70.584259"
          x="604.06488"
-         id="tspan6915">50 {{Years}}</tspan></text>
+         id="tspan6915">{{TwoYears.replace('2', '50')}}</tspan></text>
       <text
         xml:space="preserve"
         x="611.00348"
@@ -11800,7 +11800,7 @@
         style="line-height:0%"><tspan
          id="tspan6919"
          x="611.00348"
-         y="67.132111">52 {{Years}}</tspan></text>
+         y="67.132111">{{TwoYears.replace('2', '52')}}</tspan></text>
       <text
         xml:space="preserve"
         x="487.02585"
@@ -11810,7 +11810,7 @@
         style="line-height:0%"><tspan
          id="tspan6973"
          x="487.02585"
-         y="537.66931">{{Sister}} 3</tspan></text>
+         y="537.66931">{{SisterOne.replace('1', '3')}}</tspan></text>
       <text
         xml:space="preserve"
         x="493.49286"
@@ -11820,7 +11820,7 @@
         style="line-height:0%"><tspan
          id="tspan6977"
          x="493.49286"
-         y="542.7616">{{Sister}} 2</tspan></text>
+         y="542.7616">{{SisterOne.replace('1', '2')}}</tspan></text>
       <text
         id="text6979"
         y="547.49872"
@@ -11830,7 +11830,7 @@
         style="line-height:0%"><tspan
          y="547.49872"
          x="500.38593"
-         id="tspan6981">{{Sister}} 1</tspan></text>
+         id="tspan6981">{{SisterOne}}</tspan></text>
      </g>
      <path
        d="m 563.86334,69.472954 11.1917,1e-4"
@@ -12118,7 +12118,7 @@
         xml:space="preserve"><tspan
          y="1307.0044"
          x="3077.7183"
-         id="tspan5621">{{TheYear}} 2</tspan></text>
+         id="tspan5621">{{YearOne.replace('1', '2')}}</tspan></text>
       <text
         id="text33DuStack"
         y="-1760.4607"
@@ -12127,7 +12127,7 @@
         xml:space="preserve"><tspan
          y="-1760.4607"
          x="2686.7095"
-         id="tspan5502">{{AverageOfYear}} 2{{Colon}} 33 {{Thousand}} {{Euros}}</tspan></text>
+         id="tspan5502">{{AverageOfYearOne.replace('1', '2').replace('3', '33')}}</tspan></text>
       <g
         transform="translate(-99.770297,0)"
         id="g10DUsPlus1-Label1DU-Year2">
@@ -12143,10 +12143,10 @@
          id="text8746"><tspan
           id="tspan8748"
           x="3404.8042"
-          y="-1439.4203">1 {{UD}}</tspan><tspan
+          y="-1439.4203">{{OneUD}}</tspan><tspan
           x="3404.8042"
           y="-1401.9203"
-          id="tspan8750">(3{{DecSep}}3 {{Thousand}} {{Euros}})</tspan></text>
+          id="tspan8750">({{ThreeThousandEuros.replace('3', format(3.3, loc))}})</tspan></text>
        <rect
          style="fill:none;stroke:#999999;stroke-width:2.08129573;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
          id="rect8752"
@@ -12172,7 +12172,7 @@
         id="text30DuStack"><tspan
          id="tspan5496"
          x="2596.6038"
-         y="-1724.4607">{{AverageOfYear}} 1{{Colon}} 30 {{Thousand}} {{Euros}}</tspan></text>
+         y="-1724.4607">{{AverageOfYearOne.replace('3', '30')}}</tspan></text>
       <g
         transform="translate(-207.2284,0)"
         id="gBand10DUsPlus1-Year1">
@@ -12439,7 +12439,7 @@
         transform="rotate(-45)"><tspan
          id="tspan5605"
          x="3008.417"
-         y="1237.7094">{{TheYear}} 1</tspan></text>
+         y="1237.7094">{{YearOne}}</tspan></text>
       <g
         id="g10DUsPlus1-Label1DU-Year1"
         transform="translate(-486.5127,0)">
@@ -12455,10 +12455,10 @@
          xml:space="preserve"><tspan
           y="-1439.4203"
           x="3396.7026"
-          id="tspan8412">1 {{UD}}</tspan><tspan
+          id="tspan8412">{{OneUD}}</tspan><tspan
           id="tspan8414"
           y="-1401.9203"
-          x="3396.7026">(3 {{Thousand}} {{Euros}})</tspan></text>
+          x="3396.7026">({{ThreeThousandEuros}})</tspan></text>
        <rect
          ry="5"
          rx="5"
@@ -12511,7 +12511,7 @@
         xml:space="preserve"><tspan
          id="tspan12803"
          y="-1694.078"
-         x="2884.2461">= 10 {{UDs}}</tspan></text>
+         x="2884.2461">= {{TenUDs}}</tspan></text>
      </g>
      <g
        transform="translate(-242.28928,-6.311337)"
@@ -12524,7 +12524,7 @@
         id="text12807"><tspan
          id="tspan12809"
          x="3479.5786"
-         y="-2050.6731">= 10 {{UDs}}</tspan></text>
+         y="-2050.6731">= {{TenUDs}}</tspan></text>
      </g>
     </g>
    </g>
@@ -12639,7 +12639,7 @@
         xml:space="preserve"><tspan
          id="tspan10766"
          y="-1694.078"
-         x="2884.2461">= 0{{DecSep}}5 {{TimesTheAverage}}</tspan></text>
+         x="2884.2461">= {{TwoTimesTheAverage.replace('2', format(0.5, loc))}}</tspan></text>
      </g>
      <g
        transform="translate(197.01386,17.657818)"
@@ -12652,7 +12652,7 @@
         id="text10770"><tspan
          id="tspan10772"
          x="3354.7007"
-         y="-2172.3958">= 0{{DecSep}}96 {{TimesTheAverage}}</tspan></text>
+         y="-2172.3958">= {{TwoTimesTheAverage.replace('2', format(0.96, loc))}}</tspan></text>
      </g>
     </g>
    </g>
@@ -12765,7 +12765,7 @@
         xml:space="preserve"><tspan
          id="tspan11750"
          y="-1694.078"
-         x="2946.814">1 {{UdOfYear}} 1 = 0{{DecSep}}91 {{UdOfYear}} 2</tspan></text>
+         x="2946.814">1 {{UdOfYearOne}} = {{format(0.91, loc)}} {{UdOfYearOne.replace('1', '2')}}</tspan></text>
      </g>
     </g>
     <g
@@ -12796,7 +12796,7 @@
           x="1494.6537"
           y="355.01703" /></flowRegion><flowPara
          id="flowPara6193"
-         style="line-height:1.25">{{FlowRate}} 10% {{Mean}} 10 {{UDs}}</flowPara></flowRoot>      <flowRoot
+         style="line-height:1.25">{{FlowRateTenPercent}} {{Mean}} {{TenUDs}}</flowPara></flowRoot>      <flowRoot
         xml:space="preserve"
         id="FlowDuCreationYears-one"
         transform="translate(-745.82665,-1049.6061)"
@@ -12808,15 +12808,15 @@
           x="1510.0372"
           y="360.18204" /></flowRegion><flowPara
          id="flowPara6201"
-         style="line-height:1.25">1 {{Year}}</flowPara><flowPara
+         style="line-height:1.25">{{OneYear}}</flowPara><flowPara
          id="flowPara6276"
-         style="line-height:1.25">10 {{Years}}</flowPara><flowPara
+         style="line-height:1.25">{{TwoYears.replace('2', '10')}}</flowPara><flowPara
          id="flowPara6203"
-         style="line-height:1.25">20 {{Years}}</flowPara><flowPara
+         style="line-height:1.25">{{TwoYears.replace('2', '20')}}</flowPara><flowPara
          id="flowPara6205"
-         style="line-height:1.25">30 {{Years}}</flowPara><flowPara
+         style="line-height:1.25">{{TwoYears.replace('2', '30')}}</flowPara><flowPara
          id="flowPara6207"
-         style="line-height:1.25">40 {{Years}}</flowPara><flowPara
+         style="line-height:1.25">{{TwoYears.replace('2', '40')}}</flowPara><flowPara
          id="flowPara6209" /></flowRoot>     </g>
      <g
        id="gDuCreationValues-one">
@@ -12879,15 +12879,15 @@
           width="19.253416"
           id="rect6244" /></flowRegion><flowPara
          id="flowPara6248"
-         style="line-height:1.25">0{{DecSep}}91 {{UD}}</flowPara><flowPara
+         style="line-height:1.25">{{OneUD.replace('1', format(0.91, loc))}}</flowPara><flowPara
          id="flowPara6280"
-         style="line-height:1.25">6{{DecSep}}1 {{UDs}}</flowPara><flowPara
+         style="line-height:1.25">{{TenUDs.replace('10', format(6.1, loc))}}</flowPara><flowPara
          id="flowPara6250"
-         style="line-height:1.25">8{{DecSep}}5 {{UDs}}</flowPara><flowPara
+         style="line-height:1.25">{{TenUDs.replace('10', format(8.5, loc))}}</flowPara><flowPara
          id="flowPara6252"
-         style="line-height:1.25">9{{DecSep}}4 {{UDs}}</flowPara><flowPara
+         style="line-height:1.25">{{TenUDs.replace('10', format(9.4, loc))}}</flowPara><flowPara
          id="flowPara6254"
-         style="line-height:1.25">9{{DecSep}}8 {{UDs}}</flowPara><flowPara
+         style="line-height:1.25">{{TenUDs.replace('10', format(9.8, loc))}}</flowPara><flowPara
          id="flowPara6256" /></flowRoot>      <flowRoot
         style="line-height:0.01%"
         xml:space="preserve"
@@ -12990,7 +12990,7 @@
         id="text13388"><tspan
          x="2884.2461"
          y="-1694.078"
-         id="tspan13390">= 1{{DecSep}}5 {{TimesTheAverage}}</tspan></text>
+         id="tspan13390">= {{TwoTimesTheAverage.replace('2', format(1.5, loc))}}</tspan></text>
      </g>
      <g
        id="g13392"
@@ -13003,7 +13003,7 @@
         xml:space="preserve"><tspan
          y="-2172.3958"
          x="3354.7007"
-         id="tspan13396">= 1{{DecSep}}04 {{TimesTheAverage}}</tspan></text>
+         id="tspan13396">= {{TwoTimesTheAverage.replace('2', format(1.04, loc))}}</tspan></text>
      </g>
     </g>
    </g>
@@ -13266,7 +13266,7 @@
           id="rect6346"
           style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
          id="flowPara6348"
-         style="line-height:1.25">{{FlowRate}} 10% {{Mean}} 10 {{UDs}}</flowPara></flowRoot>      <flowRoot
+         style="line-height:1.25">{{FlowRateTenPercent}} {{Mean}} {{TenUDs}}</flowPara></flowRoot>      <flowRoot
         transform="translate(-746.02429,-1049.4199)"
         id="FlowDuReserveYears-one"
         xml:space="preserve"
@@ -13278,15 +13278,15 @@
           width="16.43693"
           id="rect6354" /></flowRegion><flowPara
          id="flowPara6356"
-         style="line-height:1.25">1 {{Year}}</flowPara><flowPara
+         style="line-height:1.25">{{OneYear}}</flowPara><flowPara
          id="flowPara16101"
-         style="line-height:1.25">10 {{Years}}</flowPara><flowPara
+         style="line-height:1.25">{{TwoYears.replace('2', '10')}}</flowPara><flowPara
          id="flowPara6358"
-         style="line-height:1.25">20 {{Years}}</flowPara><flowPara
+         style="line-height:1.25">{{TwoYears.replace('2', '20')}}</flowPara><flowPara
          id="flowPara6360"
-         style="line-height:1.25">30 {{Years}}</flowPara><flowPara
+         style="line-height:1.25">{{TwoYears.replace('2', '30')}}</flowPara><flowPara
          id="flowPara6362"
-         style="line-height:1.25">40 {{Years}}</flowPara><flowPara
+         style="line-height:1.25">{{TwoYears.replace('2', '40')}}</flowPara><flowPara
          id="flowPara6364" /></flowRoot>     </g>
      <g
        transform="translate(-14.002697,4)"
@@ -13352,13 +13352,13 @@
          id="flowPara6311"
          style="line-height:1.25">90 %</flowPara><flowPara
          id="flowPara16103"
-         style="line-height:1.25">38{{DecSep}}7 %</flowPara><flowPara
+         style="line-height:1.25">{{format(38.7, loc)}} %</flowPara><flowPara
          id="flowPara6313"
-         style="line-height:1.25">15{{DecSep}}1 %</flowPara><flowPara
+         style="line-height:1.25">{{format(15.1, loc)}} %</flowPara><flowPara
          id="flowPara6315"
-         style="line-height:1.25">6{{DecSep}}1 %</flowPara><flowPara
+         style="line-height:1.25">{{format(6.1, loc)}} %</flowPara><flowPara
          id="flowPara6317"
-         style="line-height:1.25">2{{DecSep}}5 %</flowPara><flowPara
+         style="line-height:1.25">{{format(2.5, loc)}} %</flowPara><flowPara
          id="flowPara6319" /></flowRoot>      <flowRoot
         style="line-height:0.01%"
         transform="translate(-708.22194,-1064.4933)"
@@ -14131,7 +14131,7 @@
           y="355.01703"
           style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
          id="flowPara9667"
-         style="line-height:1.25">{{FlowRate}} 1 % {{Mean}} 100 {{UDs}}</flowPara></flowRoot>      <flowRoot
+         style="line-height:1.25">{{FlowRateTenPercent.replace('10', '1')}} {{Mean}} {{TenUDs.replace('10', '100')}}</flowPara></flowRoot>      <flowRoot
         xml:space="preserve"
         id="FlowYear1Percent"
         transform="translate(-745.33049,-1049.3161)"
@@ -14143,13 +14143,13 @@
           x="1510.0372"
           y="360.18204" /></flowRegion><flowPara
          id="flowPara8580"
-         style="line-height:1.25">10 {{Years}}</flowPara><flowPara
+         style="line-height:1.25">{{TwoYears.replace('2', '10')}}</flowPara><flowPara
          id="flowPara8592"
-         style="line-height:1.25">20 {{Years}}</flowPara><flowPara
+         style="line-height:1.25">{{TwoYears.replace('2', '20')}}</flowPara><flowPara
          id="flowPara8594"
-         style="line-height:1.25">30 {{Years}}</flowPara><flowPara
+         style="line-height:1.25">{{TwoYears.replace('2', '30')}}</flowPara><flowPara
          id="flowPara8582"
-         style="line-height:1.25">40 {{Years}}</flowPara></flowRoot>     </g>
+         style="line-height:1.25">{{TwoYears.replace('2', '40')}}</flowPara></flowRoot>     </g>
      <g
        id="gIngoing1Percent">
       <path
@@ -14203,13 +14203,13 @@
           width="18.243866"
           id="rect8534" /></flowRegion><flowPara
          id="flowPara8546"
-         style="line-height:1.25">9{{DecSep}}5 {{UDs}}</flowPara><flowPara
+         style="line-height:1.25">{{TenUDs.replace('10', format(9.5, loc))}}</flowPara><flowPara
          id="flowPara8538"
-         style="line-height:1.25">18 {{UDs}}</flowPara><flowPara
+         style="line-height:1.25">{{TenUDs.replace('10', format(18, loc))}}</flowPara><flowPara
          id="flowPara8540"
-         style="line-height:1.25">25{{DecSep}}8 {{UDs}}</flowPara><flowPara
+         style="line-height:1.25">{{TenUDs.replace('10', format(25.8, loc))}}</flowPara><flowPara
          id="flowPara8544"
-         style="line-height:1.25">32{{DecSep}}8 {{UDs}}</flowPara></flowRoot>      <flowRoot
+         style="line-height:1.25">{{TenUDs.replace('10', format(32.8, loc))}}</flowPara></flowRoot>      <flowRoot
         style="line-height:0.01%"
         xml:space="preserve"
         id="FlowIngoingIssued1Percent"
@@ -14275,13 +14275,13 @@
           x="1510.0372"
           y="360.18204" /></flowRegion><flowPara
          id="flowPara8622"
-         style="line-height:1.25">90{{DecSep}}6 %</flowPara><flowPara
+         style="line-height:1.25">{{format(90.6, loc)}} %</flowPara><flowPara
          id="flowPara8624"
          style="line-height:1.25">82 %</flowPara><flowPara
          id="flowPara8626"
-         style="line-height:1.25">74{{DecSep}}3 %</flowPara><flowPara
+         style="line-height:1.25">{{format(74.3, loc)}} %</flowPara><flowPara
          id="flowPara8630"
-         style="line-height:1.25">67{{DecSep}}3 %</flowPara></flowRoot>      <flowRoot
+         style="line-height:1.25">{{format(67.3, loc)}} %</flowPara></flowRoot>      <flowRoot
         style="line-height:0.01%"
         transform="translate(-708.51458,-1064.4933)"
         id="FlowOutgoingOccupied1Percent"
@@ -14293,7 +14293,7 @@
           width="34.002396"
           id="rect3674" /></flowRegion><flowPara
          style="line-height:1.25"
-         id="flowPara3686">{{SpaceOccupiedByOutgoingPeople}}</flowPara></flowRoot>     </g>
+         id="flowPara3686">{{split(SpaceOccupiedByOutgoingPeople).join(' ')}}</flowPara></flowRoot>     </g>
     </g>
     <g
       id="g5PercentTable"
@@ -14323,7 +14323,7 @@
           id="rect9947"
           style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
          id="flowPara9949"
-         style="line-height:1.25">{{FlowRate}} 5 % {{Mean}} 20 {{UDs}}</flowPara></flowRoot>      <flowRoot
+         style="line-height:1.25">{{FlowRateTenPercent.replace('10', '5')}} {{Mean}} {{TenUDs.replace('10', '20')}}</flowPara></flowRoot>      <flowRoot
         transform="translate(-746.13342,-1049.3161)"
         id="FlowYear5Percent"
         xml:space="preserve"
@@ -14335,13 +14335,13 @@
           width="16.1409"
           id="rect9955" /></flowRegion><flowPara
          id="flowPara9957"
-         style="line-height:1.25">10 {{Years}}</flowPara><flowPara
+         style="line-height:1.25">{{TwoYears.replace('2', '10')}}</flowPara><flowPara
          id="flowPara9959"
-         style="line-height:1.25">20 {{Years}}</flowPara><flowPara
+         style="line-height:1.25">{{TwoYears.replace('2', '20')}}</flowPara><flowPara
          id="flowPara9961"
-         style="line-height:1.25">30 {{Years}}</flowPara><flowPara
+         style="line-height:1.25">{{TwoYears.replace('2', '30')}}</flowPara><flowPara
          id="flowPara9965"
-         style="line-height:1.25">40 {{Years}}</flowPara></flowRoot>     </g>
+         style="line-height:1.25">{{TwoYears.replace('2', '40')}}</flowPara></flowRoot>     </g>
      <g
        id="gIngoing5Percent">
       <path
@@ -14395,13 +14395,13 @@
           x="1510.0372"
           y="360.18204" /></flowRegion><flowPara
          id="flowPara9989"
-         style="line-height:1.25">7{{DecSep}}7 {{UDs}}</flowPara><flowPara
+         style="line-height:1.25">{{TenUDs.replace('10', format(7.7, loc))}}</flowPara><flowPara
          id="flowPara9991"
-         style="line-height:1.25">12{{DecSep}}5 {{UDs}}</flowPara><flowPara
+         style="line-height:1.25">{{TenUDs.replace('10', format(12.5, loc))}}</flowPara><flowPara
          id="flowPara9993"
-         style="line-height:1.25">15{{DecSep}}4 {{UDs}}</flowPara><flowPara
+         style="line-height:1.25">{{TenUDs.replace('10', format(15.4, loc))}}</flowPara><flowPara
          id="flowPara9997"
-         style="line-height:1.25">17{{DecSep}}2 {{UDs}}</flowPara></flowRoot>      <flowRoot
+         style="line-height:1.25">{{TenUDs.replace('10', format(17.2, loc))}}</flowPara></flowRoot>      <flowRoot
         style="line-height:0.01%"
         transform="translate(-728.30765,-1064.4933)"
         id="FlowIngoingIssued5Percent"
@@ -14467,11 +14467,11 @@
           width="33.291924"
           id="rect10017" /></flowRegion><flowPara
          id="flowPara10021"
-         style="line-height:1.25">61{{DecSep}}5 %</flowPara><flowPara
+         style="line-height:1.25">{{format(61.5, loc)}} %</flowPara><flowPara
          id="flowPara10023"
-         style="line-height:1.25">37{{DecSep}}9 %</flowPara><flowPara
+         style="line-height:1.25">{{format(37.9, loc)}} %</flowPara><flowPara
          id="flowPara10025"
-         style="line-height:1.25">23{{DecSep}}4 %</flowPara><flowPara
+         style="line-height:1.25">{{format(23.4, loc)}} %</flowPara><flowPara
          id="flowPara10029"
          style="line-height:1.25">14 %</flowPara></flowRoot>      <flowRoot
         style="line-height:0.01%"
@@ -14485,7 +14485,7 @@
           x="1510.0372"
           y="360.18204" /></flowRegion><flowPara
          style="line-height:1.25"
-         id="flowPara3821">{{SpaceOccupiedByOutgoingPeople}}</flowPara></flowRoot>     </g>
+         id="flowPara3821">{{split(SpaceOccupiedByOutgoingPeople).join(' ')}}</flowPara></flowRoot>     </g>
     </g>
     <g
       transform="translate(0,30)"
@@ -14515,7 +14515,7 @@
           id="rect10039"
           style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
          id="flowPara10041"
-         style="line-height:1.25">{{FlowRate}} 10% {{Mean}} 10 {{UDs}}</flowPara></flowRoot>      <flowRoot
+         style="line-height:1.25">{{FlowRateTenPercent}} {{Mean}} {{TenUDs}}</flowPara></flowRoot>      <flowRoot
         transform="translate(-745.19911,-1049.4345)"
         id="FlowYear10Percent"
         xml:space="preserve"
@@ -14527,13 +14527,13 @@
           width="15.548841"
           id="rect10047" /></flowRegion><flowPara
          id="flowPara10049"
-         style="line-height:1.25">10 {{Years}}</flowPara><flowPara
+         style="line-height:1.25">{{TwoYears.replace('2', '10')}}</flowPara><flowPara
          id="flowPara10051"
-         style="line-height:1.25">20 {{Years}}</flowPara><flowPara
+         style="line-height:1.25">{{TwoYears.replace('2', '20')}}</flowPara><flowPara
          id="flowPara10053"
-         style="line-height:1.25">30 {{Years}}</flowPara><flowPara
+         style="line-height:1.25">{{TwoYears.replace('2', '30')}}</flowPara><flowPara
          id="flowPara10057"
-         style="line-height:1.25">40 {{Years}}</flowPara></flowRoot>     </g>
+         style="line-height:1.25">{{TwoYears.replace('2', '40')}}</flowPara></flowRoot>     </g>
      <g
        id="gIngoing10Percent">
       <path
@@ -14587,13 +14587,13 @@
           x="1510.0372"
           y="360.18204" /></flowRegion><flowPara
          id="flowPara10081"
-         style="line-height:1.25">6{{DecSep}}1 {{UDs}}</flowPara><flowPara
+         style="line-height:1.25">{{TenUDs.replace('10', format(6.1, loc))}}</flowPara><flowPara
          id="flowPara10083"
-         style="line-height:1.25">8{{DecSep}}5 {{UDs}}</flowPara><flowPara
+         style="line-height:1.25">{{TenUDs.replace('10', format(8.5, loc))}}</flowPara><flowPara
          id="flowPara10085"
-         style="line-height:1.25">9{{DecSep}}4 {{UDs}}</flowPara><flowPara
+         style="line-height:1.25">{{TenUDs.replace('10', format(9.4, loc))}}</flowPara><flowPara
          id="flowPara10089"
-         style="line-height:1.25">9{{DecSep}}8 {{UDs}}</flowPara></flowRoot>      <flowRoot
+         style="line-height:1.25">{{TenUDs.replace('10', format(9.8, loc))}}</flowPara></flowRoot>      <flowRoot
         style="line-height:0.01%"
         transform="translate(-728.30765,-1064.4933)"
         id="FlowIngoingIssued10Percent"
@@ -14659,13 +14659,13 @@
           width="34.120808"
           id="rect10109" /></flowRegion><flowPara
          id="flowPara10113"
-         style="line-height:1.25">38{{DecSep}}7 %</flowPara><flowPara
+         style="line-height:1.25">{{format(38.7, loc)}} %</flowPara><flowPara
          id="flowPara10115"
-         style="line-height:1.25">15{{DecSep}}1 %</flowPara><flowPara
+         style="line-height:1.25">{{format(15.1, loc)}} %</flowPara><flowPara
          id="flowPara10117"
-         style="line-height:1.25">6{{DecSep}}1 %</flowPara><flowPara
+         style="line-height:1.25">{{format(6.1, loc)}} %</flowPara><flowPara
          id="flowPara10121"
-         style="line-height:1.25">2{{DecSep}}5 %</flowPara></flowRoot>      <flowRoot
+         style="line-height:1.25">{{format(2.5, loc)}} %</flowPara></flowRoot>      <flowRoot
         style="line-height:0.01%"
         xml:space="preserve"
         id="FlowOutgoingOccupied10Percent"
@@ -14677,7 +14677,7 @@
           x="1510.0372"
           y="360.18204" /></flowRegion><flowPara
          style="line-height:1.25"
-         id="flowPara3721">{{SpaceOccupiedByOutgoingPeople}}</flowPara></flowRoot>     </g>
+         id="flowPara3721">{{split(SpaceOccupiedByOutgoingPeople).join(' ')}}</flowPara></flowRoot>     </g>
     </g>
     <g
       id="g20PercentTable"
@@ -14707,7 +14707,7 @@
           id="rect10131"
           style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
          id="flowPara10133"
-         style="line-height:1.25">{{FlowRate}} 20% {{Mean}} 5 {{UDs}}</flowPara></flowRoot>      <flowRoot
+         style="line-height:1.25">{{FlowRateTenPercent.replace('10', '20')}} {{Mean}} {{TenUDs.replace('10', '5')}}</flowPara></flowRoot>      <flowRoot
         transform="translate(-746.13342,-1049.4345)"
         id="FlowYear20Percent"
         xml:space="preserve"
@@ -14719,13 +14719,13 @@
           width="15.904077"
           id="rect10139" /></flowRegion><flowPara
          id="flowPara10141"
-         style="line-height:1.25">10 {{Years}}</flowPara><flowPara
+         style="line-height:1.25">{{TwoYears.replace('2', '10')}}</flowPara><flowPara
          id="flowPara10143"
-         style="line-height:1.25">20 {{Years}}</flowPara><flowPara
+         style="line-height:1.25">{{TwoYears.replace('2', '20')}}</flowPara><flowPara
          id="flowPara10145"
-         style="line-height:1.25">30 {{Years}}</flowPara><flowPara
+         style="line-height:1.25">{{TwoYears.replace('2', '30')}}</flowPara><flowPara
          id="flowPara10149"
-         style="line-height:1.25">40 {{Years}}</flowPara></flowRoot>     </g>
+         style="line-height:1.25">{{TwoYears.replace('2', '40')}}</flowPara></flowRoot>     </g>
      <g
        id="gIngoing20Percent">
       <path
@@ -14779,13 +14779,13 @@
           x="1510.0372"
           y="360.18204" /></flowRegion><flowPara
          id="flowPara10173"
-         style="line-height:1.25">4{{DecSep}}19 {{UDs}}</flowPara><flowPara
+         style="line-height:1.25">{{TenUDs.replace('10', format(4.19, loc))}}</flowPara><flowPara
          id="flowPara10175"
-         style="line-height:1.25">4{{DecSep}}87 {{UDs}}</flowPara><flowPara
+         style="line-height:1.25">{{TenUDs.replace('10', format(4.87, loc))}}</flowPara><flowPara
          id="flowPara10177"
-         style="line-height:1.25">4{{DecSep}}98 {{UDs}}</flowPara><flowPara
+         style="line-height:1.25">{{TenUDs.replace('10', format(4.98, loc))}}</flowPara><flowPara
          id="flowPara10181"
-         style="line-height:1.25">4{{DecSep}}997 {{UDs}}</flowPara></flowRoot>      <flowRoot
+         style="line-height:1.25">{{TenUDs.replace('10', format(4.997, loc))}}</flowPara></flowRoot>      <flowRoot
         style="line-height:0.01%"
         transform="translate(-728.30765,-1064.4933)"
         id="FlowIngoingIssued20Percent"
@@ -14851,13 +14851,13 @@
           width="33.410336"
           id="rect10201" /></flowRegion><flowPara
          id="flowPara10205"
-         style="line-height:1.25">16{{DecSep}}4 %</flowPara><flowPara
+         style="line-height:1.25">{{format(16.4, loc)}} %</flowPara><flowPara
          id="flowPara10207"
-         style="line-height:1.25">2{{DecSep}}9 %</flowPara><flowPara
+         style="line-height:1.25">{{format(2.9, loc)}} %</flowPara><flowPara
          id="flowPara10209"
-         style="line-height:1.25">0{{DecSep}}73 %</flowPara><flowPara
+         style="line-height:1.25">{{format(0.73, loc)}} %</flowPara><flowPara
          id="flowPara10213"
-         style="line-height:1.25">0{{DecSep}}37 %</flowPara></flowRoot>      <flowRoot
+         style="line-height:1.25">{{format(0.37, loc)}} %</flowPara></flowRoot>      <flowRoot
         style="line-height:0.01%"
         xml:space="preserve"
         id="FlowOutgoingOccupied20Percent"
@@ -14869,7 +14869,7 @@
           x="1510.0372"
           y="360.18204" /></flowRegion><flowPara
          style="line-height:1.25"
-         id="flowPara3853">{{SpaceOccupiedByOutgoingPeople}}</flowPara></flowRoot>     </g>
+         id="flowPara3853">{{split(SpaceOccupiedByOutgoingPeople).join(' ')}}</flowPara></flowRoot>     </g>
     </g>
    </g>
    <g
