@@ -10,7 +10,8 @@ nunjucks.configure({ autoescape: true })
 const versions = {
     en_version: require("./en-version.json"),
     fr_version: require("./fr-version.json"),
-    cat_version: require("./cat-version.json")
+    cat_version: require("./cat-version.json"),
+    ar_version: require("./ar-version.json")
 };
 
 const templates = [
