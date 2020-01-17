@@ -181,7 +181,7 @@
     "OneUD": "1 DU",
     "TenUDs": "10 DUs",
     "MonnetarySupplyAtYearOne": "Money supply at year 1",
-    "TenTrillionEuros": "trillion euros",
+    "TenTrillionEuros": "10 trillion euros",
     "BandOfIndividualOne": "Band of individual 1",
     "EtcBands": "etc. 330 million bands",
     "FlowFee8_5_1": "That’s right, everything doubles if we measure in euros … But we can also express everything in number of DUs.",
@@ -203,7 +203,7 @@
     "FlowFee9_3_1": "That’s exactly it! For example, the average store of money is based on humans. The DU is also, because the one is 10 % of the other. They have meaning for everyone and at all times.",
     "FlowElsie9_3_1": "Yes, we have to use the DU as frame of reference! The book costs 100 times less, it’s as if it was worth 1 cent in DU!",
     "FlowFee9_3_2": "On the back of the book, instead of writing “Price: 30 euros”, we can write “Price: 0.01 DU”, and it will make sense for everyone, regardless of its position in space and in time.",
-    "Price": "Price",
+    "Price": "Price: 1 DU",
     "loc": "en",
     "FlowElsie9_4_1": "But we know that 7 years later, the DU will have doubled … if the book is still worth 0.01 DU … then it will be worth 60 euros!",
     "FlowFee9_4_1": "Yes, in this frame of reference in euro, we say there’s price inflation. Do you find this shocking?",
@@ -264,8 +264,8 @@
     "FlowElsie11_6_1": "We could recalculate with other values for the rate, see what happens with 1 %, 5 % or 20 %?",
     "FlowFee11_6_1": "Look, the results are in these tables: we can see that 10 % is the value that best respect the symmetry which has been chosen.",
     "FlowElsie11_6_2": "All the better, 10, that’s so convenient!",
-    "MoneyIssuedByAnIncoming": "Money issued by an incoming",
-    "SpaceOccupiedByOutgoingPeople": "Space occupied by the money supply of outgoing people",
+    "MoneyIssuedByAnIncoming": "Money | issued by | an incoming",
+    "SpaceOccupiedByOutgoingPeople": "Space occupied by | the money supply | of outgoing people",
 
     "gTitleMinute12": "Free currency",
 
