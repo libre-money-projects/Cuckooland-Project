@@ -11,7 +11,8 @@ const versions = {
     en_version: require("./en-version.json"),
     fr_version: require("./fr-version.json"),
     cat_version: require("./cat-version.json"),
-    ar_version: require("./ar-version.json")
+    ar_version: require("./ar-version.json"),
+    es_version: require("./es-version.json")
 };
 
 const templates = [
