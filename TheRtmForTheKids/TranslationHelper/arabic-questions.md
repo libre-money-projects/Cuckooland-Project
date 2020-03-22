@@ -74,7 +74,7 @@ https://en.wikipedia.org/wiki/Percent_sign#Form_and_spacing
 
 - Faut-il écrire : 10 DU ? DU 10 ? Pas sûr que ce soit toujours écrit pareil.
 
-## Titre 
+## Titre 
 
 Pas sûr que le mot "relative" (qui peut être remplacé par "relativiste") soit présent dans la traduction.
 
@@ -108,17 +108,17 @@ https://ar.wikipedia.org/wiki/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF_%D8%AD%D8%B1
 
 # Questions par fleur
 
-# Fleur 3
+# Fleur 2
 
-- Pétale 1 : "argent de poche" ne semble pas traduit de la même façon que dans le pétale 1 de la fleur 3.
+- Pétale 1 : "million de millions" devrait apparaitre deux fois, mais ne semble apparaitre que dans la dernière bulle (et pas dans la première).
+
+- Pétale 2 : "argent de poche" ne semble pas traduit de la même façon que dans le pétale 1 de la fleur 4.
 
 # Fleur 3
 
 - Titre : pour le vocabulaire, Wikipédia peut peut-être aidé ?  
 https://ar.wikipedia.org/wiki/%D9%85%D8%A7%D9%84  
 https://ar.wikipedia.org/wiki/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF_%D8%AD%D8%B1
-
-- Pétale 1 : "million de millions" devrait apparaitre deux fois, mais ne semble apparaitre que dans la dernière bulle (et pas dans la première).
 
 - Pétale 2 : faut-il changer le sens des grosses flèches jaunes ?
 
