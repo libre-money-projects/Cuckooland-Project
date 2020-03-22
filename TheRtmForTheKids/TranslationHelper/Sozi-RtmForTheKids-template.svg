@@ -2200,49 +2200,49 @@
         <text xml:space="preserve" x="3264.5435" y="-1733.6573" class="DuStackWeekPercent" id="tDuStackWeek10Percent"><tspan id="tspanDuStackWeek10Percent" x="3264.5435" y="-1733.6573">+10%</tspan></text>
        </g>
       </g>
-      <text transform="rotate(-45)" class="DuStackWeekText" id="textDuStackWeek1" y="1252.4568" x="2993.6699" xml:space="preserve"><tspan y="1252.4568" x="2993.6699" id="tspan4524">{{Week}}</tspan></text>
+      <text transform="rotate(-45)" class="DuStackWeekText" id="textDuStackWeek1" y="1252.4568" x="2993.6699" xml:space="preserve"><tspan y="1252.4568" x="2993.6699" id="tspan4524">{{WeekOne}}</tspan></text>
      </g>
      <g id="gDuStackWeek2">
       <path transform="translate(3000.5813,-2189.6721)" id="line121DuStackWeek" d="m 279.04779,392.90397 -157.79021,0" style="fill:none;stroke:#999999;stroke-width:5.21400452;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <text class="weekDuStackTextY" id="text121DuStackWeek" y="-1802.4607" x="3131.8926" xml:space="preserve"><tspan y="-1802.4607" x="3131.8926" id="tspan4498">121</tspan></text>
       <use transform="matrix(1,0,0,1.0999433,98.000002,134.40282)" height="2979.9211" width="4212.9922" id="use17813" xlink:href="#gDuStackWeek1-1" y="0" x="0" />
       <use height="2979.9211" width="4212.9922" transform="matrix(1,0,0,1.1000242,97.999995,134.51155)" id="use17816" xlink:href="#gDuStackWeek1-2" y="0" x="0" />
-      <text xml:space="preserve" class="DuStackWeekText" x="3062.9709" y="1321.7518" id="textDuStackWeek2" transform="rotate(-45)"><tspan id="tspan4528" x="3062.9709" y="1321.7518">{{Week.replace('1', '2')}}</tspan></text>
+      <text xml:space="preserve" class="DuStackWeekText" x="3062.9709" y="1321.7518" id="textDuStackWeek2" transform="rotate(-45)"><tspan id="tspan4528" x="3062.9709" y="1321.7518">{{WeekOne.replace('1', '2')}}</tspan></text>
      </g>
      <g id="gDuStackWeek3">
       <path transform="translate(3000.5813,-2189.6721)" id="line133DuStackWeek" d="m 374.40032,348.08435 -153.83223,0" style="fill:none;stroke:#999999;stroke-width:4.17120361;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <text xml:space="preserve" x="3227.8926" y="-1846.4607" class="weekDuStackTextY" id="text133DuStackWeek"><tspan id="tspan4502" x="3227.8926" y="-1846.4607">133</tspan></text>
       <use height="2979.9211" width="4212.9922" transform="matrix(1,0,0,1.2100272,195.35251,282.44267)" id="use17819" xlink:href="#gDuStackWeek1-1" y="0" x="0" />
       <use height="2979.9211" width="4212.9922" transform="matrix(1,0,0,1.2091064,195.3525,281.20436)" id="use17822" xlink:href="#gDuStackWeek1-2" y="0" x="0" />
-      <text transform="rotate(-45)" class="DuStackWeekText" id="textDuStackWeek3" y="1389.6327" x="3130.8577" xml:space="preserve"><tspan y="1389.6327" x="3130.8577" id="tspan4532">{{Week.replace('1', '3')}}</tspan></text>
+      <text transform="rotate(-45)" class="DuStackWeekText" id="textDuStackWeek3" y="1389.6327" x="3130.8577" xml:space="preserve"><tspan y="1389.6327" x="3130.8577" id="tspan4532">{{WeekOne.replace('1', '3')}}</tspan></text>
      </g>
      <g transform="translate(0.90354554,0)" id="gDuStackWeek4">
       <path transform="translate(3000.5813,-2189.6721)" id="line146DuStackWeek" d="m 469.75289,298.26154 -153.71503,0" style="fill:none;stroke:#999999;stroke-width:4.17120361;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <text class="weekDuStackTextY" id="text146DuStackWeek" y="-1896.4607" x="3323.8926" xml:space="preserve"><tspan y="-1896.4607" x="3323.8926" id="tspan4506">146</tspan></text>
       <use height="2979.9211" width="4212.9922" transform="matrix(1,0,0,1.3300182,290.70501,443.80564)" id="use17825" xlink:href="#gDuStackWeek1-1" y="0" x="0" />
       <use height="2979.9211" width="4212.9922" transform="matrix(1,0,0,1.3303658,290.70501,444.27316)" id="use17828" xlink:href="#gDuStackWeek1-2" y="0" x="0" />
-      <text xml:space="preserve" class="DuStackWeekText" x="3200.1587" y="1458.9277" id="textDuStackWeek4" transform="rotate(-45)"><tspan id="tspan4536" x="3200.1587" y="1458.9277">{{Week.replace('1', '4')}}</tspan></text>
+      <text xml:space="preserve" class="DuStackWeekText" x="3200.1587" y="1458.9277" id="textDuStackWeek4" transform="rotate(-45)"><tspan id="tspan4536" x="3200.1587" y="1458.9277">{{WeekOne.replace('1', '4')}}</tspan></text>
      </g>
      <g transform="translate(1.8070911,0)" id="gDuStackWeek5">
       <path transform="translate(3000.5813,-2189.6721)" id="line161DuStackWeek" d="m 563.10543,242.93499 -151.5978,0" style="fill:none;stroke:#999999;stroke-width:4.17120361;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <text xml:space="preserve" x="3419.8926" y="-1952.4607" class="weekDuStackTextY" id="text161DuStackWeek"><tspan id="tspan4510" x="3419.8926" y="-1952.4607">161</tspan></text>
       <use height="2979.9211" width="4212.9922" transform="matrix(1,0,0,1.4634036,386.05755,623.18134)" id="use17831" xlink:href="#gDuStackWeek1-1" y="0" x="0" />
       <use height="2979.9211" width="4212.9922" transform="matrix(1,0,0,1.4650203,386.05755,625.35543)" id="use17834" xlink:href="#gDuStackWeek1-2" y="0" x="0" />
-      <text transform="rotate(-45)" class="DuStackWeekText" id="textDuStackWeek5" y="1525.3944" x="3266.6311" xml:space="preserve"><tspan y="1525.3944" x="3266.6311" id="tspan4540">{{Week.replace('1', '5')}}</tspan></text>
+      <text transform="rotate(-45)" class="DuStackWeekText" id="textDuStackWeek5" y="1525.3944" x="3266.6311" xml:space="preserve"><tspan y="1525.3944" x="3266.6311" id="tspan4540">{{WeekOne.replace('1', '5')}}</tspan></text>
      </g>
      <g transform="translate(3.6141821,0)" id="gDuStackWeek6">
       <path transform="translate(3000.5813,-2189.6721)" id="line177DuStackWeek" d="m 655.8105,183.22915 -149.93045,0" style="fill:none;stroke:#999999;stroke-width:4.17120361;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <text class="weekDuStackTextY" id="text177DuStackWeek" y="-2012.4607" x="3513.8926" xml:space="preserve"><tspan y="-2012.4607" x="3513.8926" id="tspan4514">177</tspan></text>
       <use height="2979.9211" width="4212.9922" transform="matrix(1,0,0,1.6115235,479.41011,822.37169)" id="use17837" xlink:href="#gDuStackWeek1-1" y="0" x="0" />
       <use height="2979.9211" width="4212.9922" transform="matrix(1,0,0,1.610333,479.41011,820.77071)" id="use17840" xlink:href="#gDuStackWeek1-2" y="0" x="0" />
-      <text xml:space="preserve" x="3333.1035" y="1591.8611" class="DuStackWeekText" id="textDuStackWeek6" transform="rotate(-45)"><tspan id="tspan4544" x="3333.1035" y="1591.8611">{{Week.replace('1', '6')}}</tspan></text>
+      <text xml:space="preserve" x="3333.1035" y="1591.8611" class="DuStackWeekText" id="textDuStackWeek6" transform="rotate(-45)"><tspan id="tspan4544" x="3333.1035" y="1591.8611">{{WeekOne.replace('1', '6')}}</tspan></text>
      </g>
      <g transform="translate(7.2283641,0)" id="gDuStackWeek7">
       <path transform="translate(3000.5813,-2189.6721)" id="line194DuStackWeek" d="m 693.16304,116.98698 -92.91057,0" style="fill:none;stroke:#999999;stroke-width:4.17120361;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <text xml:space="preserve" x="3609.8926" y="-2078.4607" class="weekDuStackTextY" id="text194DuStackWeek"><tspan id="tspan4518" x="3609.8926" y="-2078.4607">194</tspan></text>
       <use height="2979.9211" width="4212.9922" transform="matrix(1,0,0,1.7713682,572.11519,1037.3298)" id="use17843" xlink:href="#gDuStackWeek1-1" y="0" x="0" />
       <use height="2979.9211" width="4212.9922" transform="matrix(1,0,0,1.7715544,572.11519,1037.5803)" id="use17846" xlink:href="#gDuStackWeek1-2" y="0" x="0" />
-      <text transform="rotate(-45)" class="DuStackWeekText" id="textDuStackWeek7" y="1659.7419" x="3400.9902" xml:space="preserve"><tspan y="1659.7419" x="3400.9902" id="tspan4548">{{Week.replace('1', '7')}}</tspan></text>
+      <text transform="rotate(-45)" class="DuStackWeekText" id="textDuStackWeek7" y="1659.7419" x="3400.9902" xml:space="preserve"><tspan y="1659.7419" x="3400.9902" id="tspan4548">{{WeekOne.replace('1', '7')}}</tspan></text>
      </g>
     </g>
    </g>

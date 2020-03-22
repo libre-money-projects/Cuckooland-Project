@@ -66,8 +66,8 @@
     
     "FlowElsie3_1_1": "La mare em va explicar: si necessites diners, has de fer un préstec, i tornar els diners a poc a poc, però tornar dues vegades més.",
     "FlowFee3_1_1": "Sí, hi ha persones que tenen tants diners que poden prestar i exigir que se’ls pagui a més el que s’anomena interès.",
-    "gRedWheelText": "Per contractar un préstec, has de pagar els interessos,",
-    "gBlueWheelText": "Per pagar interessos, has de contractar un préstec.",
+    "gRedWheelText": "Per contractar un préstec, has de pagar els interessos",
+    "gBlueWheelText": "Per pagar interessos, has de contractar un préstec",
     "FlowElsie3_2_1": "Però llavors, els rics són cada cop més rics i els pobres cada cop més pobres!",
     "FlowFee3_2_1": "Anomenem això un cercle viciós.  No es un sistema que intenta donar a tothom un poder igual.",
     "FlowHotVicious1": "Més fàcilment tinc diners,| més influència tinc.",
@@ -169,7 +169,7 @@
 
     "FlowElsie8_1_1": "Amb un 10 per cent és fàcil calcular, és una divisió per 10, només hem de canviar la coma! Per 100 euros, en creem 10; una setmana després, per 110, en creem 11; dues setmanes després, per 121, creem 12.1.",
     "FlowFee8_1_1": "Mira aquesta banda elàstica: si s’amplia un 10% cada setmana, la seva llargària gairebé s’haurà duplicat la setena setmana. Es diu que aquest tipus de creixement ràpid és exponencial.",
-    "Week": "Setmana 1",
+    "WeekOne": "Setmana 1",
     "FlowElsie8_2_1": "M’imagino, a l’escola, si canviàvem cada setmana la referència de les notes… potser ho sabríem, però seria difícil d’adaptar-se al sistema!",
     "FlowFee8_2_1": "No hi ha cap raó per crear diners tan sovint. Si es fa només a principis d’any, encara respectem en gran mesura la simetria temporal.",
     "FlowElsie8_3_1": "El primer any es creen un 10% d’euros nous, és a dir 1 bilió d’euros. Tothom obté una quota igual… La divisió s’assembla a la d’abans! Això suposa una mica més de 3.000 euros de diners de butxaca per persona.",

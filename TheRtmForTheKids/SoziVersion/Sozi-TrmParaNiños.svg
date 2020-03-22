@@ -281,23 +281,6 @@
    text-align:center;
    font-family:'Komika Text';/*'komika';*/
  }
- .MeanDistribLabel
- {
-   font-size:30px;
-   font-style:normal;
-   font-variant:normal;
-   font-weight:normal;
-   font-stretch:normal;
-   line-height:125%;
-   letter-spacing:0px;
-   word-spacing:0px;
-   text-anchor:middle;
-   text-align:center;
-   fill:#ff6600;
-   fill-opacity:1;
-   stroke:none;
-   font-family:'Komika Text';/*'komika';*/
- }
  .SelectedDuLabel
  {
    font-size:30px;
@@ -362,7 +345,7 @@
  }
  .RunnerRedText
  {
-   font-size:18px;
+   font-size:15px;
    font-style:normal;
    font-variant:normal;
    font-weight:normal;
@@ -379,7 +362,7 @@
  }
  .RunnerBlueText
  {
-   font-size:18px;
+   font-size:15px;
    font-style:normal;
    font-variant:normal;
    font-weight:normal;
@@ -553,13 +536,13 @@
    <g id="gMinute1-2" transform="rotate(30,1335.1814,-271.28698)">
     <rect style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rViewMinute1-2" width="144.97948" height="144.97948" x="1108.4907" y="-1412.6962" />
     <g transform="translate(0,-2.8581591)" id="gBubblesMinute1-2">
-     <g transform="translate(5.3907961,7.6011373)" class="ElsieText" id="gElsie1-2-1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:'Komika Text';letter-spacing:0px;word-spacing:0px;fill:#475114;fill-opacity:1;stroke:none">
+     <g transform="translate(5.3907961,7.6011373)" class="ElsieText" id="gElsie1-2-1">
       <use height="1" width="1" id="use7058-92" xlink:href="#gThreeLineElsie" y="0" x="0" transform="translate(-1645.7875,397.23409)" />
       <flowRoot transform="translate(-1862.4583,-2125.9368)" id="FlowElsie1-2-1" xml:space="preserve" style="line-height:0.01%"><flowRegion id="flowRegion4649"><rect y="716.62476" x="2974.8691" height="21.926144" width="113.00317" id="rect4651" /></flowRegion><flowPara id="flowPara4653" style="line-height:1.25">Conozco las simetrías: cuando te miras en un espejo, crees que podrías intercambiar el reflejo con el mundo real, no verías la diferencia. Así que decimos que hay simetría.</flowPara></flowRoot>     </g>
-     <g id="gFee1-2-1" class="FeeText" transform="translate(-7.825647,11.685952)" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:'Komika Text';letter-spacing:0px;word-spacing:0px;fill:#c90c2c;fill-opacity:1;stroke:none">
+     <g id="gFee1-2-1" class="FeeText" transform="translate(-7.825647,11.685952)">
       <use height="1" width="1" id="use5558-57" xlink:href="#gThreeLineFee" y="0" x="0" transform="translate(-1637.189,387.11251)" />
       <flowRoot xml:space="preserve" id="FlowFee1-2-1" transform="translate(-1856.5311,-2094.1911)" style="line-height:0.01%"><flowRegion id="flowRegion4659"><rect id="rect4661" width="111.42863" height="17.342342" x="2996.0327" y="710.23578" /></flowRegion><flowPara id="flowPara4663" style="line-height:1.25">Este principio de simetría se encuentra en muchos dichos. Deberías saber este: «La libertad de unos termina donde comienza la de otros. »</flowPara></flowRoot>     </g>
-     <g id="gElsie1-2-2" class="ElsieText" transform="translate(14.653945,6.3733773)" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:'Komika Text';letter-spacing:0px;word-spacing:0px;fill:#475114;fill-opacity:1;stroke:none">
+     <g id="gElsie1-2-2" class="ElsieText" transform="translate(14.653945,6.3733773)">
       <use transform="translate(-1482.1999,416.26519)" x="0" y="0" xlink:href="#gTwoLineElsie" id="use15840" width="1" height="1" />
       <flowRoot xml:space="preserve" id="FlowElsie1-2-2" transform="translate(-1862.4592,-2066.7516)" style="line-height:0.01%"><flowRegion id="flowRegion15844"><rect id="rect15846" width="111.88334" height="12.24823" x="2974.8691" y="716.62476" /></flowRegion><flowPara id="flowPara15848" style="line-height:1.25">¡Sí! Y también conozco uno muy importante: «No hagas a los demás lo que no te gustaría que te hicieran. »</flowPara></flowRoot>     </g>
     </g>
@@ -648,10 +631,10 @@
    <g id="gMinute1-4" transform="rotate(-30,1409.8873,-1698.4346)">
     <rect style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rViewMinute1-4" width="144.97948" height="144.97948" x="1110.5713" y="-1411.8396" />
     <g transform="translate(0,36.353847)" id="gBubblesMinute1-4">
-     <g id="gFee1-4-1" class="FeeText" transform="translate(-2.0594511,8.209e-4)" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:'Komika Text';letter-spacing:0px;word-spacing:0px;fill:#c90c2c;fill-opacity:1;stroke:none">
+     <g id="gFee1-4-1" class="FeeText" transform="translate(-2.0594511,8.209e-4)">
       <use height="1" width="1" id="use5307-61" xlink:href="#gTwoLineFee" y="0" x="0" transform="translate(-1473.4964,331.95937)" />
       <flowRoot xml:space="preserve" id="FlowFee1-4-1" transform="translate(-1839.7063,-2123.9732)" style="line-height:0.01%"><flowRegion id="flowRegion4721"><rect id="rect4723" width="112.00964" height="18.539013" x="2974.8691" y="716.62476" /></flowRegion><flowPara id="flowPara4725" style="line-height:1.25">Sí, con un pequeño trozo de papel llamado papeleta, expresan su opinión. Pero, ¿crees que eso es ridículo?</flowPara></flowRoot>     </g>
-     <g id="gElsie1-4-1" class="ElsieText" transform="translate(0.6774259,9.0904309)" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:'Komika Text';letter-spacing:0px;word-spacing:0px;fill:#475114;fill-opacity:1;stroke:none">
+     <g id="gElsie1-4-1" class="ElsieText" transform="translate(0.6774259,9.0904309)">
       <use height="1" width="1" id="use5558-54" xlink:href="#gTwoLineElsie" y="0" x="0" transform="translate(-1475.1342,377.80395)" />
       <flowRoot xml:space="preserve" id="FlowElsie1-4-1" transform="translate(-1876.7179,-2098.8379)" style="line-height:0.01%"><flowRegion id="flowRegion4731"><rect id="rect4733" width="111.59074" height="12.847539" x="2996.0327" y="710.23578" /></flowRegion><flowPara id="flowPara4735" style="line-height:1.25">Un poco, sí... ¡Mamá dice que es inútil! Dice que el dinero gobierna el mundo.</flowPara></flowRoot>     </g>
     </g>
@@ -659,10 +642,10 @@
    <g id="gMinute1-5" transform="rotate(30,1530.1303,-1012.5036)">
     <rect y="-1414.4705" x="1109.0704" height="144.97948" width="144.97948" id="rViewMinute1-5" style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g transform="translate(0,27.922939)" id="gBubblesMinute1-5">
-     <g transform="translate(-8.2244804,0.2679492)" class="FeeText" id="gFee1-5-1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:'Komika Text';letter-spacing:0px;word-spacing:0px;fill:#c90c2c;fill-opacity:1;stroke:none">
+     <g transform="translate(-8.2244804,0.2679492)" class="FeeText" id="gFee1-5-1">
       <use height="1" width="1" id="use5307-84" xlink:href="#gThreeLineFee" y="0" x="0" transform="translate(-1641.2928,363.54889)" />
       <flowRoot xml:space="preserve" id="FlowFee1-5-1" transform="translate(-1839.4787,-2124.6557)" style="line-height:0.01%"><flowRegion id="flowRegion4753"><rect id="rect4755" width="111.35976" height="17.823006" x="2974.8691" y="716.62476" /></flowRegion><flowPara id="flowPara4757" style="line-height:1.25">En efecto, el dinero se utiliza todo el tiempo, en todo tipo de temas, mientras que el voto se utiliza de vez en cuando, en algunos temas.</flowPara></flowRoot>     </g>
-     <g id="gElsie1-5-1" class="ElsieText" transform="translate(2.5224881,8)" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:'Komika Text';letter-spacing:0px;word-spacing:0px;fill:#475114;fill-opacity:1;stroke:none">
+     <g id="gElsie1-5-1" class="ElsieText" transform="translate(2.5224881,8)">
       <use height="1" width="1" id="use5558-12" xlink:href="#gTwoLineElsie" y="0" x="0" transform="translate(-1478.3314,380.7123)" />
       <flowRoot xml:space="preserve" id="FlowElsie1-5-1" transform="translate(-1880.2087,-2095.6772)" style="line-height:0.01%"><flowRegion id="flowRegion4763"><rect id="rect4765" width="112.17266" height="16.584293" x="2996.0327" y="710.23578" /></flowRegion><flowPara id="flowPara4767" style="line-height:1.25">La canción debería decir «Un hombre, un billete », pero es una tontería, no se reparte un billete como se reparte una papeleta.</flowPara></flowRoot>     </g>
     </g>
@@ -670,7 +653,7 @@
    <g id="gMinute1-6" transform="translate(384.15826,-229.538)">
     <rect style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.40000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="rViewMinute1-6" width="144.97948" height="144.97948" x="1107.8947" y="-1414.1309" />
     <g transform="translate(0,18.141078)" id="gBubblesMinute1-6">
-     <g transform="translate(-4.8546171,2)" class="FeeText" id="gFee1-6-1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:'Komika Text';letter-spacing:0px;word-spacing:0px;fill:#c90c2c;fill-opacity:1;stroke:none">
+     <g transform="translate(-4.8546171,2)" class="FeeText" id="gFee1-6-1">
       <use height="1" width="1" id="use5307-96" xlink:href="#gFourLineFee" y="0" x="0" transform="translate(-1825.5292,363.03949)" />
       <flowRoot xml:space="preserve" id="FlowFee1-6-1" transform="translate(-1839.4,-2125.388)" style="line-height:0.01%"><flowRegion id="flowRegion4785"><rect id="rect4787" width="110.04433" height="24.683472" x="2974.8691" y="716.62476" /></flowRegion><flowPara id="flowPara4789" style="line-height:1.25">¡Los humanos son divertidos! «¡Dinero! ¡Dinero!» Siempre están hablando de algo de lo que no saben nada: la moneda. Pero cuando sienten que destruye su democracia, e incluso su existencia, lo aceptan, como si fuera natural e inevitable.</flowPara></flowRoot>     </g>
      <g id="gElsie1-6-1" class="ElsieText" transform="translate(3.1453829,4)">
@@ -966,14 +949,14 @@
    <g id="gMinute3-1" transform="rotate(-30,4582.064,-1461.4285)">
     <rect y="-1342.6658" x="2987.6323" height="144.97948" width="144.97948" id="rViewMinute3-1" style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g transform="translate(0,5.0913772)" id="gBubblesMinute3-1">
-     <g transform="translate(4,0.63899)" class="ElsieText" id="gElsie3-1-1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:'Komika Text';letter-spacing:0px;word-spacing:0px;fill:#475114;fill-opacity:1;stroke:none">
+     <g transform="translate(4,-1.5672323)" class="ElsieText" id="gElsie3-1-1">
       <use height="1" width="1" id="use7058-1" xlink:href="#gTwoLineElsie" y="0" x="0" transform="translate(398.47876,428.38135)" />
       <flowRoot transform="translate(18.952764,-2054.4027)" id="FlowElsie3-1-1" xml:space="preserve" style="line-height:0.01%"><flowRegion id="flowRegion3579"><rect y="716.62476" x="2974.8691" height="16.68108" width="111.47894" id="rect3581" /></flowRegion><flowPara id="flowPara3583" style="line-height:1.25">Mamá me explicó: si necesitas dinero, tienes que pedirlo prestado, y luego devolverlo poco a poco, pero devolver el doble.</flowPara></flowRoot>     </g>
-     <g id="gFee3-1-1" class="FeeText" transform="translate(-4)" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:'Komika Text';letter-spacing:0px;word-spacing:0px;fill:#c90c2c;fill-opacity:1;stroke:none">
+     <g id="gFee3-1-1" class="FeeText" transform="translate(-4,-7.2373338)">
       <use height="1" width="1" id="use5861-0" xlink:href="#gTwoLineFee" y="0" x="0" transform="translate(405.93156,429.08519)" />
       <flowRoot xml:space="preserve" id="FlowFee3-1-1" transform="translate(17.601491,-2020.411)" style="line-height:0.01%"><flowRegion id="flowRegion3589"><rect id="rect3591" width="111.30858" height="14.544265" x="2996.0327" y="710.23578" /></flowRegion><flowPara id="flowPara3593" style="line-height:1.25">Sí, algunas personas tienen tanto dinero que pueden prestarlo y exigir que se les devuelva con algo más que se llama interés.</flowPara></flowRoot>     </g>
     </g>
-    <g id="gRunnerInWheel" transform="matrix(0.15,0,0,0.15,3007.6556,-1309.9364)">
+    <g id="gRunnerInWheel" transform="matrix(0.18169831,0,0,0.18169831,2996.5837,-1329.2415)">
      <g id="gBackSpokeAndFrame">
       <path id="pathBackFrame" d="m -457.25653,9.734787 h 18.55093 V 719.61784 h -18.55093" style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1" transform="rotate(-90)" inkscape:connector-curvature="0" />
       <rect style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" id="rectBackSpoke" width="18.550932" height="430.54245" x="227.02878" y="311.83044" transform="rotate(-15)" />
@@ -1088,13 +1071,13 @@
       <path style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" d="M 314.52965,714.16197 C 264.31118,710.01871 219.41193,693.45884 180.7882,664.83508 119.21535,619.2039 81.2183,548.05856 78.166172,472.6865 c -2.077715,-51.30901 9.758959,-98.40611 35.726538,-142.15281 35.67063,-60.09308 98.05001,-104.28081 166.85328,-118.194 19.17263,-3.87703 25.56274,-4.43406 50.85713,-4.43327 25.88525,8.1e-4 34.36006,0.83457 54.85305,5.39646 81.06679,18.04608 148.04644,74.64039 179.82068,151.93911 12.71885,30.94173 18.47514,60.78959 18.47934,95.82003 0.002,19.83619 -0.95754,30.37578 -4.37578,48.04472 -18.86419,97.50906 -93.79618,175.68635 -190.35967,198.60411 -18.52017,4.39547 -33.45361,6.16459 -54.78497,6.49021 -9.3904,0.14334 -18.70816,0.12576 -20.70612,-0.0391 v 0 z m 38.24751,-37.34203 c 103.56881,-10.2984 184.9202,-92.1623 194.67372,-195.90018 1.06865,-11.36602 0.452,-39.95452 -1.0812,-50.12586 -8.88128,-58.91896 -38.3378,-108.69813 -85.03829,-143.70794 -30.43573,-22.81667 -66.63733,-37.21493 -105.3895,-41.91598 -11.69493,-1.41872 -40.50951,-1.2025 -51.94693,0.3898 -45.85012,6.3832 -85.88454,24.92506 -118.92901,55.08173 -66.26843,60.47715 -88.423804,155.78134 -55.70271,239.61232 10.79084,27.64597 26.82013,52.01663 48.54514,73.80719 22.692,22.76047 47.84477,39.03641 77.42934,50.1032 17.93107,6.70754 33.64999,10.2746 57.01234,12.93769 5.23745,0.59703 33.57496,0.39937 40.4271,-0.28197 z" id="pathFrontWheelFill" inkscape:connector-curvature="0" />
      </g>
      <g id="g4381">
-      <g class="RunnerRedText" id="gRedWheelText" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:125%;font-family:'Komika Text';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#bc0000;fill-opacity:1;stroke:none">
-       <text id="CurvedTextRunnerRed" xml:space="preserve" style="line-height:0%"><textPath id="textPath4375" startOffset="100%" xlink:href="#path6501"><tspan id="tspan4358">Para pedir dinero prestado, hay que pagar intereses</tspan></textPath></text>
+      <g class="RunnerRedText" id="gRedWheelText">
+       <text id="CurvedTextRunnerRed" xml:space="preserve" style="line-height:0%"><textPath id="textPath4375" startOffset="100%" xlink:href="#path6501"><tspan id="tspan4358">Para pedir dinero prestado, hay que pagar intereses    </tspan></textPath></text>
       </g>
-      <g class="RunnerBlueText" id="gBlueWheelText" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:125%;font-family:'Komika Text';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#0057b8;fill-opacity:1;stroke:none">
-       <text id="CurvedTextRunnerBlue" xml:space="preserve" style="line-height:0%"><textPath id="textPath4378" xlink:href="#path6501">Para pagar el interés, tienes que pedir prestado</textPath></text>
+      <g class="RunnerBlueText" id="gBlueWheelText">
+       <text id="CurvedTextRunnerBlue" xml:space="preserve" style="line-height:0%"><textPath id="textPath4378" xlink:href="#path6501">    Para pagar el interés, tienes que pedir prestado</textPath></text>
       </g>
-      <g transform="translate(-4,1.1963584)" id="gWheelArrow">
+      <g transform="rotate(-3.3417588,357.54227,512.79482)" id="gWheelArrow">
        <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 318.58009,225.76858 c 9.14475,-0.85199 18.28949,-0.97523 27.43424,0" id="path4458" inkscape:connector-curvature="0" />
        <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 346.50142,220.09054 -0.95568,10.932 5.34087,-5.17857 z" id="path4460" inkscape:connector-curvature="0" />
       </g>
@@ -1113,35 +1096,35 @@
      <circle style="display:none;fill:none;stroke:none" id="path6501" transform="matrix(6.6666667,0,0,6.6666667,-22050.242,-9017.0847)" cx="3357.3198" cy="1421.6965" r="34.296803" />
     </g>
    </g>
-   <g id="gMinute3-2" transform="matrix(0.8660254,0.5,-0.5,0.8660254,33.014579,-1643.1137)">
-    <rect style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.40000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="rViewMinute3-2" width="144.97948" height="144.97948" x="3461.6267" y="-604.49109" />
+   <g id="gMinute3-2" transform="rotate(30,3082.5992,-759.95081)">
+    <rect style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rViewMinute3-2" width="144.97948" height="144.97948" x="3461.6267" y="-604.49109" />
     <g id="gBubblesMinute3-2" transform="translate(0,2)">
-     <g id="gElsie3-2-1" class="ElsieText" transform="translate(4,0)">
+     <g id="gElsie3-2-1" class="ElsieText" transform="translate(4)">
       <use height="1" width="1" id="use5307-7" xlink:href="#gTwoLineElsie" y="0" x="0" transform="translate(872.16358,1168.8646)" />
-      <flowRoot xml:space="preserve" id="FlowElsie3-2-1" transform="translate(491.81624,-1314.2343)" style="line-height:0.01%;"><flowRegion id="flowRegion3642" style=""><rect id="rect3644" width="111.51794" height="12.915611" x="2974.8691" y="716.62476" style="" /></flowRegion><flowPara id="flowPara3646" style="line-height:1.25;">Pero entonces los ricos se hacen cada vez más ricos, y los pobres cada vez más pobres!</flowPara></flowRoot>     </g>
+      <flowRoot xml:space="preserve" id="FlowElsie3-2-1" transform="translate(491.81624,-1314.2343)" style="line-height:0.01%"><flowRegion id="flowRegion3642"><rect id="rect3644" width="111.51794" height="12.915611" x="2974.8691" y="716.62476" /></flowRegion><flowPara id="flowPara3646" style="line-height:1.25">Pero entonces los ricos se hacen cada vez más ricos, y los pobres cada vez más pobres!</flowPara></flowRoot>     </g>
      <g id="gFee3-2-1" class="FeeText" transform="translate(-4,2)">
       <use height="1" width="1" id="use5558-1" xlink:href="#gTwoLineFee" y="0" x="0" transform="translate(880.56859,1163.2909)" />
-      <flowRoot xml:space="preserve" id="FlowFee3-2-1" transform="translate(492.23852,-1286.0752)" style="line-height:0.01%;"><flowRegion id="flowRegion3652" style=""><rect id="rect3654" width="110.46661" height="12.48035" x="2996.0327" y="710.23578" style="" /></flowRegion><flowPara id="flowPara3656" style="line-height:1.25;">Se llaman círculos viciosos. No es un sistema que lleve a todos al mismo poder.</flowPara></flowRoot>     </g>
+      <flowRoot xml:space="preserve" id="FlowFee3-2-1" transform="translate(492.23852,-1286.0752)" style="line-height:0.01%"><flowRegion id="flowRegion3652"><rect id="rect3654" width="110.46661" height="12.48035" x="2996.0327" y="710.23578" /></flowRegion><flowPara id="flowPara3656" style="line-height:1.25">Se llaman círculos viciosos. No es un sistema que lleve a todos al mismo poder.</flowPara></flowRoot>     </g>
     </g>
     <g transform="translate(-26.663126,-20.890825)" class="Illustration" id="gHotViciousCircle">
      <g id="g5120">
-      <path id="rect5114" d="m 3509.0999,-524.89453 c 0,0 44.7837,-13.81088 58.5946,0 3.4302,3.4302 2.8778,11.18176 -3.4867,14.8563 -16.5071,9.53041 -33.1604,-10.75386 -49.3456,0.25564 z" style="fill:#5fbcd3;fill-opacity:1;fill-rule:nonzero;stroke:#502d16;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
-      <flowRoot transform="translate(-50.64267,-2703.3516)" id="FlowHotVicious1" xml:space="preserve" style="line-height:0.01%;"><flowRegion id="flowRegion7271" style=""><rect y="2178.136" x="3566.8757" height="12.408684" width="49.408833" id="rect7273" style="" /></flowRegion><flowPara id="flowPara7275" style="line-height:1.25;">Cuanto más fácil consigo el dinero,</flowPara><flowPara id="flowPara7293" style="line-height:1.25;">más influencia tengo.</flowPara></flowRoot>     </g>
+      <path id="rect5114" d="m 3509.0999,-524.89453 c 0,0 44.7837,-13.81088 58.5946,0 3.4302,3.4302 2.8778,11.18176 -3.4867,14.8563 -16.5071,9.53041 -33.1604,-10.75386 -49.3456,0.25564 z" style="fill:#5fbcd3;fill-opacity:1;fill-rule:nonzero;stroke:#502d16;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1" inkscape:connector-curvature="0" />
+      <flowRoot transform="translate(-51.880002,-2703.3516)" id="FlowHotVicious1" xml:space="preserve" style="line-height:0.01%"><flowRegion id="flowRegion7271"><rect y="2178.136" x="3566.8757" height="11.377572" width="53.120831" id="rect7273" /></flowRegion><flowPara id="flowPara7275" style="line-height:1.25">Cuanto más fácil consigo </flowPara><flowPara id="flowPara7293" style="line-height:1.25">el dinero, más influencia tengo.</flowPara></flowRoot>     </g>
      <g transform="translate(0,20)" id="g7297">
-      <use height="2979.9211" width="4212.9922" transform="matrix(-1,0,0,-1,7082.3189,-1037.3741)" id="use6034" xlink:href="#rect5114" y="0" x="0" />
-      <flowRoot xml:space="preserve" id="FlowHotVicious2" transform="translate(-50.64267,-2701.3516)" style="line-height:0.01%;"><flowRegion id="flowRegion7303" style=""><rect id="rect7305" width="50.805584" height="13.339851" x="3566.8757" y="2178.136" style="" /></flowRegion><flowPara id="flowPara7307" style="line-height:1.25;">Cuanto más influencia tengo,</flowPara><flowPara id="flowPara7309" style="line-height:1.25;">más dinero tengo fácilmente.</flowPara></flowRoot>     </g>
-     <path style="fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:#502d16;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" d="m 3571.2784,-499.30967 8.2032,-0.2069 -2.9929,-2.1196 c 0.2884,-0.4078 0.5664,-0.8302 0.8311,-1.2687 l 0,0 c 0.9437,-1.5204 1.6048,-3.3888 1.6454,-5.4814 -0.055,-2.0874 -0.7259,-3.9465 -1.673,-5.4578 -1.2488,-2.0501 -2.7868,-3.7446 -4.3093,-5.2462 l -3.4298,3.4298 c 1.4061,1.4271 2.7004,2.8092 3.5784,4.3093 0.5881,1.0519 1.0287,2.0858 0.9834,2.9824 l 0,0 c 0.052,0.897 -0.3828,1.9345 -0.9663,2.9885 l 0,0 c -0.1855,0.3203 -0.3901,0.6351 -0.6107,0.9461 l -2.969,-2.1027 z" id="path7347" />
-     <use height="2979.9211" width="4212.9922" transform="matrix(-1,0,0,-1,7082.338,-1017.9869)" id="use7349" xlink:href="#path7347" y="0" x="0" />
+      <use height="2979.9211" width="4212.9922" transform="rotate(180,3541.1595,-518.68705)" id="use6034" xlink:href="#rect5114" y="0" x="0" />
+      <flowRoot xml:space="preserve" id="FlowHotVicious2" transform="translate(-50.64267,-2701.3516)" style="line-height:0.01%"><flowRegion id="flowRegion7303"><rect id="rect7305" width="50.805584" height="13.339851" x="3566.8757" y="2178.136" /></flowRegion><flowPara id="flowPara7307" style="line-height:1.25">Cuanto más influencia tengo,</flowPara><flowPara id="flowPara7309" style="line-height:1.25">más dinero tengo fácilmente.</flowPara></flowRoot>     </g>
+     <path style="fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:#502d16;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1" d="m 3571.2784,-499.30967 8.2032,-0.2069 -2.9929,-2.1196 c 0.2884,-0.4078 0.5664,-0.8302 0.8311,-1.2687 v 0 c 0.9437,-1.5204 1.6048,-3.3888 1.6454,-5.4814 -0.055,-2.0874 -0.7259,-3.9465 -1.673,-5.4578 -1.2488,-2.0501 -2.7868,-3.7446 -4.3093,-5.2462 l -3.4298,3.4298 c 1.4061,1.4271 2.7004,2.8092 3.5784,4.3093 0.5881,1.0519 1.0287,2.0858 0.9834,2.9824 v 0 c 0.052,0.897 -0.3828,1.9345 -0.9663,2.9885 v 0 c -0.1855,0.3203 -0.3901,0.6351 -0.6107,0.9461 l -2.969,-2.1027 z" id="path7347" inkscape:connector-curvature="0" />
+     <use height="2979.9211" width="4212.9922" transform="rotate(180,3541.169,-508.99345)" id="use7349" xlink:href="#path7347" y="0" x="0" />
     </g>
     <g id="gColdViciousCircle" class="Illustration" transform="translate(13.336874,21.109175)">
      <g id="g5154">
-      <path style="fill:#d12e2e;fill-opacity:1;fill-rule:nonzero;stroke:#502d16;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" d="m 3509.0999,-522.89453 c 0,0 44.7837,-13.81088 58.5946,0 3.4302,3.4302 2.8778,11.18176 -3.4867,14.8563 -16.5071,9.53041 -33.1604,-10.75386 -49.3456,0.25564 z" id="path6039" />
-      <flowRoot xml:space="preserve" id="FlowColdVicious1" transform="translate(-52.64267,-2701.3516)" style="line-height:0.01%;"><flowRegion id="flowRegion5160" style=""><rect id="rect5162" width="50.805584" height="13.572643" x="3566.8757" y="2178.136" style="" /></flowRegion><flowPara id="flowPara5164" style="line-height:1.25;">Cuanto menos influencia tengo,</flowPara><flowPara id="flowPara5166" style="line-height:1.25;">menos dinero tengo fácilmente.</flowPara></flowRoot>     </g>
+      <path style="fill:#d12e2e;fill-opacity:1;fill-rule:nonzero;stroke:#502d16;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1" d="m 3509.0999,-522.89453 c 0,0 44.7837,-13.81088 58.5946,0 3.4302,3.4302 2.8778,11.18176 -3.4867,14.8563 -16.5071,9.53041 -33.1604,-10.75386 -49.3456,0.25564 z" id="path6039" inkscape:connector-curvature="0" />
+      <flowRoot xml:space="preserve" id="FlowColdVicious1" transform="translate(-52.64267,-2701.3516)" style="line-height:0.01%"><flowRegion id="flowRegion5160"><rect id="rect5162" width="58.023365" height="13.778866" x="3566.8757" y="2178.136" /></flowRegion><flowPara id="flowPara5164" style="line-height:1.25">Cuanto menos influencia tengo,</flowPara><flowPara id="flowPara5166" style="line-height:1.25">menos dinero tengo fácilmente.</flowPara></flowRoot>     </g>
      <g id="g5168" transform="translate(0,18)">
-      <use height="2979.9211" width="4212.9922" transform="matrix(-1,0,0,-1,7082.5791,-1031.1995)" id="use6045" xlink:href="#path6039" y="0" x="0" />
-      <flowRoot transform="translate(-50.64267,-2697.3516)" id="FlowColdVicious2" xml:space="preserve" style="line-height:0.01%;"><flowRegion id="flowRegion5174" style=""><rect y="2178.136" x="3566.8757" height="12.874268" width="49.641624" id="rect5176" style="" /></flowRegion><flowPara id="flowPara5178" style="line-height:1.25;">Cuanto menos dinero tengo fácilmente,</flowPara><flowPara id="flowPara5180" style="line-height:1.25;">menos influencia tengo.</flowPara></flowRoot>     </g>
-     <path id="path5182" d="m 3571.43,-497.43193 8.2032,-0.2069 -2.9929,-2.1196 c 0.2884,-0.4078 0.5664,-0.8302 0.8311,-1.2687 l 0,0 c 0.9437,-1.5204 1.6048,-3.3888 1.6454,-5.4814 -0.055,-2.0874 -0.7259,-3.9465 -1.673,-5.4578 -1.2488,-2.0501 -2.7868,-3.7446 -4.3093,-5.2462 l -3.4298,3.4298 c 1.4061,1.4271 2.7004,2.8092 3.5784,4.3093 0.5881,1.0519 1.0287,2.0858 0.9834,2.9824 l 0,0 c 0.052,0.897 -0.3828,1.9345 -0.9663,2.9885 l 0,0 c -0.1855,0.3203 -0.3901,0.6351 -0.6107,0.9461 l -2.969,-2.1027 z" style="fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:#502d16;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
-     <use x="0" y="0" xlink:href="#path7347" id="use5184" transform="matrix(-1,0,0,-1,7082.4896,-1015.5321)" width="4212.9922" height="2979.9211" />
+      <use height="2979.9211" width="4212.9922" transform="rotate(180,3541.2896,-515.59975)" id="use6045" xlink:href="#path6039" y="0" x="0" />
+      <flowRoot transform="translate(-53.736,-2697.5578)" id="FlowColdVicious2" xml:space="preserve" style="line-height:0.01%"><flowRegion id="flowRegion5174"><rect y="2178.136" x="3566.8757" height="11.224489" width="60.983849" id="rect5176" /></flowRegion><flowPara id="flowPara5180" style="line-height:1.25">Cuanto menos dinero tengo fácilmente, menos influencia tengo.</flowPara></flowRoot>     </g>
+     <path id="path5182" d="m 3571.43,-497.43193 8.2032,-0.2069 -2.9929,-2.1196 c 0.2884,-0.4078 0.5664,-0.8302 0.8311,-1.2687 v 0 c 0.9437,-1.5204 1.6048,-3.3888 1.6454,-5.4814 -0.055,-2.0874 -0.7259,-3.9465 -1.673,-5.4578 -1.2488,-2.0501 -2.7868,-3.7446 -4.3093,-5.2462 l -3.4298,3.4298 c 1.4061,1.4271 2.7004,2.8092 3.5784,4.3093 0.5881,1.0519 1.0287,2.0858 0.9834,2.9824 v 0 c 0.052,0.897 -0.3828,1.9345 -0.9663,2.9885 v 0 c -0.1855,0.3203 -0.3901,0.6351 -0.6107,0.9461 l -2.969,-2.1027 z" style="fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:#502d16;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1" inkscape:connector-curvature="0" />
+     <use x="0" y="0" xlink:href="#path7347" id="use5184" transform="rotate(180,3541.2448,-507.76605)" width="4212.9922" height="2979.9211" />
     </g>
    </g>
    <g id="gMinute3-3" transform="translate(-345.66781,306.05314)">
@@ -1206,19 +1189,19 @@
      </g>
     </g>
    </g>
-   <g id="gMinute3-4" transform="matrix(0.8660254,-0.5,0.5,0.8660254,222.07527,1890.1328)">
-    <rect style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.40000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="rViewMinute3-4" width="144.97948" height="144.97948" x="3461.021" y="-603.77405" />
+   <g id="gMinute3-4" transform="rotate(-30,3638.0735,530.66831)">
+    <rect style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rViewMinute3-4" width="144.97948" height="144.97948" x="3461.021" y="-603.77405" />
     <g id="gBubblesMinute3-4" transform="translate(0,4)">
-     <g id="gElsie3-4-1" class="ElsieText" transform="translate(4,0)">
+     <g id="gElsie3-4-1" class="ElsieText" transform="translate(4)">
       <use height="1" width="1" id="use5307-42" xlink:href="#gTwoLineElsie" y="0" x="0" transform="translate(872.16358,1168.8646)" />
-      <flowRoot xml:space="preserve" id="FlowElsie3-4-1" transform="translate(491.73616,-1314.2343)" style="line-height:0.01%;"><flowRegion id="flowRegion3706" style=""><rect id="rect3708" width="112.4854" height="12.068578" x="2974.8691" y="716.62476" style="" /></flowRegion><flowPara id="flowPara3710" style="line-height:1.25;">… ...mientras que los que tienen un promedio superior a 10 reciben una puntuación de 20/20 (SOB) !</flowPara></flowRoot>     </g>
+      <flowRoot xml:space="preserve" id="FlowElsie3-4-1" transform="translate(491.73616,-1314.2343)" style="line-height:0.01%"><flowRegion id="flowRegion3706"><rect id="rect3708" width="112.4854" height="12.068578" x="2974.8691" y="716.62476" /></flowRegion><flowPara id="flowPara3710" style="line-height:1.25">… ...mientras que los que tienen un promedio superior a 10 reciben una puntuación de 20/20 (SOB) !</flowPara></flowRoot>     </g>
      <g id="gFee3-4-1" class="FeeText" transform="translate(-4,2)">
       <use height="1" width="1" id="use5558-5" xlink:href="#gTwoLineFee" y="0" x="0" transform="translate(880.56859,1163.8556)" />
-      <flowRoot xml:space="preserve" id="FlowFee3-4-1" transform="translate(492.13049,-1285.7446)" style="line-height:0.01%;"><flowRegion id="flowRegion3716" style=""><rect id="rect3718" width="109.24406" height="11.774361" x="2996.0327" y="710.23578" style="" /></flowRegion><flowPara id="flowPara3720" style="line-height:1.25;">El riesgo de ir por debajo de la promedio es menor con esta recompensa.</flowPara></flowRoot>     </g>
+      <flowRoot xml:space="preserve" id="FlowFee3-4-1" transform="translate(492.13049,-1285.7446)" style="line-height:0.01%"><flowRegion id="flowRegion3716"><rect id="rect3718" width="109.24406" height="11.774361" x="2996.0327" y="710.23578" /></flowRegion><flowPara id="flowPara3720" style="line-height:1.25">El riesgo de ir por debajo de la promedio es menor con esta recompensa.</flowPara></flowRoot>     </g>
     </g>
     <g transform="translate(-10.148037,17.108444)" id="gMoreThanTen1">
      <rect y="-552.94635" x="3487.9338" height="52.560806" width="45.545738" id="rect14357" style="fill:#37aac7;fill-opacity:1;fill-rule:nonzero;stroke:none" rx="2" ry="2" />
-     <path id="rect7019" d="m 3505.3396,-546.74951 0,-3.10862 c -0.143,-1.80288 0.8691,-3.08822 3.2929,-3.08822 l 22.8471,0 c 1.108,0 2,0.892 2,2 l 0,37.13346 c 0,1.108 -0.892,2 -2,2 l -41.5458,0 c -1.108,0 -2,-0.892 -2,-2 l 0,-27.68413 c 0,-1.83007 1.1048,-2.61605 3.2261,-2.61605 3.1507,0 9.05,0 11.2553,0 1.8272,0 2.9244,-0.72786 2.9244,-2.63644 z" style="fill:#5fbcd3;fill-opacity:1;fill-rule:nonzero;stroke:#d3bc5f;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+     <path id="rect7019" d="m 3505.3396,-546.74951 v -3.10862 c -0.143,-1.80288 0.8691,-3.08822 3.2929,-3.08822 h 22.8471 c 1.108,0 2,0.892 2,2 v 37.13346 c 0,1.108 -0.892,2 -2,2 h -41.5458 c -1.108,0 -2,-0.892 -2,-2 v -27.68413 c 0,-1.83007 1.1048,-2.61605 3.2261,-2.61605 3.1507,0 9.05,0 11.2553,0 1.8272,0 2.9244,-0.72786 2.9244,-2.63644 z" style="fill:#5fbcd3;fill-opacity:1;fill-rule:nonzero;stroke:#d3bc5f;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" inkscape:connector-curvature="0" />
      <g transform="translate(3.7538793,0.3927917)" id="g14480">
       <g id="gMoreThanMean" class="Illustration" transform="translate(-128,-442)">
        <text xml:space="preserve" x="3615.5364" y="-105.62354" id="text5541" style="line-height:0%"><tspan id="tspan5544" x="3615.5364" y="-105.62354">Mes 1</tspan></text>
@@ -1230,19 +1213,19 @@
        <text xml:space="preserve" x="3637.5361" y="-88.954361" id="text6186" style="line-height:0%"><tspan id="tspan6188" x="3637.5361" y="-88.954361">11/20</tspan></text>
        <text xml:space="preserve" x="3619.5364" y="-84.954361" id="text6198" style="line-height:0%"><tspan id="tspan6200" x="3619.5364" y="-84.954361">Nota 4 :</tspan></text>
        <text id="text6202" y="-84.954361" x="3637.5361" xml:space="preserve" style="line-height:0%"><tspan y="-84.954361" x="3637.5361" id="tspan6204">12/20</tspan></text>
-       <path id="path6210" d="m 3617.5364,-82.9544 30.2528,0" style="fill:none;stroke:#000000;stroke-width:0.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+       <path id="path6210" d="m 3617.5364,-82.9544 h 30.2528" style="fill:none;stroke:#000000;stroke-width:0.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" inkscape:connector-curvature="0" />
        <text id="text6206" y="-78.954361" x="3619.5364" xml:space="preserve" style="line-height:0%"><tspan y="-78.954361" x="3619.5364" id="tspan6208">Total :</tspan></text>
        <text xml:space="preserve" x="3637.5361" y="-78.954361" id="text6212" style="line-height:0%"><tspan id="tspan6214" x="3637.5361" y="-78.954361">45/80</tspan></text>
        <text xml:space="preserve" x="3619.5364" y="-74.954361" id="text6216" style="line-height:0%"><tspan id="tspan6218" x="3619.5364" y="-74.954361">Promedio :</tspan></text>
        <text id="text6220" y="-74.954361" x="3637.5361" xml:space="preserve" style="line-height:0%"><tspan y="-74.954361" x="3637.5361" id="tspan6222">11.25/20</tspan></text>
-       <text id="text10444" y="-65.882431" x="3619.5364" xml:space="preserve" style="line-height:0%"><tspan y="-65.882431" x="3619.5364" id="tspan10446">más de 10/20</tspan></text>
-       <text xml:space="preserve" x="3619.5364" y="-61.882431" id="text10448" style="line-height:0%"><tspan id="tspan10450" x="3619.5364" y="-61.882431">así pues, recompensa !</tspan></text>
+       <text id="text10444" y="-65.882431" x="3615.5364" xml:space="preserve" style="line-height:0%"><tspan y="-65.882431" x="3615.5364" id="tspan10446">más de 10/20</tspan></text>
+       <text xml:space="preserve" x="3615.5364" y="-61.882431" id="text10448" style="line-height:0%"><tspan id="tspan10450" x="3615.5364" y="-61.882431">así pues, recompensa !</tspan></text>
       </g>
      </g>
     </g>
     <g id="gMoreThanTen2" transform="translate(-12.148037,17.108444)">
      <rect ry="2" rx="2" style="fill:#37aac7;fill-opacity:1;fill-rule:nonzero;stroke:none" id="rect10312" width="60.400032" height="52.560806" x="3542.053" y="-552.94635" />
-     <path id="rect7016" d="m 3560.3743,-547.71425 0,-2.89423 c 0,-1.54351 1.0386,-2.33787 2.7831,-2.33787 l 37.2956,0 c 1.108,0 2,0.892 2,2 l 0,36.98958 c 0,1.108 -0.892,2 -2,2 l -56.4,0 c -1.108,0 -2,-0.892 -2,-2 l 0,-28.50499 c 0,-2.06048 0.9364,-2.54748 2.8814,-2.54748 3.4289,0 8.988,0 12.4345,0 2.0243,0 3.0054,-0.76905 3.0054,-2.70501 z" style="fill:#5fbcd3;fill-opacity:1;fill-rule:nonzero;stroke:#d3bc5f;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+     <path id="rect7016" d="m 3560.3743,-547.71425 v -2.89423 c 0,-1.54351 1.0386,-2.33787 2.7831,-2.33787 h 37.2956 c 1.108,0 2,0.892 2,2 v 36.98958 c 0,1.108 -0.892,2 -2,2 h -56.4 c -1.108,0 -2,-0.892 -2,-2 v -28.50499 c 0,-2.06048 0.9364,-2.54748 2.8814,-2.54748 3.4289,0 8.988,0 12.4345,0 2.0243,0 3.0054,-0.76905 3.0054,-2.70501 z" style="fill:#5fbcd3;fill-opacity:1;fill-rule:nonzero;stroke:#d3bc5f;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" inkscape:connector-curvature="0" />
      <g id="g10314" transform="translate(3.7538793,-2.9271545)">
       <g class="Illustration" id="g10372" transform="translate(-74,-442)">
        <text xml:space="preserve" x="3615.5364" y="-102.71397" id="text10374" style="line-height:0%"><tspan id="tspan10376" x="3615.5364" y="-102.71397">Mes 2</tspan></text>
@@ -1256,7 +1239,7 @@
        <text id="text10406" y="-82.954361" x="3643.5361" xml:space="preserve" style="line-height:0%"><tspan y="-82.954361" x="3643.5361" id="tspan10408">10/20</tspan></text>
        <text id="text10428" y="-78.954361" x="3619.5364" xml:space="preserve" style="line-height:0%"><tspan y="-78.954361" x="3619.5364" id="tspan10430">Nota 4 :</tspan></text>
        <text xml:space="preserve" x="3643.5361" y="-78.954361" id="text10432" style="line-height:0%"><tspan id="tspan10434" x="3643.5361" y="-78.954361">11/20</tspan></text>
-       <path id="path10414" d="m 3617.5364,-76.9544 38.5905,0" style="fill:none;stroke:#000000;stroke-width:0.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+       <path id="path10414" d="m 3617.5364,-76.9544 h 38.5905" style="fill:none;stroke:#000000;stroke-width:0.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" inkscape:connector-curvature="0" />
        <text id="text10410" y="-72.950333" x="3619.5364" xml:space="preserve" style="line-height:0%"><tspan y="-72.950333" x="3619.5364" id="tspan10412">Total :</tspan></text>
        <text xml:space="preserve" x="3643.5361" y="-72.954361" id="text10416" style="line-height:0%"><tspan id="tspan10418" x="3643.5361" y="-72.954361">58/100</tspan></text>
        <text xml:space="preserve" x="3619.5364" y="-69.338394" id="text10420" style="line-height:0%"><tspan id="tspan10422" x="3619.5364" y="-69.338394">Promedio :</tspan></text>
@@ -1361,13 +1344,13 @@
    <g id="gMinute4-3" transform="translate(-17.492634,483.307)">
     <rect style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.40000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="rViewMinute4-3" width="144.97948" height="144.97948" x="2988.0615" y="-1334.7375" />
     <g id="gBubblesMinute4-3" transform="translate(0,21.284978)">
-     <g transform="translate(-3.964836,-5.2395522)" class="FeeText" id="gFee4-3-1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:'Komika Text';letter-spacing:0px;word-spacing:0px;fill:#c90c2c;fill-opacity:1;stroke:none">
+     <g transform="translate(-3.964836,-5.2395522)" class="FeeText" id="gFee4-3-1">
       <use transform="translate(410.92786,473.40448)" x="0" y="0" xlink:href="#gOneLineFee" id="use4498" width="1" height="1" />
       <flowRoot xml:space="preserve" id="FlowFee4-3-1" transform="translate(19.062233,-2026.5281)" style="line-height:0.01%"><flowRegion id="flowRegion3429"><rect id="rect3431" width="111.47122" height="13.728584" x="2996.0327" y="710.23578" /></flowRegion><flowPara id="flowPara3433" style="line-height:1.25">Acabas de resaltar dos puntos de vista, dos referenciales.</flowPara></flowRoot>     </g>
-     <g id="gElsie4-3-1" class="ElsieText" transform="translate(4,0.0276787)" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:'Komika Text';letter-spacing:0px;word-spacing:0px;fill:#475114;fill-opacity:1;stroke:none">
+     <g id="gElsie4-3-1" class="ElsieText" transform="translate(4,0.0276787)">
       <use height="1" width="1" id="use5307-41" xlink:href="#gTwoLineElsie" y="0" x="0" transform="translate(398.93531,467.87073)" />
       <flowRoot xml:space="preserve" id="FlowElsie4-3-1" transform="translate(20.109699,-2028.5546)" style="line-height:0.01%"><flowRegion id="flowRegion3439"><rect id="rect3441" width="111.02731" height="10.777509" x="2973.272" y="730.20135" style="fill:#000000;fill-opacity:1" /></flowRegion><flowPara id="flowPara3443" style="line-height:1.25">La primera es cuando comparo el precio con mi dinero de bolsillo...</flowPara></flowRoot>     </g>
-     <g id="gFee4-3-2" class="FeeText" transform="translate(-3.37336,7.5744614)" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:'Komika Text';letter-spacing:0px;word-spacing:0px;fill:#c90c2c;fill-opacity:1;stroke:none">
+     <g id="gFee4-3-2" class="FeeText" transform="translate(-3.37336,7.5744614)">
       <use height="2979.9211" width="4212.9922" transform="translate(237.72167,492.68723)" id="use5020" xlink:href="#gThreeLineFee" y="0" x="0" />
       <flowRoot xml:space="preserve" id="FlowFee4-3-2" transform="translate(19.681762,-2025.9639)" style="line-height:0.01%"><flowRegion id="flowRegion3449"><rect id="rect3451" width="109.8367" height="17.579723" x="2995.6333" y="747.3717" /></flowRegion><flowPara id="flowPara4857" style="line-height:1.25">... y la segunda es cuando se compara el precio con la reserva promedia de moneda, 30 mil euros. ¿Crees que un punto de vista es mejor que el otro?</flowPara></flowRoot>     </g>
     </g>
@@ -1482,10 +1465,10 @@
    <g id="gMinute5-1" transform="rotate(-30,3272.5336,443.08859)">
     <rect y="-36.564545" x="3368.248" height="144.97948" width="144.97948" id="rViewMinute5-1" style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g id="gBubblesMinute5-1" transform="translate(0,39.995284)">
-     <g id="gElsie5-1-1" class="ElsieText" transform="translate(6,-2)" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:'Komika Text';letter-spacing:0px;word-spacing:0px;fill:#475114;fill-opacity:1;stroke:none">
+     <g id="gElsie5-1-1" class="ElsieText" transform="translate(6,-2)">
       <use height="1" width="1" id="use6090" xlink:href="#gOneLineElsie" y="0" x="0" transform="translate(782.22032,1783.3354)" />
       <flowRoot xml:space="preserve" id="FlowElsie5-1-1" transform="translate(398.94979,-744.74304)" style="line-height:0.01%"><flowRegion id="flowRegion3511"><rect id="rect3513" width="109.96772" height="12.868286" x="2974.8691" y="716.62476" /></flowRegion><flowPara id="flowPara3515" style="line-height:1.25">Leí que la cantidad de euros que existe aumenta año tras año.</flowPara></flowRoot>     </g>
-     <g id="gFee5-1-1" class="FeeText" transform="translate(-4)" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:'Komika Text';letter-spacing:0px;word-spacing:0px;fill:#c90c2c;fill-opacity:1;stroke:none">
+     <g id="gFee5-1-1" class="FeeText" transform="translate(-4)">
       <use height="1" width="1" id="use5558-0" xlink:href="#gTwoLineFee" y="0" x="0" transform="translate(787.59423,1732.4322)" />
       <flowRoot xml:space="preserve" id="FlowFee5-1-1" transform="translate(399.26013,-716.56792)" style="line-height:0.01%"><flowRegion id="flowRegion3521"><rect id="rect3523" width="111.73662" height="12.713326" x="2996.0327" y="710.23578" /></flowRegion><flowPara id="flowPara3525" style="line-height:1.25">Sí, lo es. En particular, entre 2000 y 2010, la masa monetaria se duplicó.</flowPara></flowRoot>     </g>
     </g>
@@ -1632,10 +1615,10 @@
    <g id="gMinute6-1" transform="rotate(-30,2422.2354,936.08065)">
     <rect style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rViewMinute6-1" width="144.97948" height="144.97948" x="2959.6353" y="599.59216" />
     <g id="gBubblesMinute6-1" transform="translate(0,34.613817)">
-     <g id="gElsie6-1-1" class="ElsieText" transform="translate(6.977522,-2.5903279)" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:'Komika Text';letter-spacing:0px;word-spacing:0px;fill:#475114;fill-opacity:1;stroke:none">
+     <g id="gElsie6-1-1" class="ElsieText" transform="translate(6.977522,-2.5903279)">
       <use height="1" width="1" id="use6035" xlink:href="#gThreeLineElsie" y="0" x="0" transform="translate(206.18051,2410.3387)" />
       <flowRoot xml:space="preserve" id="FlowElsie6-1-1" transform="translate(-9.819619,-112.10993)" style="line-height:0.01%"><flowRegion id="flowRegion3792"><rect id="rect3794" width="110.23087" height="20.539379" x="2974.8691" y="716.62476" /></flowRegion><flowPara id="flowPara3796" style="line-height:1.25">Sería mucho más sencillo si la cantidad de euros no cambiara. Todo el mundo sabría que la reserva promedio de moneda es de 30 mil euros, donde sea y cuando sea.</flowPara></flowRoot>     </g>
-     <g id="gFee6-1-1" class="FeeText" transform="translate(-4)" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:'Komika Text';letter-spacing:0px;word-spacing:0px;fill:#c90c2c;fill-opacity:1;stroke:none">
+     <g id="gFee6-1-1" class="FeeText" transform="translate(-4)">
       <use height="1" width="1" id="use5161-2" xlink:href="#gThreeLineFee" y="0" x="0" transform="translate(209.93334,2405.4908)" />
       <flowRoot xml:space="preserve" id="FlowFee6-1-1" transform="translate(-9.404739,-75.806807)" style="line-height:0.01%"><flowRegion id="flowRegion3802"><rect id="rect3804" width="110.75125" height="15.653275" x="2996.0327" y="710.23578" /></flowRegion><flowPara id="flowPara3806" style="line-height:1.25">En efecto, notar de 1 a 5, luego de 1 a 10, luego de 1 a 20... ¡es un poco molesto! Sería más simple notar siempre de 1 a 20. Pero aún así...</flowPara></flowRoot>     </g>
     </g>
@@ -1907,10 +1890,10 @@
    <g id="gMinute6-5" transform="rotate(30,3291.9913,-491.97576)">
     <rect style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rViewMinute6-5" width="144.97948" height="144.97948" x="2959.4905" y="618.53442" />
     <g id="gBubblesMinute6-5" transform="translate(0,40.505858)">
-     <g id="gFee6-5-1" class="FeeText" transform="translate(-4,-2)" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:'Komika Text';letter-spacing:0px;word-spacing:0px;fill:#c90c2c;fill-opacity:1;stroke:none">
+     <g id="gFee6-5-1" class="FeeText" transform="translate(-4,-2)">
       <use height="1" width="1" id="use5558-36" xlink:href="#gOneLineFee" y="0" x="0" transform="translate(382.5665,2415.2022)" />
       <flowRoot xml:space="preserve" id="FlowFee6-5-1" transform="translate(-9.417358,-85.179318)" style="line-height:0.01%"><flowRegion id="flowRegion3954"><rect id="rect3956" width="110.62704" height="13.321598" x="2996.0327" y="710.23578" /></flowRegion><flowPara id="flowPara3958" style="line-height:1.25">¿Cómo? ¿Cogiendo los 30 mil euros de otros y dándoselos a ti?</flowPara></flowRoot>     </g>
-     <g id="gElsie6-5-1" class="ElsieText" transform="translate(4,2)" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:'Komika Text';letter-spacing:0px;word-spacing:0px;fill:#475114;fill-opacity:1;stroke:none">
+     <g id="gElsie6-5-1" class="ElsieText" transform="translate(4,2)">
       <use height="1" width="1" id="use5307-5" xlink:href="#gTwoLineElsie" y="0" x="0" transform="translate(370.51173,2411.0675)" />
       <flowRoot xml:space="preserve" id="FlowElsie6-5-1" transform="translate(-8.24186,-85.579893)" style="line-height:0.01%"><flowRegion id="flowRegion3964"><rect id="rect3966" width="110.61432" height="11.521358" x="2973.272" y="730.20135" style="fill:#000000;fill-opacity:1" /></flowRegion><flowPara id="flowPara3968" style="line-height:1.25">Sí, como Robin Hood, quitándole a los ricos para dárselo a los pobres.</flowPara></flowRoot>     </g>
     </g>
@@ -1968,10 +1951,10 @@
    <g id="gMinute7-1" transform="rotate(-30,1807.5072,1087.4592)">
     <rect y="782.24573" x="2411.8518" height="144.97948" width="144.97948" id="rViewMinute7-1" style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g transform="translate(0,30.223832)" id="gBubblesMinute7-1">
-     <g transform="translate(8.4679781,1.399727)" class="ElsieText" id="gElsie7-1-1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:'Komika Text';letter-spacing:0px;word-spacing:0px;fill:#475114;fill-opacity:1;stroke:none">
+     <g transform="translate(8.4679781,1.399727)" class="ElsieText" id="gElsie7-1-1">
       <use height="1" width="1" id="use7058-6" xlink:href="#gFourLineElsie" y="0" x="0" transform="translate(-520.84508,2596.4631)" />
       <flowRoot transform="translate(-559.06752,70.107071)" id="FlowElsie7-1-1" xml:space="preserve" style="line-height:0.01%"><flowRegion id="flowRegion3655"><rect y="716.62476" x="2974.8691" height="20.875879" width="110.35915" id="rect3657" /></flowRegion><flowPara id="flowPara3659" style="line-height:1.25">Así que aumentemos regularmente el número de euros... y cada vez, compartamos estos nuevos euros entre todos nosotros. Un poco como si nos estuvieran reembolsando poco a poco los 30 mil euros que nos deben.</flowPara></flowRoot>     </g>
-     <g id="gFee7-1-1" class="FeeText" transform="translate(-3.9174658,9.6445878)" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:'Komika Text';letter-spacing:0px;word-spacing:0px;fill:#c90c2c;fill-opacity:1;stroke:none">
+     <g id="gFee7-1-1" class="FeeText" transform="translate(-3.9174658,9.6445878)">
       <use height="1" width="1" id="use5861-01" xlink:href="#gTwoLineFee" y="0" x="0" transform="translate(-168.86613,2551.1496)" />
       <flowRoot xml:space="preserve" id="FlowFee7-1-1" transform="translate(-557.17134,101.4982)" style="line-height:0.01%"><flowRegion id="flowRegion3665"><rect id="rect3667" width="111.41099" height="17.800598" x="2996.0327" y="710.23578" /></flowRegion><flowPara id="flowPara3669" style="line-height:1.25">En efecto, esto es lo que hay que hacer para respetar no sólo la simetría espacial, sino también la llamada simetría temporal.</flowPara></flowRoot>     </g>
     </g>
@@ -2036,10 +2019,10 @@
    <g id="gMinute7-5" transform="rotate(30,2776.9116,-322.30376)">
     <rect y="779.84985" x="2409.5232" height="144.97948" width="144.97948" id="rViewMinute7-5" style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g transform="translate(2.81324,2.8393438)" id="gBubblesMinute7-5">
-     <g transform="translate(-1.2545006,-2.6954573)" class="ElsieText" id="gElsie7-5-1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:'Komika Text';letter-spacing:0px;word-spacing:0px;fill:#475114;fill-opacity:1;stroke:none">
+     <g transform="translate(-1.2545006,-2.6954573)" class="ElsieText" id="gElsie7-5-1">
       <use height="1" width="1" id="use6035-7" xlink:href="#gThreeLineElsie" y="0" x="0" transform="translate(-340.90882,2596.7331)" />
       <flowRoot xml:space="preserve" id="FlowElsie7-5-1" transform="translate(-557.52986,73.943041)" style="line-height:0.01%"><flowRegion id="flowRegion3783"><rect id="rect3785" width="112.59137" height="17.541019" x="2974.8691" y="716.62476" /></flowRegion><flowPara id="flowPara6733" style="line-height:1.25">Si se mira la cantidad de euros que ya existen, se crean nuevos euros, el 10%, y luego todos reciben una parte igual de esos nuevos euros. Y hacemos esto cada semana.</flowPara></flowRoot>     </g>
-     <g transform="translate(-9.4227745,-8.050913)" class="FeeText" id="gFee7-5-1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:'Komika Text';letter-spacing:0px;word-spacing:0px;fill:#c90c2c;fill-opacity:1;stroke:none">
+     <g transform="translate(-9.4227745,-8.050913)" class="FeeText" id="gFee7-5-1">
       <use transform="translate(-340.85072,2595.6557)" x="0" y="0" xlink:href="#gThreeLineFee" id="use10655" width="1" height="1" />
       <flowRoot transform="translate(-538.88818,107.20311)" id="FlowFee7-5-1" xml:space="preserve" style="line-height:0.01%"><flowRegion id="flowRegion12595"><rect y="716.62476" x="2974.8691" height="20.555664" width="111.12978" id="rect12597" /></flowRegion><flowPara id="flowPara12601" style="line-height:1.25">Esta vez, el 10%, en relación con la masa monetaria, que cada vez es mayor, es como un confeti dibujado en un balón inflable que parece crecer a medida que se infla el balón.</flowPara></flowRoot>     </g>
     </g>
@@ -2106,25 +2089,25 @@
     <path style="fill:#0d60a4;fill-opacity:1;stroke:#0d60a4;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" d="m 1419.583,-1373.0956 290.0406,-0.054" id="path16282" />
     <path style="fill:#0d60a4;fill-opacity:1;fill-rule:nonzero;stroke:#0d60a4;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" id="path16284" d="m 484.90434,2604.033 c 0,56.1138 -45.48929,101.6031 -101.60316,101.6031 -56.11388,0 -101.60316,-45.4893 -101.60316,-101.6031 0,-56.1139 45.48928,-101.6032 101.60316,-101.6032 56.11387,0 101.60316,45.4893 101.60316,101.6032 z" transform="translate(1181.9854,-3977.6093)" />
    </g>
-   <g id="gMinute8-1" transform="matrix(0.8660254,-0.5,0.5,0.8660254,-199.88025,547.03778)">
-    <rect style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.40000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="rViewMinute8-1" width="144.97948" height="144.97948" x="1676.4281" y="770.40961" />
+   <g id="gMinute8-1" transform="rotate(-30,920.84627,646.50052)">
+    <rect style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rViewMinute8-1" width="144.97948" height="144.97948" x="1676.4281" y="770.40961" />
     <g id="gBubblesMinute8-1">
-     <g id="gElsie8-1-1" class="ElsieText" transform="translate(6,0)">
+     <g id="gElsie8-1-1" class="ElsieText" transform="translate(6)">
       <use height="1" width="1" id="use6191" xlink:href="#gFourLineElsie" y="0" x="0" transform="translate(-1256.0691,2587.5885)" />
-      <flowRoot xml:space="preserve" id="FlowElsie8-1-1" transform="translate(-1293.825,60.992969)" style="line-height:0.01%;"><flowRegion id="flowRegion3711" style=""><rect id="rect3713" width="110.43139" height="23.196869" x="2974.8691" y="716.62476" style="" /></flowRegion><flowPara id="flowPara3715" style="line-height:1.25;">El 10 por ciento es útil, es una división por 10, sólo tienes que cambiar el punto decimal! Por 100 euros, creamos 10; una semana después, por 110, creamos 11; dos semanas después, por 121, creamos 12.1.</flowPara></flowRoot>     </g>
+      <flowRoot xml:space="preserve" id="FlowElsie8-1-1" transform="translate(-1293.825,60.992969)" style="line-height:0.01%"><flowRegion id="flowRegion3711"><rect id="rect3713" width="110.43139" height="23.196869" x="2974.8691" y="716.62476" /></flowRegion><flowPara id="flowPara3715" style="line-height:1.25">El 10 por ciento es útil, es una división por 10, sólo tienes que cambiar el punto decimal! Por 100 euros, creamos 10; una semana después, por 110, creamos 11; dos semanas después, por 121, creamos 12.1.</flowPara></flowRoot>     </g>
      <g id="gFee8-1-1" class="FeeText" transform="translate(-4,2)">
       <use height="1" width="1" id="use5861-4" xlink:href="#gThreeLineFee" y="0" x="0" transform="translate(-1073.155,2578.7815)" />
-      <flowRoot xml:space="preserve" id="FlowFee8-1-1" transform="translate(-1292.4291,96.957892)" style="line-height:0.01%;"><flowRegion id="flowRegion3721" style=""><rect id="rect3723" width="111.77678" height="16.030266" x="2996.0327" y="710.23578" style="" /></flowRegion><flowPara id="flowPara3725" style="line-height:1.25;">Mira esta banda elástica: si la estiras un 10% cada semana, casi doblará su tamaño en la séptima semana. Se dice que ese tipo de crecimiento rápido es exponencial.</flowPara></flowRoot>     </g>
+      <flowRoot xml:space="preserve" id="FlowFee8-1-1" transform="translate(-1292.4291,96.957892)" style="line-height:0.01%"><flowRegion id="flowRegion3721"><rect id="rect3723" width="111.77678" height="16.030266" x="2996.0327" y="710.23578" /></flowRegion><flowPara id="flowPara3725" style="line-height:1.25">Mira esta banda elástica: si la estiras un 10% cada semana, casi doblará su tamaño en la séptima semana. Se dice que ese tipo de crecimiento rápido es exponencial.</flowPara></flowRoot>     </g>
     </g>
     <g id="g7WeekDuStack" transform="matrix(0.09589558,0,0,0.09589558,1429.5335,1031.5597)">
      <g id="gDuStackWeek1">
-      <path style="fill:none;stroke:#999999;stroke-width:4.17120361;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" d="m 3084.2766,-1718.3177 -153.4398,0" id="line100DuStackWeek" />
+      <path style="fill:none;stroke:#999999;stroke-width:4.17120361;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 3084.2766,-1718.3177 H 2930.8368" id="line100DuStackWeek" inkscape:connector-curvature="0" />
       <text id="text100DuStackWeek" y="-1724.4607" x="2941.8926" class="weekDuStackTextY" xml:space="preserve"><tspan y="-1724.4607" x="2941.8926" id="tspan4490">100</tspan></text>
-      <path transform="translate(3000.5813,-2189.6721)" id="line110DuStackWeek" d="m 181.69531,434.02327 -153.439838,0" style="fill:none;stroke:#999999;stroke-width:4.17120361;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path transform="translate(3000.5813,-2189.6721)" id="line110DuStackWeek" d="M 181.69531,434.02327 H 28.255472" style="fill:none;stroke:#999999;stroke-width:4.17120361;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" inkscape:connector-curvature="0" />
       <text xml:space="preserve" class="weekDuStackTextY" x="3037.8926" y="-1760.4607" id="text110DuStackWeek"><tspan id="tspan4494" x="3037.8926" y="-1760.4607">110</tspan></text>
-      <g id="gDuStackWeek1-1" transform="translate(-207.2284,0)">
+      <g id="gDuStackWeek1-1" transform="translate(-207.2284)">
        <g id="gDuStackWeekPart1">
-        <rect style="fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:#502d16;stroke-width:4.17120361;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" id="rect4396" width="37.352535" height="37.352535" x="3229.3464" y="436.65292" transform="translate(17.577664,-1818.7974)" rx="0" ry="0" />
+        <rect style="fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:#502d16;stroke-width:4.17120361;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" id="rect4396" width="37.352535" height="37.352535" x="3229.3464" y="436.65292" transform="translate(17.577664,-1818.7974)" rx="0" ry="0" />
         <text xml:space="preserve" class="DuStackWeekPartText" x="3264.3704" y="-1357.5382" id="tDuStackWeekPart1"><tspan id="tspanDuStackWeekPart1" x="3264.3704" y="-1357.5382">1</tspan></text>
        </g>
        <g id="gDuStackWeekPart2">
@@ -2164,67 +2147,67 @@
         <text id="tDuStackWeekPart10" class="DuStackWeekPartText" y="-1692.546" x="3263.9253" xml:space="preserve"><tspan y="-1692.546" x="3263.9253" id="tspanDuStackWeekPart10">10</tspan></text>
        </g>
       </g>
-      <g id="gDuStackWeek1-2" transform="translate(-162.64746,-2.4780275e-7)">
+      <g id="gDuStackWeek1-2" transform="translate(-162.64746)">
        <g transform="translate(-2.4780275e-7,-3.1299998e-4)" id="gDuStackWeek10Percent">
         <g transform="translate(-2.4780319e-7,-37.352539)" id="g4400-7">
-         <rect ry="0" rx="0" y="-1718.3174" x="3246.9241" height="37.352535" width="37.352535" id="rect4398-6" style="fill:none;stroke:#502d16;stroke-width:4.17120361;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+         <rect ry="0" rx="0" y="-1718.3174" x="3246.9241" height="37.352535" width="37.352535" id="rect4398-6" style="fill:none;stroke:#502d16;stroke-width:4.17120361;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         </g>
         <text xml:space="preserve" x="3264.5435" y="-1733.6573" class="DuStackWeekPercent" id="tDuStackWeek10Percent"><tspan id="tspanDuStackWeek10Percent" x="3264.5435" y="-1733.6573">+10%</tspan></text>
        </g>
       </g>
-      <text transform="rotate(-45)" class="DuStackWeekText" id="textDuStackWeek1" y="1252.4568" x="2993.6699" xml:space="preserve"><tspan y="1252.4568" x="2993.6699" id="tspan4524">Semana 1</tspan></text>
+      <text transform="rotate(-45)" class="DuStackWeekText" id="textDuStackWeek1" y="1237.7094" x="2978.9226" xml:space="preserve"><tspan y="1237.7094" x="2978.9226" id="tspan4524">Semana 1</tspan></text>
      </g>
      <g id="gDuStackWeek2">
-      <path transform="translate(3000.5813,-2189.6721)" id="line121DuStackWeek" d="m 279.04779,392.90397 -157.79021,0" style="fill:none;stroke:#999999;stroke-width:5.21400452;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path transform="translate(3000.5813,-2189.6721)" id="line121DuStackWeek" d="M 279.04779,392.90397 H 121.25758" style="fill:none;stroke:#999999;stroke-width:5.21400452;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" inkscape:connector-curvature="0" />
       <text class="weekDuStackTextY" id="text121DuStackWeek" y="-1802.4607" x="3131.8926" xml:space="preserve"><tspan y="-1802.4607" x="3131.8926" id="tspan4498">121</tspan></text>
       <use transform="matrix(1,0,0,1.0999433,98.000002,134.40282)" height="2979.9211" width="4212.9922" id="use17813" xlink:href="#gDuStackWeek1-1" y="0" x="0" />
       <use height="2979.9211" width="4212.9922" transform="matrix(1,0,0,1.1000242,97.999995,134.51155)" id="use17816" xlink:href="#gDuStackWeek1-2" y="0" x="0" />
-      <text xml:space="preserve" class="DuStackWeekText" x="3062.9709" y="1321.7518" id="textDuStackWeek2" transform="rotate(-45)"><tspan id="tspan4528" x="3062.9709" y="1321.7518">Semana 2</tspan></text>
+      <text xml:space="preserve" class="DuStackWeekText" x="3048.2236" y="1307.0044" id="textDuStackWeek2" transform="rotate(-45)"><tspan id="tspan4528" x="3048.2236" y="1307.0044">Semana 2</tspan></text>
      </g>
      <g id="gDuStackWeek3">
-      <path transform="translate(3000.5813,-2189.6721)" id="line133DuStackWeek" d="m 374.40032,348.08435 -153.83223,0" style="fill:none;stroke:#999999;stroke-width:4.17120361;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path transform="translate(3000.5813,-2189.6721)" id="line133DuStackWeek" d="M 374.40032,348.08435 H 220.56809" style="fill:none;stroke:#999999;stroke-width:4.17120361;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" inkscape:connector-curvature="0" />
       <text xml:space="preserve" x="3227.8926" y="-1846.4607" class="weekDuStackTextY" id="text133DuStackWeek"><tspan id="tspan4502" x="3227.8926" y="-1846.4607">133</tspan></text>
       <use height="2979.9211" width="4212.9922" transform="matrix(1,0,0,1.2100272,195.35251,282.44267)" id="use17819" xlink:href="#gDuStackWeek1-1" y="0" x="0" />
       <use height="2979.9211" width="4212.9922" transform="matrix(1,0,0,1.2091064,195.3525,281.20436)" id="use17822" xlink:href="#gDuStackWeek1-2" y="0" x="0" />
-      <text transform="rotate(-45)" class="DuStackWeekText" id="textDuStackWeek3" y="1389.6327" x="3130.8577" xml:space="preserve"><tspan y="1389.6327" x="3130.8577" id="tspan4532">Semana 3</tspan></text>
+      <text transform="rotate(-45)" class="DuStackWeekText" id="textDuStackWeek3" y="1374.8853" x="3116.1104" xml:space="preserve"><tspan y="1374.8853" x="3116.1104" id="tspan4532">Semana 3</tspan></text>
      </g>
-     <g transform="translate(0.90354554,0)" id="gDuStackWeek4">
-      <path transform="translate(3000.5813,-2189.6721)" id="line146DuStackWeek" d="m 469.75289,298.26154 -153.71503,0" style="fill:none;stroke:#999999;stroke-width:4.17120361;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+     <g transform="translate(0.90354554)" id="gDuStackWeek4">
+      <path transform="translate(3000.5813,-2189.6721)" id="line146DuStackWeek" d="M 469.75289,298.26154 H 316.03786" style="fill:none;stroke:#999999;stroke-width:4.17120361;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" inkscape:connector-curvature="0" />
       <text class="weekDuStackTextY" id="text146DuStackWeek" y="-1896.4607" x="3323.8926" xml:space="preserve"><tspan y="-1896.4607" x="3323.8926" id="tspan4506">146</tspan></text>
       <use height="2979.9211" width="4212.9922" transform="matrix(1,0,0,1.3300182,290.70501,443.80564)" id="use17825" xlink:href="#gDuStackWeek1-1" y="0" x="0" />
       <use height="2979.9211" width="4212.9922" transform="matrix(1,0,0,1.3303658,290.70501,444.27316)" id="use17828" xlink:href="#gDuStackWeek1-2" y="0" x="0" />
-      <text xml:space="preserve" class="DuStackWeekText" x="3200.1587" y="1458.9277" id="textDuStackWeek4" transform="rotate(-45)"><tspan id="tspan4536" x="3200.1587" y="1458.9277">Semana 4</tspan></text>
+      <text xml:space="preserve" class="DuStackWeekText" x="3185.4114" y="1444.1803" id="textDuStackWeek4" transform="rotate(-45)"><tspan id="tspan4536" x="3185.4114" y="1444.1803">Semana 4</tspan></text>
      </g>
-     <g transform="translate(1.8070911,0)" id="gDuStackWeek5">
-      <path transform="translate(3000.5813,-2189.6721)" id="line161DuStackWeek" d="m 563.10543,242.93499 -151.5978,0" style="fill:none;stroke:#999999;stroke-width:4.17120361;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+     <g transform="translate(1.8070911)" id="gDuStackWeek5">
+      <path transform="translate(3000.5813,-2189.6721)" id="line161DuStackWeek" d="M 563.10543,242.93499 H 411.50763" style="fill:none;stroke:#999999;stroke-width:4.17120361;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" inkscape:connector-curvature="0" />
       <text xml:space="preserve" x="3419.8926" y="-1952.4607" class="weekDuStackTextY" id="text161DuStackWeek"><tspan id="tspan4510" x="3419.8926" y="-1952.4607">161</tspan></text>
       <use height="2979.9211" width="4212.9922" transform="matrix(1,0,0,1.4634036,386.05755,623.18134)" id="use17831" xlink:href="#gDuStackWeek1-1" y="0" x="0" />
       <use height="2979.9211" width="4212.9922" transform="matrix(1,0,0,1.4650203,386.05755,625.35543)" id="use17834" xlink:href="#gDuStackWeek1-2" y="0" x="0" />
-      <text transform="rotate(-45)" class="DuStackWeekText" id="textDuStackWeek5" y="1525.3944" x="3266.6311" xml:space="preserve"><tspan y="1525.3944" x="3266.6311" id="tspan4540">Semana 5</tspan></text>
+      <text transform="rotate(-45)" class="DuStackWeekText" id="textDuStackWeek5" y="1510.647" x="3251.8838" xml:space="preserve"><tspan y="1510.647" x="3251.8838" id="tspan4540">Semana 5</tspan></text>
      </g>
-     <g transform="translate(3.6141821,0)" id="gDuStackWeek6">
-      <path transform="translate(3000.5813,-2189.6721)" id="line177DuStackWeek" d="m 655.8105,183.22915 -149.93045,0" style="fill:none;stroke:#999999;stroke-width:4.17120361;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+     <g transform="translate(3.6141821)" id="gDuStackWeek6">
+      <path transform="translate(3000.5813,-2189.6721)" id="line177DuStackWeek" d="M 655.8105,183.22915 H 505.88005" style="fill:none;stroke:#999999;stroke-width:4.17120361;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" inkscape:connector-curvature="0" />
       <text class="weekDuStackTextY" id="text177DuStackWeek" y="-2012.4607" x="3513.8926" xml:space="preserve"><tspan y="-2012.4607" x="3513.8926" id="tspan4514">177</tspan></text>
       <use height="2979.9211" width="4212.9922" transform="matrix(1,0,0,1.6115235,479.41011,822.37169)" id="use17837" xlink:href="#gDuStackWeek1-1" y="0" x="0" />
       <use height="2979.9211" width="4212.9922" transform="matrix(1,0,0,1.610333,479.41011,820.77071)" id="use17840" xlink:href="#gDuStackWeek1-2" y="0" x="0" />
-      <text xml:space="preserve" x="3333.1035" y="1591.8611" class="DuStackWeekText" id="textDuStackWeek6" transform="rotate(-45)"><tspan id="tspan4544" x="3333.1035" y="1591.8611">Semana 6</tspan></text>
+      <text xml:space="preserve" x="3318.3562" y="1577.1136" class="DuStackWeekText" id="textDuStackWeek6" transform="rotate(-45)"><tspan id="tspan4544" x="3318.3562" y="1577.1136">Semana 6</tspan></text>
      </g>
-     <g transform="translate(7.2283641,0)" id="gDuStackWeek7">
-      <path transform="translate(3000.5813,-2189.6721)" id="line194DuStackWeek" d="m 693.16304,116.98698 -92.91057,0" style="fill:none;stroke:#999999;stroke-width:4.17120361;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+     <g transform="translate(7.2283641)" id="gDuStackWeek7">
+      <path transform="translate(3000.5813,-2189.6721)" id="line194DuStackWeek" d="M 693.16304,116.98698 H 600.25247" style="fill:none;stroke:#999999;stroke-width:4.17120361;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" inkscape:connector-curvature="0" />
       <text xml:space="preserve" x="3609.8926" y="-2078.4607" class="weekDuStackTextY" id="text194DuStackWeek"><tspan id="tspan4518" x="3609.8926" y="-2078.4607">194</tspan></text>
       <use height="2979.9211" width="4212.9922" transform="matrix(1,0,0,1.7713682,572.11519,1037.3298)" id="use17843" xlink:href="#gDuStackWeek1-1" y="0" x="0" />
       <use height="2979.9211" width="4212.9922" transform="matrix(1,0,0,1.7715544,572.11519,1037.5803)" id="use17846" xlink:href="#gDuStackWeek1-2" y="0" x="0" />
-      <text transform="rotate(-45)" class="DuStackWeekText" id="textDuStackWeek7" y="1659.7419" x="3400.9902" xml:space="preserve"><tspan y="1659.7419" x="3400.9902" id="tspan4548">Semana 7</tspan></text>
+      <text transform="rotate(-45)" class="DuStackWeekText" id="textDuStackWeek7" y="1644.9945" x="3386.2429" xml:space="preserve"><tspan y="1644.9945" x="3386.2429" id="tspan4548">Semana 7</tspan></text>
      </g>
     </g>
    </g>
    <g id="gMinute8-2" transform="rotate(30,2194.4196,697.49097)">
     <rect y="770.21008" x="1676.6328" height="144.97948" width="144.97948" id="rViewMinute8-2" style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g id="gBubblesMinute8-2" transform="translate(0,38.599336)">
-     <g transform="translate(7.2485184,-2)" class="ElsieText" id="gElsie8-2-1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:'Komika Text';letter-spacing:0px;word-spacing:0px;fill:#475114;fill-opacity:1;stroke:none">
+     <g transform="translate(7.2485184,-2)" class="ElsieText" id="gElsie8-2-1">
       <use height="1" width="1" id="use7058-10" xlink:href="#gTwoLineElsie" y="0" x="0" transform="translate(-914.05606,2542.4331)" />
       <flowRoot transform="translate(-1294.0447,59.200042)" id="FlowElsie8-2-1" xml:space="preserve" style="line-height:0.01%"><flowRegion id="flowRegion3743"><rect y="716.62476" x="2974.8691" height="15.883301" width="111.36515" id="rect3745" /></flowRegion><flowPara id="flowPara3747" style="line-height:1.25">Imagino que en la escuela, si cambiáramos la escala de calificaciones cada semana... ¡sería difícil mantenerse al día!</flowPara></flowRoot>     </g>
-     <g id="gFee8-2-1" class="FeeText" transform="translate(-4)" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:'Komika Text';letter-spacing:0px;word-spacing:0px;fill:#c90c2c;fill-opacity:1;stroke:none">
+     <g id="gFee8-2-1" class="FeeText" transform="translate(-4)">
       <use height="1" width="1" id="use5861-7" xlink:href="#gThreeLineFee" y="0" x="0" transform="translate(-1073.155,2572.2706)" />
       <flowRoot xml:space="preserve" id="FlowFee8-2-1" transform="translate(-1292.5131,90.446992)" style="line-height:0.01%"><flowRegion id="flowRegion3753"><rect id="rect3755" width="111.88509" height="17.615593" x="2996.0327" y="710.23578" /></flowRegion><flowPara id="flowPara3757" style="line-height:1.25">No hay razón para crear moneda tan a menudo. Si lo hacemos sólo al principio de cada año, seguimos respetando la simetría temporal.</flowPara></flowRoot>     </g>
     </g>
@@ -2431,13 +2414,13 @@
       <use height="1" width="1" id="use5861-20" xlink:href="#gThreeLineFee" y="0" x="0" transform="translate(-1073.155,2567.9397)" />
       <flowRoot xml:space="preserve" id="FlowFee8-6-1" transform="translate(-1292.5011,86.082096)" style="line-height:0.01%;"><flowRegion id="flowRegion3882" style=""><rect id="rect3884" width="111.01748" height="17.102234" x="2996.0327" y="710.23578" style="" /></flowRegion><flowPara id="flowPara3886" style="line-height:1.25;">Así es, al menos si el número de personas no cambia. Se dice que en este marco de referencia, la masa monetaria es estable. Su crecimiento es cero, ya no es para nada exponencial.</flowPara></flowRoot>     </g>
     </g>
-    <use transform="translate(0,-8)" height="2979.9211" width="4212.9922" id="use2YearsDuStackBands2" xlink:href="#g2YearsDuStackBands" y="0" x="0" />
-    <g id="g2YearsDuStackBandsMore2" transform="matrix(0.09609399,0,0,0.09609399,1414.6142,1035.7598)">
-     <g transform="translate(136,0)" id="g5859">
+    <use transform="translate(-2,-8)" height="2979.9211" width="4212.9922" id="use2YearsDuStackBands2" xlink:href="#g2YearsDuStackBands" y="0" x="0" />
+    <g id="g2YearsDuStackBandsMore2" transform="matrix(0.09609399,0,0,0.09609399,1412.6142,1035.7598)">
+     <g transform="translate(136)" id="g5859">
       <text id="text5861" y="-1777.1293" x="2884.2461" class="DuStackYearTextMore" xml:space="preserve"><tspan id="tspan5863" y="-1777.1293" x="2884.2461">= 10 DU</tspan></text>
       <text id="text5865" y="-1317.0199" x="3064.5618" class="DuStackYearTextMore" xml:space="preserve"><tspan id="tspan5869" y="-1317.0199" x="3064.5618">= 3.3 mil millones de DU</tspan></text>
      </g>
-     <g transform="translate(134.57498,0)" id="g5871">
+     <g transform="translate(134.57498)" id="g5871">
       <text xml:space="preserve" class="yearDuStackTextYMore" x="3479.5786" y="-2131.1301" id="text5873"><tspan id="tspan5875" x="3479.5786" y="-2131.1301">= 10 DU</tspan></text>
       <text id="text5877" y="-1317.0199" x="3674.0295" class="DuStackYearTextMore" xml:space="preserve"><tspan id="tspan5881" y="-1317.0199" x="3674.0295">= 3.3 mil millones de DU</tspan></text>
      </g>
@@ -2593,38 +2576,38 @@
    <g id="gMinute9-6" transform="translate(-24.13262,-610.76639)">
     <rect style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.40000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="rViewMinute9-6" width="144.97948" height="144.97948" x="1120.1478" y="445.64709" />
     <g transform="translate(-0.8568282,0.0321699)" id="gBubblesMinute9-6">
-     <g transform="translate(6,3.3798505)" class="ElsieText" id="gElsie9-6-1">
+     <g transform="translate(6,2.9674059)" class="ElsieText" id="gElsie9-6-1">
       <use height="1" width="1" id="use5307-90" xlink:href="#gThreeLineElsie" y="0" x="0" transform="translate(-1634.1107,2255.1218)" />
-      <flowRoot xml:space="preserve" id="FlowElsie9-6-1" transform="translate(-1849.138,-281.13475)" style="line-height:0.01%;"><flowRegion id="flowRegion4092" style=""><rect id="rect4094" width="110.87563" height="16.283943" x="2973.272" y="730.20135" style="fill:#000000;fill-opacity:1;" /></flowRegion><flowPara id="flowPara4096" style="line-height:1.25;">Es extraño... Me recuerda la historia de las tres hermanas: con dos años de diferencia, y cuando eran niñas, la diferencia de edad parecía enorme...</flowPara></flowRoot>     </g>
-     <g transform="translate(-6.0059831,24.25533)" class="FeeText" id="gFee9-6-1">
+      <flowRoot xml:space="preserve" id="FlowElsie9-6-1" transform="translate(-1849.138,-281.13475)" style="line-height:0.01%"><flowRegion id="flowRegion4092"><rect id="rect4094" width="110.87563" height="16.283943" x="2973.272" y="730.20135" style="fill:#000000;fill-opacity:1" /></flowRegion><flowPara id="flowPara4096" style="line-height:1.25">Es extraño... Me recuerda la historia de las tres hermanas: con dos años de diferencia, y cuando eran niñas, la diferencia de edad parecía enorme...</flowPara></flowRoot>     </g>
+     <g transform="translate(-6.0059831,22.605554)" class="FeeText" id="gFee9-6-1">
       <use transform="translate(-1626.7314,2225.8947)" x="0" y="0" xlink:href="#gThreeLineFee" id="use5176" width="1" height="1" />
-      <flowRoot transform="translate(-1823.7108,-274.94224)" id="FlowFee9-6-1" xml:space="preserve" style="line-height:0.01%;"><flowRegion id="flowRegion5180" style=""><rect style="fill:#000000;fill-opacity:1;" y="730.20135" x="2973.272" height="18.544065" width="110.58794" id="rect5182" /></flowRegion><flowPara id="flowPara5184" style="line-height:1.25;">... pero la diferencia parece cada vez más pequeña a medida que aumenta su edad, ¡como nuestro confeti en un globo inflado año tras año! Necesitamos estudiar esto más de cerca...</flowPara></flowRoot>     </g>
+      <flowRoot transform="translate(-1823.7108,-274.94224)" id="FlowFee9-6-1" xml:space="preserve" style="line-height:0.01%"><flowRegion id="flowRegion5180"><rect style="fill:#000000;fill-opacity:1" y="730.20135" x="2973.272" height="18.544065" width="110.58794" id="rect5182" /></flowRegion><flowPara id="flowPara5184" style="line-height:1.25">... pero la diferencia parece cada vez más pequeña a medida que aumenta su edad, ¡como nuestro confeti en un globo inflado año tras año! Necesitamos estudiar esto más de cerca...</flowPara></flowRoot>     </g>
     </g>
-    <g transform="translate(606.00465,457.39364)" class="Illustration" id="gSistersYear4-50">
+    <g transform="translate(606.00465,454.36254)" class="Illustration" id="gSistersYear4-50">
      <g transform="translate(-5.0000006e-7,-3.5117146)" id="gSistersYear4">
       <g transform="matrix(1,0,0,0.68171262,7.672805,39.368849)" id="gSistersBars-Year4">
        <g id="gSister3-Year4">
-        <rect style="fill:#77f982;fill-opacity:1;stroke:#000000;stroke-width:0.48446158;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" id="rectSister3-Year4" width="2.9560995" height="36.951256" x="537.3222" y="86.262093" />
+        <rect style="fill:#77f982;fill-opacity:1;stroke:#000000;stroke-width:0.48446158;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" id="rectSister3-Year4" width="2.9560995" height="36.951256" x="537.3222" y="86.262093" />
        </g>
        <g id="gSister2-Year4">
-        <rect y="86.262093" x="544.27832" height="36.951256" width="2.9560995" id="rectSister2-Year4" style="fill:#ec6be7;fill-opacity:1;stroke:#000000;stroke-width:0.48446158;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+        <rect y="86.262093" x="544.27832" height="36.951256" width="2.9560995" id="rectSister2-Year4" style="fill:#ec6be7;fill-opacity:1;stroke:#000000;stroke-width:0.48446158;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <use x="0" y="0" xlink:href="#rectSister2-Year4" id="use8927" transform="translate(-6.1230469e-6,-36.951341)" width="4212.9922" height="2979.9211" />
        </g>
        <g id="gSister1-Year4">
-        <rect y="86.262093" x="551.23444" height="36.951256" width="2.9560995" id="rectSister1-Year4" style="fill:#69b0d9;fill-opacity:1;stroke:#000000;stroke-width:0.48446158;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+        <rect y="86.262093" x="551.23444" height="36.951256" width="2.9560995" id="rectSister1-Year4" style="fill:#69b0d9;fill-opacity:1;stroke:#000000;stroke-width:0.48446158;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <use x="0" y="0" xlink:href="#rectSister1-Year4" id="use8929" transform="translate(0,-36.951256)" width="4212.9922" height="2979.9211" />
         <use x="0" y="0" xlink:href="#rectSister1-Year4" id="use8931" transform="translate(0,-73.902512)" width="4212.9922" height="2979.9211" />
        </g>
       </g>
-      <path d="m 538.03889,98.174806 6.95612,0" style="fill:none;stroke:#aaaaaa;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="pathSister3-Year4" />
-      <path id="pathSister2-Year4" style="fill:none;stroke:#aaaaaa;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" d="m 544.99499,72.984525 6.95613,8.6e-5" />
-      <path id="pathSister1-Year4" style="fill:none;stroke:#aaaaaa;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" d="m 552.26338,47.794431 6.64386,10e-5" />
+      <path d="m 538.03889,98.174806 h 6.95612" style="fill:none;stroke:#aaaaaa;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="pathSister3-Year4" inkscape:connector-curvature="0" />
+      <path id="pathSister2-Year4" style="fill:none;stroke:#aaaaaa;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 544.99499,72.984525 6.95613,8.6e-5" inkscape:connector-curvature="0" />
+      <path id="pathSister1-Year4" style="fill:none;stroke:#aaaaaa;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 552.26338,47.794431 6.64386,10e-5" inkscape:connector-curvature="0" />
       <text id="textSister3-Year4" y="99.351685" x="527.18439" xml:space="preserve" style="line-height:0%"><tspan y="99.351685" x="527.18439" id="tspan6866">2 años</tspan></text>
       <text xml:space="preserve" x="533.48761" y="74.186836" id="textSister2-Year4" style="line-height:0%"><tspan id="tspan6870" x="533.48761" y="74.186836">4 años</tspan></text>
       <text id="textSister1-Year4" y="48.955597" x="541.03278" xml:space="preserve" style="line-height:0%"><tspan y="48.955597" x="541.03278" id="tspan6874">6 años</tspan></text>
-      <text transform="matrix(0.8660254,-0.68565396,0.36461541,0.8660254,0,0)" id="textSister3-Y" y="484.98398" x="415.35834" xml:space="preserve" style="line-height:0%"><tspan y="484.98398" x="415.35834" id="tspan6969">Hermana 3</tspan></text>
-      <text transform="matrix(0.8660254,-0.68565396,0.36461541,0.8660254,0,0)" id="textSister2-Y" y="490.07635" x="421.82535" xml:space="preserve" style="line-height:0%"><tspan y="490.07635" x="421.82535" id="tspan6965">Hermana 2</tspan></text>
-      <text transform="matrix(0.8660254,-0.68565396,0.36461541,0.8660254,0,0)" xml:space="preserve" x="428.71841" y="494.81363" id="textSister1-Y" style="line-height:0%"><tspan id="tspan6961" x="428.71841" y="494.81363">Hermana 1</tspan></text>
+      <text transform="matrix(0.8660254,-0.68565396,0.36461541,0.8660254,0,0)" id="textSister3-Y" y="485.28131" x="409.90002" xml:space="preserve" style="line-height:0%"><tspan y="485.28131" x="409.90002" id="tspan6969">Hermana 3</tspan></text>
+      <text transform="matrix(0.8660254,-0.68565396,0.36461541,0.8660254,0,0)" id="textSister2-Y" y="490.37369" x="416.36703" xml:space="preserve" style="line-height:0%"><tspan y="490.37369" x="416.36703" id="tspan6965">Hermana 2</tspan></text>
+      <text transform="matrix(0.8660254,-0.68565396,0.36461541,0.8660254,0,0)" xml:space="preserve" x="423.2601" y="495.11096" id="textSister1-Y" style="line-height:0%"><tspan id="tspan6961" x="423.2601" y="495.11096">Hermana 1</tspan></text>
      </g>
      <g id="gSistersYear50">
       <g transform="matrix(1,0,0,0.68171343,89.007973,35.857295)" id="gSistersBars-Year50">
@@ -2710,19 +2693,19 @@
         <use x="0" y="0" xlink:href="#rectSister1-Year50" id="use9085" transform="translate(-2.4394531e-5,-73.90251)" width="4212.9922" height="2979.9211" />
        </g>
       </g>
-      <path d="m 609.0747,71.488268 17.2555,10e-5" style="fill:none;stroke:#aaaaaa;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="pathSister3-Year50" />
-      <path id="pathSister2-Year50" style="fill:none;stroke:#aaaaaa;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" d="m 616.0308,69.473054 17.2555,10e-5" />
-      <path id="pathSister1-Year50" style="fill:none;stroke:#aaaaaa;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" d="m 622.9869,67.457841 17.2555,1e-4" />
+      <path d="m 609.0747,71.488268 17.2555,10e-5" style="fill:none;stroke:#aaaaaa;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="pathSister3-Year50" inkscape:connector-curvature="0" />
+      <path id="pathSister2-Year50" style="fill:none;stroke:#aaaaaa;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 616.0308,69.473054 17.2555,10e-5" inkscape:connector-curvature="0" />
+      <path id="pathSister1-Year50" style="fill:none;stroke:#aaaaaa;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 622.9869,67.457841 17.2555,1e-4" inkscape:connector-curvature="0" />
       <text xml:space="preserve" x="597.00372" y="74.116707" id="textSister3-Year50" style="line-height:0%"><tspan id="tspan6909" x="597.00372" y="74.116707">48 años</tspan></text>
       <text id="textSister2-Year50" y="70.584259" x="604.06488" xml:space="preserve" style="line-height:0%"><tspan y="70.584259" x="604.06488" id="tspan6915">50 años</tspan></text>
       <text xml:space="preserve" x="611.00348" y="67.132111" id="textSister1-Year50" style="line-height:0%"><tspan id="tspan6919" x="611.00348" y="67.132111">52 años</tspan></text>
-      <text xml:space="preserve" x="487.02585" y="537.66931" id="text6971" transform="matrix(0.8660254,-0.68565396,0.36461541,0.8660254,0,0)" style="line-height:0%"><tspan id="tspan6973" x="487.02585" y="537.66931">Hermana 3</tspan></text>
-      <text xml:space="preserve" x="493.49286" y="542.7616" id="text6975" transform="matrix(0.8660254,-0.68565396,0.36461541,0.8660254,0,0)" style="line-height:0%"><tspan id="tspan6977" x="493.49286" y="542.7616">Hermana 2</tspan></text>
-      <text id="text6979" y="547.49872" x="500.38593" xml:space="preserve" transform="matrix(0.8660254,-0.68565396,0.36461541,0.8660254,0,0)" style="line-height:0%"><tspan y="547.49872" x="500.38593" id="tspan6981">Hermana 1</tspan></text>
+      <text xml:space="preserve" x="481.56754" y="537.96649" id="text6971" transform="matrix(0.8660254,-0.68565396,0.36461541,0.8660254,0,0)" style="line-height:0%"><tspan id="tspan6973" x="481.56754" y="537.96649">Hermana 3</tspan></text>
+      <text xml:space="preserve" x="488.03455" y="543.05878" id="text6975" transform="matrix(0.8660254,-0.68565396,0.36461541,0.8660254,0,0)" style="line-height:0%"><tspan id="tspan6977" x="488.03455" y="543.05878">Hermana 2</tspan></text>
+      <text id="text6979" y="547.7959" x="494.92761" xml:space="preserve" transform="matrix(0.8660254,-0.68565396,0.36461541,0.8660254,0,0)" style="line-height:0%"><tspan y="547.7959" x="494.92761" id="tspan6981">Hermana 1</tspan></text>
      </g>
-     <path d="m 563.86334,69.472954 11.1917,1e-4" style="fill:none;stroke:#aaaaaa;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="pathSistersMean1" />
+     <path d="m 563.86334,69.472954 11.1917,1e-4" style="fill:none;stroke:#aaaaaa;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="pathSistersMean1" inkscape:connector-curvature="0" />
      <text xml:space="preserve" x="575.84973" y="70.196754" id="textSistersMean" style="line-height:0%"><tspan id="tspan6951" x="575.84973" y="70.196754">Promedio</tspan></text>
-     <path id="pathSistersMean2" style="fill:none;stroke:#aaaaaa;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" d="m 591.86334,69.472954 11.1917,1e-4" />
+     <path id="pathSistersMean2" style="fill:none;stroke:#aaaaaa;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 591.86334,69.472954 11.1917,1e-4" inkscape:connector-curvature="0" />
     </g>
    </g>
    <g id="gCircle9" transform="translate(-2019.5306,541.11462)">
@@ -2764,37 +2747,37 @@
     <path style="fill:#0da455;fill-opacity:1;stroke:#0da455;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" d="m 1419.5428,-1373.0932 290.0407,-0.054" id="path16254" />
     <path style="fill:#0da455;fill-opacity:1;fill-rule:nonzero;stroke:#0da455;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" id="path16256" d="m 484.90434,2604.033 c 0,56.1138 -45.48929,101.6031 -101.60316,101.6031 -56.11388,0 -101.60316,-45.4893 -101.60316,-101.6031 0,-56.1139 45.48928,-101.6032 101.60316,-101.6032 56.11387,0 101.60316,45.4893 101.60316,101.6032 z" transform="translate(1181.9854,-3977.6093)" />
    </g>
-   <g id="gMinute10-1" transform="matrix(0.8660254,-0.5,0.5,0.8660254,820.96149,492.21638)">
-    <rect y="-774.86731" x="764.91956" height="144.97948" width="144.97948" id="rViewMinute10-1" style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.40000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+   <g id="gMinute10-1" transform="rotate(-30,1328.969,-1285.8268)">
+    <rect y="-774.86731" x="764.91956" height="144.97948" width="144.97948" id="rViewMinute10-1" style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g id="gBubblesMinute10-1" transform="translate(0,2)">
      <g id="gFee10-1-1" class="FeeText" transform="translate(-4.180655,1.9996981)">
       <use height="1" width="1" id="use5558-09" xlink:href="#gThreeLineFee" y="0" x="0" transform="translate(-1984.7288,1001.3492)" />
-      <flowRoot xml:space="preserve" id="FlowFee10-1-1" transform="translate(-2204.1629,-1480.4744)" style="line-height:0.01%;"><flowRegion id="flowRegion4201" style=""><rect id="rect4203" width="110.69465" height="17.668621" x="2996.0327" y="710.23578" style="" /></flowRegion><flowPara id="flowPara4205" style="line-height:1.25;">Veamos tres casos. Primero: la persona que tiene la media de 30 mil euros, es decir, 10 DU, se mantiene en esta media de 10 DU, es decir, 33 mil euros después de la emisión de la nueva moneda.</flowPara></flowRoot>     </g>
+      <flowRoot xml:space="preserve" id="FlowFee10-1-1" transform="translate(-2204.1629,-1480.4744)" style="line-height:0.01%"><flowRegion id="flowRegion4201"><rect id="rect4203" width="110.69465" height="17.668621" x="2996.0327" y="710.23578" /></flowRegion><flowPara id="flowPara4205" style="line-height:1.25">Veamos tres casos. Primero: la persona que tiene la media de 30 mil euros, es decir, 10 DU, se mantiene en esta media de 10 DU, es decir, 33 mil euros después de la emisión de la nueva moneda.</flowPara></flowRoot>     </g>
      <g transform="translate(9.7729596,1.0602222)" class="ElsieText" id="gElsie10-1-1">
       <use height="1" width="1" id="use7058-34" xlink:href="#gTwoLineElsie" y="0" x="0" transform="translate(-1824.2793,1024.4668)" />
-      <flowRoot transform="translate(-2204.5547,-1458.42)" id="FlowElsie10-1-1" xml:space="preserve" style="line-height:0.01%;"><flowRegion id="flowRegion4191" style=""><rect y="716.62476" x="2974.8691" height="16.37114" width="110.65311" id="rect4193" style="" /></flowRegion><flowPara id="flowPara8096" style="line-height:1.25;">Lo vimos con la banda elástica: se estira de manera que el promedio de 10 DU del año 2 corresponde a 10+1 DU del año 1.</flowPara></flowRoot>     </g>
+      <flowRoot transform="translate(-2204.5547,-1458.42)" id="FlowElsie10-1-1" xml:space="preserve" style="line-height:0.01%"><flowRegion id="flowRegion4191"><rect y="716.62476" x="2974.8691" height="16.37114" width="110.65311" id="rect4193" /></flowRegion><flowPara id="flowPara8096" style="line-height:1.25">Lo vimos con la banda elástica: se estira de manera que el promedio de 10 DU del año 2 corresponde a 10+1 DU del año 1.</flowPara></flowRoot>     </g>
      <g transform="translate(-4.180655,3.9999837)" class="FeeText" id="gFee10-1-2">
       <use transform="translate(-1816.0152,1017.3492)" x="0" y="0" xlink:href="#gTwoLineFee" id="use5510" width="1" height="1" />
-      <flowRoot transform="translate(-2204.4053,-1432.1109)" id="FlowFee10-1-2" xml:space="preserve" style="line-height:0.01%;"><flowRegion id="flowRegion5514" style=""><rect y="710.23578" x="2996.0327" height="13.468201" width="111.63125" id="rect5516" style="" /></flowRegion><flowPara id="flowPara5518" style="line-height:1.25;">También nos recuerda la historia de las tres hermanas: la segunda tiene una edad media a los 4 años, y la seguirá teniendo a los 50 años.</flowPara></flowRoot>     </g>
+      <flowRoot transform="translate(-2204.4053,-1432.1109)" id="FlowFee10-1-2" xml:space="preserve" style="line-height:0.01%"><flowRegion id="flowRegion5514"><rect y="710.23578" x="2996.0327" height="13.468201" width="111.63125" id="rect5516" /></flowRegion><flowPara id="flowPara5518" style="line-height:1.25">También nos recuerda la historia de las tres hermanas: la segunda tiene una edad media a los 4 años, y la seguirá teniendo a los 50 años.</flowPara></flowRoot>     </g>
     </g>
     <g transform="matrix(0.09589558,0,0,0.09589558,518.80192,-515.00683)" id="g10DUsPlus1">
      <g id="gBand2-10DUsPlus1">
-      <path style="fill:none;stroke:#999999;stroke-width:4.17120361;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" d="m 3177.9004,-1755.6488 -252.6926,0" id="line33DuStack" />
+      <path style="fill:none;stroke:#999999;stroke-width:4.17120361;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 3177.9004,-1755.6488 H 2925.2078" id="line33DuStack" inkscape:connector-curvature="0" />
       <use x="0" y="0" xlink:href="#gBand10DUsPlus1-Year1" id="useBand10DUsPlus1-Year2" width="4212.9922" height="2979.9211" transform="matrix(1,0,0,1.0999433,98.000002,134.40282)" />
-      <text transform="rotate(-45)" id="text33DuStack-YLabel" y="1307.0044" x="3077.7183" class="DuStackWeekText" xml:space="preserve"><tspan y="1307.0044" x="3077.7183" id="tspan5621">año 2</tspan></text>
+      <text transform="rotate(-45)" id="text33DuStack-YLabel" y="1307.0044" x="3107.2129" class="DuStackWeekText" xml:space="preserve"><tspan y="1307.0044" x="3107.2129" id="tspan5621">año 2</tspan></text>
       <text id="text33DuStack" y="-1760.4607" x="2686.7095" class="weekDuStackTextY" xml:space="preserve"><tspan y="-1760.4607" x="2686.7095" id="tspan5502">Promedio año 2: 33 mil euros</tspan></text>
-      <g transform="translate(-99.770297,0)" id="g10DUsPlus1-Label1DU-Year2">
-       <path style="fill:none;stroke:#999999;stroke-width:4.16259146;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" d="m 3313.4154,-1384.7631 c 0,17.6824 -35.1388,20.301 -35.1388,20.301" id="path8744" />
+      <g transform="translate(-99.770297)" id="g10DUsPlus1-Label1DU-Year2">
+       <path style="fill:none;stroke:#999999;stroke-width:4.16259146;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 3313.4154,-1384.7631 c 0,17.6824 -35.1388,20.301 -35.1388,20.301" id="path8744" inkscape:connector-curvature="0" />
        <text xml:space="preserve" class="SelectedDuLabel" x="3404.8042" y="-1439.4203" id="text8746"><tspan id="tspan8748" x="3404.8042" y="-1439.4203">1 DU</tspan><tspan x="3404.8042" y="-1401.9203" id="tspan8750">(3.3 mil euros)</tspan></text>
-       <rect style="fill:none;stroke:#999999;stroke-width:2.08129573;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" id="rect8752" width="214.946" height="84.738731" x="3298.0803" y="-1471.6188" rx="5" ry="5" />
+       <rect style="fill:none;stroke:#999999;stroke-width:2.08129573;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" id="rect8752" width="214.946" height="84.738731" x="3298.0803" y="-1471.6188" rx="5" ry="5" />
       </g>
      </g>
      <g id="gBand1-10DUsPlus1">
-      <path id="line30DuStack" d="m 3084.2766,-1718.3177 -257.1331,0" style="fill:none;stroke:#999999;stroke-width:4.17120361;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path id="line30DuStack" d="M 3084.2766,-1718.3177 H 2827.1435" style="fill:none;stroke:#999999;stroke-width:4.17120361;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" inkscape:connector-curvature="0" />
       <text xml:space="preserve" class="weekDuStackTextY" x="2596.6038" y="-1724.4607" id="text30DuStack"><tspan id="tspan5496" x="2596.6038" y="-1724.4607">Promedio año 1: 30 mil euros</tspan></text>
-      <g transform="translate(-207.2284,0)" id="gBand10DUsPlus1-Year1">
+      <g transform="translate(-207.2284)" id="gBand10DUsPlus1-Year1">
        <g id="g5506">
-        <rect ry="0" rx="0" transform="translate(17.577664,-1818.7974)" y="436.65292" x="3229.3464" height="37.352535" width="37.352535" id="rect5508" style="fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:#502d16;stroke-width:4.17120361;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+        <rect ry="0" rx="0" transform="translate(17.577664,-1818.7974)" y="436.65292" x="3229.3464" height="37.352535" width="37.352535" id="rect5508" style="fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:#502d16;stroke-width:4.17120361;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <text id="text5510" y="-1357.5382" x="3264.3704" class="DuStackWeekPartText" xml:space="preserve"><tspan y="-1357.5382" x="3264.3704" id="tspan5512">1</tspan></text>
        </g>
        <g id="g5514">
@@ -2834,28 +2817,28 @@
         <text xml:space="preserve" x="3263.9253" y="-1692.546" class="DuStackWeekPartText" id="text5587"><tspan id="tspan5589" x="3263.9253" y="-1692.546">10</tspan></text>
        </g>
        <g id="g8427">
-        <rect style="fill:none;stroke:#502d16;stroke-width:2.08129573;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" id="rect8429" width="12.450853" height="373.52548" x="3246.9241" y="-1718.3177" rx="0" ry="0" />
-        <rect ry="0" rx="0" y="-1718.3175" x="3271.8257" height="373.52548" width="12.450853" id="rect8431" style="fill:none;stroke:#502d16;stroke-width:2.08129573;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+        <rect style="fill:none;stroke:#502d16;stroke-width:2.08129573;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" id="rect8429" width="12.450853" height="373.52548" x="3246.9241" y="-1718.3177" rx="0" ry="0" />
+        <rect ry="0" rx="0" y="-1718.3175" x="3271.8257" height="373.52548" width="12.450853" id="rect8431" style="fill:none;stroke:#502d16;stroke-width:2.08129573;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
        </g>
       </g>
-      <g transform="translate(-162.64746,-2.4780275e-7)" id="g10DUsPlus1-10Percent">
+      <g transform="translate(-162.64746)" id="g10DUsPlus1-10Percent">
        <g id="g5593" transform="translate(-2.4780275e-7,-3.1299998e-4)">
         <g id="g5595" transform="translate(-2.4780319e-7,-37.352539)">
-         <rect style="fill:none;stroke:#502d16;stroke-width:4.17120361;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" id="rect5597" width="37.352535" height="37.352535" x="3246.9241" y="-1718.3174" rx="0" ry="0" />
+         <rect style="fill:none;stroke:#502d16;stroke-width:4.17120361;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" id="rect5597" width="37.352535" height="37.352535" x="3246.9241" y="-1718.3174" rx="0" ry="0" />
         </g>
         <text id="text5599" class="DuStackWeekPercent" y="-1733.6573" x="3264.5435" xml:space="preserve"><tspan y="-1733.6573" x="3264.5435" id="tspan5601">+10%</tspan></text>
        </g>
       </g>
-      <text xml:space="preserve" x="3008.417" y="1237.7094" id="text30DuStack-YLabel" class="DuStackWeekText" transform="rotate(-45)"><tspan id="tspan5605" x="3008.417" y="1237.7094">año 1</tspan></text>
-      <g id="g10DUsPlus1-Label1DU-Year1" transform="translate(-486.5127,0)">
-       <path id="path8408" d="m 3486.8366,-1384.7631 c 0,17.6824 35.1388,20.301 35.1388,20.301" style="fill:none;stroke:#999999;stroke-width:4.16259146;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text xml:space="preserve" x="3037.9116" y="1237.7094" id="text30DuStack-YLabel" class="DuStackWeekText" transform="rotate(-45)"><tspan id="tspan5605" x="3037.9116" y="1237.7094">año 1</tspan></text>
+      <g id="g10DUsPlus1-Label1DU-Year1" transform="translate(-486.5127)">
+       <path id="path8408" d="m 3486.8366,-1384.7631 c 0,17.6824 35.1388,20.301 35.1388,20.301" style="fill:none;stroke:#999999;stroke-width:4.16259146;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" inkscape:connector-curvature="0" />
        <text id="text8410" y="-1439.4203" x="3396.7026" class="SelectedDuLabel" xml:space="preserve"><tspan y="-1439.4203" x="3396.7026" id="tspan8412">1 DU</tspan><tspan id="tspan8414" y="-1401.9203" x="3396.7026">(3 mil euros)</tspan></text>
-       <rect ry="5" rx="5" y="-1471.6188" x="3298.0803" height="84.738731" width="200.76961" id="rect8416" style="fill:none;stroke:#999999;stroke-width:2.08129573;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+       <rect ry="5" rx="5" y="-1471.6188" x="3298.0803" height="84.738731" width="200.76961" id="rect8416" style="fill:none;stroke:#999999;stroke-width:2.08129573;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       </g>
-      <rect style="fill:#c671c6;fill-opacity:1;fill-rule:nonzero;stroke:#502d16;stroke-width:2.08129573;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" id="rect10DUsPlus1-DU-Year1" width="12.450853" height="37.352535" x="3039.6958" y="-1382.1445" rx="0" ry="0" />
+      <rect style="fill:#c671c6;fill-opacity:1;fill-rule:nonzero;stroke:#502d16;stroke-width:2.08129573;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" id="rect10DUsPlus1-DU-Year1" width="12.450853" height="37.352535" x="3039.6958" y="-1382.1445" rx="0" ry="0" />
      </g>
      <use height="2979.9211" width="4212.9922" transform="translate(89.318337,-41.712038)" id="useBandLabels-10DUs" xlink:href="#gBandLabels" y="0" x="0" />
-     <rect ry="0" rx="0" y="-1384.0111" x="3162.5974" height="37.352535" width="12.450853" id="rect10DUsPlus1-DU-Year2" style="fill:#c671c6;fill-opacity:1;fill-rule:nonzero;stroke:#502d16;stroke-width:2.08129573;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+     <rect ry="0" rx="0" y="-1384.0111" x="3162.5974" height="37.352535" width="12.450853" id="rect10DUsPlus1-DU-Year2" style="fill:#c671c6;fill-opacity:1;fill-rule:nonzero;stroke:#502d16;stroke-width:2.08129573;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g id="g12797" transform="matrix(0.09609399,0,0,0.09609399,493.61482,-489.02211)">
      <g transform="translate(250.10439,-263.14162)" id="g12799">
@@ -2868,7 +2851,7 @@
    </g>
    <g id="gMinute10-2" transform="matrix(0.8660254,0.5,-0.5,0.8660254,119.27981,-145.60715)">
     <rect style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.40000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="rViewMinute10-2" width="144.97948" height="144.97948" x="763.54688" y="-775.85297" />
-    <use height="2979.9211" width="4212.9922" transform="translate(-360.07207,-1225.7366)" id="use1-SistersYear4-50" xlink:href="#gSistersYear4-50" y="0" x="0" />
+    <use height="2979.9211" width="4212.9922" transform="translate(-360.07207,-1222.7056)" id="use1-SistersYear4-50" xlink:href="#gSistersYear4-50" y="0" x="0" />
     <g transform="translate(0,-1.1994475)" id="gBubblesMinute10-2">
      <g id="gFee10-2-1" class="FeeText" transform="translate(-6.6849214,-16.643414)">
       <use height="1" width="1" id="use5558-73" xlink:href="#gThreeLineFee" y="0" x="0" transform="translate(-1983.79,1020.2587)" />
@@ -2922,26 +2905,28 @@
        <rect transform="matrix(0.93087695,0,0,1.0000318,54.09659,15.401278)" y="-688.68823" x="780.76459" height="3.835346" width="20.002697" id="rect6236" style="fill:#be14c9;fill-opacity:1;fill-rule:nonzero;stroke:none;" />
        <rect transform="matrix(0.9716132,0,0,1.0000318,22.291169,20.403909)" y="-688.68823" x="780.76459" height="3.835346" width="20.002697" id="rect6238" style="fill:#be14c9;fill-opacity:1;fill-rule:nonzero;stroke:none;" />
       </g>
-      <flowRoot transform="translate(-728.46792,-1049.1343)" id="FlowDuCreationValues-one" xml:space="preserve" style="line-height:0.01%;"><flowRegion id="flowRegion6242" style=""><rect y="360.18204" x="1510.0372" height="40.548622" width="19.253416" id="rect6244" style="" /></flowRegion><flowPara id="flowPara6248" style="line-height:1.25;">0.91 DU</flowPara><flowPara id="flowPara6280" style="line-height:1.25;">6.1 DU</flowPara><flowPara id="flowPara6250" style="line-height:1.25;">8.5 DU</flowPara><flowPara id="flowPara6252" style="line-height:1.25;">9.4 DU</flowPara><flowPara id="flowPara6254" style="line-height:1.25;">9.8 DU</flowPara><flowPara id="flowPara6256" /></flowRoot>      <flowRoot style="line-height:0.01%;" xml:space="preserve" id="FlowMoneyReceived-one" transform="translate(-728.46792,-1064.4933)"><flowRegion id="flowRegion3528" style=""><rect id="rect3526" width="19.857277" height="15.035505" x="1510.0372" y="360.18204" style="" /></flowRegion><flowPara style="line-height:1.25;" id="flowPara3530">Moneda recibida por un individuo</flowPara><flowPara id="flowPara3542" /></flowRoot>     </g>
+      <flowRoot transform="translate(-728.46792,-1049.1343)" id="FlowDuCreationValues-one" xml:space="preserve" style="line-height:0.01%;"><flowRegion id="flowRegion6242" style=""><rect y="360.18204" x="1510.0372" height="40.548622" width="19.253416" id="rect6244" style="" /></flowRegion><flowPara id="flowPara6248" style="line-height:1.25;">0.91 DU</flowPara><flowPara id="flowPara6280" style="line-height:1.25;">6.1 DU</flowPara><flowPara id="flowPara6250" style="line-height:1.25;">8.5 DU</flowPara><flowPara id="flowPara6252" style="line-height:1.25;">9.4 DU</flowPara><flowPara id="flowPara6254" style="line-height:1.25;">9.8 DU</flowPara><flowPara id="flowPara6256" /></flowRoot>      <flowRoot style="line-height:0.01%" xml:space="preserve" id="FlowMoneyReceived-one" transform="translate(-729.08658,-1064.4933)"><flowRegion id="flowRegion3528"><rect id="rect3526" width="21.09461" height="15.035505" x="1510.0372" y="360.18204" /></flowRegion><flowPara style="line-height:1.25" id="flowPara3530">Moneda recibida por un individuo</flowPara><flowPara id="flowPara3542" /></flowRoot>     </g>
     </g>
    </g>
-   <g id="gMinute10-4" transform="matrix(0.8660254,-0.5,0.5,0.8660254,478.45852,690.39599)">
-    <rect style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.40000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="rViewMinute10-4" width="144.97948" height="144.97948" x="764.43652" y="-775.23846" />
+   <g id="gMinute10-4" transform="rotate(-30,1527.5257,-547.61776)">
+    <rect style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rViewMinute10-4" width="144.97948" height="144.97948" x="764.43652" y="-775.23846" />
     <g transform="translate(0,1.6030372)" id="gBubblesMinute10-4">
      <g transform="translate(-3.3016006,0.6811768)" class="FeeText" id="gFee10-4-1">
       <use transform="translate(-1813.6428,1022.4088)" x="0" y="0" xlink:href="#gOneLineFee" id="use7828" width="1" height="1" />
-      <flowRoot transform="translate(-2205.5768,-1477.892)" id="FlowFee10-4-1" xml:space="preserve" style="line-height:0.01%;"><flowRegion id="flowRegion7832" style=""><rect y="710.23578" x="2996.0327" height="9.2391014" width="110.24653" id="rect7834" style="" /></flowRegion><flowPara id="flowPara7836" style="line-height:1.25;">Tercero, quien haya tenido más de la reserva promedio...</flowPara></flowRoot>     </g>
-     <g transform="translate(5.3533255,4.084646)" class="ElsieText" id="gElsie10-4-1">
+      <flowRoot transform="translate(-2205.5768,-1477.892)" id="FlowFee10-4-1" xml:space="preserve" style="line-height:0.01%"><flowRegion id="flowRegion7832"><rect y="710.23578" x="2996.0327" height="9.2391014" width="110.24653" id="rect7834" /></flowRegion><flowPara id="flowPara7836" style="line-height:1.25">Tercero, quien haya tenido más de la reserva promedio...</flowPara></flowRoot>     </g>
+     <g transform="translate(5.3533255,2.084646)" class="ElsieText" id="gElsie10-4-1">
       <use height="1" width="1" id="use5099-4" xlink:href="#gTwoLineElsie" y="0" x="0" transform="translate(-1825.914,1015.5418)" />
-      <flowRoot xml:space="preserve" id="FlowElsie10-4-1" transform="translate(-2206.2854,-1467.5031)" style="line-height:0.01%;"><flowRegion id="flowRegion4319" style=""><rect id="rect4321" width="111.54201" height="12.861611" x="2974.8691" y="716.62476" style="" /></flowRegion><flowPara id="flowPara4323" style="line-height:1.25;">Es más o menos lo mismo: se mantiene en la cima, pero se está acercando. Esta vez es como con la primera hermana.</flowPara></flowRoot>     </g>
+      <flowRoot xml:space="preserve" id="FlowElsie10-4-1" transform="translate(-2206.2854,-1467.5031)" style="line-height:0.01%"><flowRegion id="flowRegion4319"><rect id="rect4321" width="111.54201" height="12.861611" x="2974.8691" y="716.62476" /></flowRegion><flowPara id="flowPara4323" style="line-height:1.25">Es más o menos lo mismo: se mantiene en la cima, pero se está acercando. Esta vez es como con la primera hermana.</flowPara></flowRoot>     </g>
     </g>
-    <use height="2979.9211" width="4212.9922" transform="translate(-356.74342,-1222.1024)" id="use2-SistersYear4-50" xlink:href="#gSistersYear4-50" y="0" x="0" />
-    <g transform="matrix(0.09609399,0,0,0.09609399,514.6142,-484.2402)" id="gSister1-RelativeToMean">
-     <g id="g13386" transform="translate(116.76461,-794.0476)">
-      <text xml:space="preserve" class="DuStackYearTextMore" x="2884.2461" y="-1694.078" id="text13388"><tspan x="2884.2461" y="-1694.078" id="tspan13390">= 1.5 veces el promedio</tspan></text>
-     </g>
-     <g id="g13392" transform="translate(384.3305,-87.984531)">
-      <text id="text13394" y="-2172.3958" x="3354.7007" class="yearDuStackTextYMore" xml:space="preserve"><tspan y="-2172.3958" x="3354.7007" id="tspan13396">= 1.04 veces el promedio</tspan></text>
+    <g id="g4332" transform="translate(0,-3.1751108)">
+     <use x="0" y="0" xlink:href="#gSistersYear4-50" id="use2-SistersYear4-50" transform="translate(-356.74342,-1219.0714)" width="4212.9922" height="2979.9211" />
+     <g id="gSister1-RelativeToMean" transform="matrix(0.09609399,0,0,0.09609399,514.6142,-484.2402)">
+      <g transform="translate(116.76461,-794.0476)" id="g13386">
+       <text id="text13388" y="-1694.078" x="2884.2461" class="DuStackYearTextMore" xml:space="preserve"><tspan id="tspan13390" y="-1694.078" x="2884.2461">= 1.5 veces el promedio</tspan></text>
+      </g>
+      <g transform="translate(384.3305,-87.984531)" id="g13392">
+       <text xml:space="preserve" class="yearDuStackTextYMore" x="3354.7007" y="-2172.3958" id="text13394"><tspan id="tspan13396" x="3354.7007" y="-2172.3958">= 1.04 veces el promedio</tspan></text>
+      </g>
      </g>
     </g>
    </g>
@@ -2974,10 +2959,10 @@
     <g id="gVirtuousCircle" class="Illustration" transform="translate(-2733.0442,-158.89082)">
      <g id="g5200">
       <path style="fill:#5fbcd3;fill-opacity:1;fill-rule:nonzero;stroke:#502d16;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" d="m 3509.0999,-524.89453 c 0,0 44.7837,-13.81088 58.5946,0 3.4302,3.4302 2.8778,11.18176 -3.4867,14.8563 -16.5071,9.53041 -33.1604,-10.75386 -49.3456,0.25564 z" id="path6032" />
-      <flowRoot xml:space="preserve" id="FlowVirtuous1" transform="translate(-51.587532,-2703.4449)" style="line-height:0.01%;"><flowRegion id="flowRegion5206" style=""><rect id="rect5208" width="50.109699" height="13.107059" x="3566.8757" y="2178.136" style="" /></flowRegion><flowPara id="flowPara5210" style="line-height:1.25;">Si tengo poca influencia, el DU aumenta mi influencia.</flowPara><flowPara id="flowPara5212" style="line-height:1.25;" /></flowRoot>     </g>
+      <flowRoot xml:space="preserve" id="FlowVirtuous1" transform="translate(-51.587532,-2703.4449)" style="line-height:0.01%"><flowRegion id="flowRegion5206"><rect id="rect5208" width="50.109699" height="13.107059" x="3566.8757" y="2178.136" /></flowRegion><flowPara id="flowPara5210" style="line-height:1.25">Si tengo poca influencia, </flowPara><flowPara style="line-height:1.25" id="flowPara4334">el DU aumenta mi influencia.</flowPara><flowPara id="flowPara5212" style="line-height:1.25" /></flowRoot>     </g>
      <g id="g5214" transform="translate(0,18)">
       <path id="path6040" d="m 3571.7824,-511.54696 c 0,0 -44.7837,13.8109 -58.5946,0 -3.4302,-3.4302 -2.8778,-11.1817 3.4867,-14.8563 16.5071,-9.5304 33.1604,10.7539 49.3456,-0.2556 z" style="fill:#d12e2e;fill-opacity:1;fill-rule:nonzero;stroke:#502d16;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
-      <flowRoot transform="translate(-51.52961,-2699.7481)" id="FlowVirtuous2" xml:space="preserve" style="line-height:0.01%;"><flowRegion id="flowRegion5220" style=""><rect y="2178.136" x="3566.8757" height="10.853004" width="50.302654" id="rect5222" style="" /></flowRegion><flowPara id="flowPara5224" style="line-height:1.25;">Si tengo mucha influencia, el DU disminuye mi influencia.</flowPara><flowPara id="flowPara5226" style="line-height:1.25;" /></flowRoot>     </g>
+      <flowRoot transform="translate(-51.52961,-2699.7481)" id="FlowVirtuous2" xml:space="preserve" style="line-height:0.01%"><flowRegion id="flowRegion5220"><rect y="2178.136" x="3566.8757" height="10.853004" width="50.302654" id="rect5222" /></flowRegion><flowPara id="flowPara5224" style="line-height:1.25">Si tengo mucha influencia, </flowPara><flowPara style="line-height:1.25" id="flowPara4336">el DU disminuye mi influencia.</flowPara><flowPara id="flowPara5226" style="line-height:1.25" /></flowRoot>     </g>
      <path id="path5228" d="m 3570.4912,-497.73511 8.2032,-0.2069 -2.9929,-2.1196 c 0.2884,-0.4078 0.5664,-0.8302 0.8311,-1.2687 l 0,0 c 0.9437,-1.5204 1.6048,-3.3888 1.6454,-5.4814 -0.055,-2.0874 -0.7259,-3.9465 -1.673,-5.4578 -1.2488,-2.0501 -2.7868,-3.7446 -4.3093,-5.2462 l -3.4298,3.4298 c 1.4061,1.4271 2.7004,2.8092 3.5784,4.3093 0.5881,1.0519 1.0287,2.0858 0.9834,2.9824 l 0,0 c 0.052,0.897 -0.3828,1.9345 -0.9663,2.9885 l 0,0 c -0.1855,0.3203 -0.3901,0.6351 -0.6107,0.9461 l -2.969,-2.1027 z" style="fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:#502d16;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
      <use x="0" y="0" xlink:href="#path7347" id="use5231" transform="matrix(-1,0,0,-1,7081.8832,-1019.9869)" width="4212.9922" height="2979.9211" />
     </g>
@@ -2995,7 +2980,7 @@
        <rect transform="matrix(0.05915603,0,0,1,753.44771,15.275597)" style="fill:#d5d400;fill-opacity:1;fill-rule:nonzero;stroke:none" id="rect6299" width="36.249184" height="3.835346" x="800.76459" y="-688.68817" />
        <rect transform="matrix(0.02426307,0,0,1,781.38876,20.152913)" style="fill:#d5d400;fill-opacity:1;fill-rule:nonzero;stroke:none" id="rect6301" width="36.249184" height="3.835346" x="800.76459" y="-688.68817" />
       </g>
-      <flowRoot xml:space="preserve" id="FlowDuReserveValues-one" transform="translate(-708.22194,-1049.3685)" style="line-height:0.01%;"><flowRegion id="flowRegion6305" style=""><rect id="rect6307" width="33.736839" height="25.52309" x="1510.0372" y="360.18204" style="" /></flowRegion><flowPara id="flowPara6311" style="line-height:1.25;">90 %</flowPara><flowPara id="flowPara16103" style="line-height:1.25;">38.7 %</flowPara><flowPara id="flowPara6313" style="line-height:1.25;">15.1 %</flowPara><flowPara id="flowPara6315" style="line-height:1.25;">6.1 %</flowPara><flowPara id="flowPara6317" style="line-height:1.25;">2.5 %</flowPara><flowPara id="flowPara6319" /></flowRoot>      <flowRoot style="line-height:0.01%;" transform="translate(-708.22194,-1064.4933)" id="FlowSpaceOccupied-one" xml:space="preserve"><flowRegion id="flowRegion3570" style=""><rect y="360.18204" x="1510.0372" height="15.403211" width="34.180016" id="rect3568" style="" /></flowRegion><flowPara style="line-height:1.25;" id="flowPara3572">Espacio ocupado por la reserva del que tiene todos los eurosl</flowPara><flowPara id="flowPara3584" /></flowRoot>     </g>
+      <flowRoot xml:space="preserve" id="FlowDuReserveValues-one" transform="translate(-708.22194,-1049.3685)" style="line-height:0.01%;"><flowRegion id="flowRegion6305" style=""><rect id="rect6307" width="33.736839" height="25.52309" x="1510.0372" y="360.18204" style="" /></flowRegion><flowPara id="flowPara6311" style="line-height:1.25;">90 %</flowPara><flowPara id="flowPara16103" style="line-height:1.25;">38.7 %</flowPara><flowPara id="flowPara6313" style="line-height:1.25;">15.1 %</flowPara><flowPara id="flowPara6315" style="line-height:1.25;">6.1 %</flowPara><flowPara id="flowPara6317" style="line-height:1.25;">2.5 %</flowPara><flowPara id="flowPara6319" /></flowRoot>      <flowRoot style="line-height:0.01%" transform="translate(-709.45926,-1064.4933)" id="FlowSpaceOccupied-one" xml:space="preserve"><flowRegion id="flowRegion3570"><rect y="360.18204" x="1510.0372" height="15.403212" width="36.860905" id="rect3568" /></flowRegion><flowPara style="line-height:1.25" id="flowPara3572">Espacio ocupado por la reserva del que tiene todos los euros</flowPara><flowPara id="flowPara3584" /></flowRoot>     </g>
     </g>
    </g>
    <g id="gCircle10" transform="translate(-2164.6171,0.07299719)">
@@ -3114,13 +3099,13 @@
    <g id="gMinute11-6" transform="translate(331.82695,-472.59446)">
     <rect style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.40000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="rViewMinute11-6" width="144.97948" height="144.97948" x="764.04773" y="-774.78748" />
     <g id="gBubblesMinute11-6">
-     <g id="gElsie11-6-1" class="ElsieText" transform="translate(3.9032168,1.1551654)" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:'Komika Text';letter-spacing:0px;word-spacing:0px;fill:#475114;fill-opacity:1;stroke:none">
+     <g id="gElsie11-6-1" class="ElsieText" transform="translate(3.9032168,1.1551654)">
       <use height="1" width="1" id="use7058-49" xlink:href="#gTwoLineElsie" y="0" x="0" transform="translate(-1824.9741,996.88588)" />
       <flowRoot xml:space="preserve" id="FlowElsie11-6-1" transform="translate(-2205.2495,-1485.8189)" style="line-height:0.01%"><flowRegion id="flowRegion4558"><rect id="rect4560" width="113.49451" height="11.35092" x="2974.8691" y="716.62476" /></flowRegion><flowPara id="flowPara4562" style="line-height:1.25">¿Podríamos rehacer los cálculos con otros valores para la tasa, ver cómo se ve con el 1%, 5% o 20%?</flowPara></flowRoot>     </g>
-     <g transform="translate(-1.088986,-12.337052)" class="FeeText" id="gFee11-6-1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:'Komika Text';letter-spacing:0px;word-spacing:0px;fill:#c90c2c;fill-opacity:1;stroke:none">
+     <g transform="translate(-1.088986,-12.337052)" class="FeeText" id="gFee11-6-1">
       <use transform="translate(-1819.4957,1004.0733)" x="0" y="0" xlink:href="#gTwoLineFee" id="use5189" width="1" height="1" />
       <flowRoot transform="translate(-2186.8568,-1451.9891)" id="FlowFee11-6-1" xml:space="preserve" style="line-height:0.01%"><flowRegion id="flowRegion5193"><rect y="716.62476" x="2974.8691" height="17.814274" width="111.2609" id="rect5195" /></flowRegion><flowPara id="flowPara5197" style="line-height:1.25">Mira, los resultados están en estas tablas: podemos ver que el 10% es el valor que mejor respeta la simetría que hemos elegido.</flowPara></flowRoot>     </g>
-     <g transform="translate(3.9032168,47.444413)" class="ElsieText" id="gElsie11-6-2" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:'Komika Text';letter-spacing:0px;word-spacing:0px;fill:#475114;fill-opacity:1;stroke:none">
+     <g transform="translate(3.9032168,47.444413)" class="ElsieText" id="gElsie11-6-2">
       <use transform="translate(-1822.1869,1037.9763)" x="0" y="0" xlink:href="#gOneLineElsie" id="use5201" width="1" height="1" />
       <flowRoot transform="translate(-2205.5674,-1490.4201)" id="FlowElsie11-6-2" xml:space="preserve" style="line-height:0.01%"><flowRegion id="flowRegion5205"><rect y="716.62476" x="2974.8691" height="11.331429" width="111.48661" id="rect5207" /></flowRegion><flowPara id="flowPara5209" style="line-height:1.25">Eso es bueno, ¡10 es MUY práctico!</flowPara></flowRoot>     </g>
     </g>
@@ -3128,7 +3113,7 @@
      <g id="gRowHeader1Percent">
       <path id="rectRate1Percent" d="m 766.26598,-703.55109 14.10638,0 0.1516,14.34579 -15.97379,0 0,-12.82979 c 0,-1.13495 0.71434,-1.516 1.71581,-1.516 z" style="fill:#008c31;fill-opacity:1;fill-rule:nonzero;stroke:#008c32;stroke-opacity:1" />
       <path style="fill:#00b941;fill-opacity:1;fill-rule:nonzero;stroke:#00b941;stroke-opacity:1" d="m 764.55088,-698.46224 15.82148,0 0.1516,9.25694 -15.97379,0 c -1.4e-4,-2.78193 6.4e-4,-6.47501 7.1e-4,-9.25694 z" id="path6926" sodipodi:nodetypes="ccccc" />
-      <flowRoot xml:space="preserve" id="FlowRate1Percent" transform="translate(-730.20332,-1059.3894)" style="line-height:0.01%;"><flowRegion id="flowRegion9661" style=""><rect id="rect9663" width="15.614493" height="15.16997" x="1494.6537" y="355.01703" style="text-align:center;text-anchor:middle;" /></flowRegion><flowPara id="flowPara9667" style="line-height:1.25;">Tasa 1% Promedio 100 DU</flowPara></flowRoot>      <flowRoot xml:space="preserve" id="FlowYear1Percent" transform="translate(-745.33049,-1049.3161)" style="line-height:0.01%;"><flowRegion id="flowRegion8568" style=""><rect id="rect8570" width="15.54884" height="20.307262" x="1510.0372" y="360.18204" style="" /></flowRegion><flowPara id="flowPara8580" style="line-height:1.25;">10 años</flowPara><flowPara id="flowPara8592" style="line-height:1.25;">20 años</flowPara><flowPara id="flowPara8594" style="line-height:1.25;">30 años</flowPara><flowPara id="flowPara8582" style="line-height:1.25;">40 años</flowPara></flowRoot>     </g>
+      <flowRoot xml:space="preserve" id="FlowRate1Percent" transform="translate(-730.20332,-1059.3894)" style="line-height:0.01%;"><flowRegion id="flowRegion9661" style=""><rect id="rect9663" width="16.130049" height="15.376192" x="1494.6537" y="355.01703" style="text-align:center;text-anchor:middle" /></flowRegion><flowPara id="flowPara9667" style="line-height:1.25;">Tasa 1% Promedio 100 DU</flowPara></flowRoot>      <flowRoot xml:space="preserve" id="FlowYear1Percent" transform="translate(-745.33049,-1049.3161)" style="line-height:0.01%;"><flowRegion id="flowRegion8568" style=""><rect id="rect8570" width="15.54884" height="20.307262" x="1510.0372" y="360.18204" style="" /></flowRegion><flowPara id="flowPara8580" style="line-height:1.25;">10 años</flowPara><flowPara id="flowPara8592" style="line-height:1.25;">20 años</flowPara><flowPara id="flowPara8594" style="line-height:1.25;">30 años</flowPara><flowPara id="flowPara8582" style="line-height:1.25;">40 años</flowPara></flowRoot>     </g>
      <g id="gIngoing1Percent">
       <path id="rectIngoing1Percent" d="m 781.2821,-703.55109 19.09294,0 0,34.59937 -19.09294,0 z" style="fill:#f73d2a;fill-opacity:1;stroke:#f73d2a;stroke-opacity:1" />
       <g id="gIngoing1PercentBars">
@@ -3137,7 +3122,7 @@
        <rect style="fill:#be14c9;fill-opacity:1;fill-rule:nonzero;stroke:none;" id="rectIngoing1Percent-30Years" width="20.002697" height="3.835346" x="780.76459" y="-688.68823" transform="matrix(0.25463768,0,0,1.0000318,582.00829,10.274787)" />
        <rect style="fill:#be14c9;fill-opacity:1;fill-rule:nonzero;stroke:none;" id="rectIngoing1Percent-40Years" width="20.002697" height="3.835346" x="780.76459" y="-688.68823" transform="matrix(0.32372542,0,0,1.0000318,528.1324,15.401278)" />
       </g>
-      <flowRoot transform="translate(-728.30765,-1049.1909)" id="FlowIngoing1Percent" xml:space="preserve" style="line-height:0.01%;"><flowRegion id="flowRegion8532" style=""><rect y="360.18204" x="1510.0372" height="20.273695" width="18.243866" id="rect8534" style="" /></flowRegion><flowPara id="flowPara8546" style="line-height:1.25;">9.5 DU</flowPara><flowPara id="flowPara8538" style="line-height:1.25;">18 DU</flowPara><flowPara id="flowPara8540" style="line-height:1.25;">25.8 DU</flowPara><flowPara id="flowPara8544" style="line-height:1.25;">32.8 DU</flowPara></flowRoot>      <flowRoot style="line-height:0.01%;" xml:space="preserve" id="FlowIngoingIssued1Percent" transform="translate(-728.30765,-1064.4933)"><flowRegion id="flowRegion3612" style=""><rect id="rect3610" width="18.48069" height="14.70834" x="1510.0372" y="360.18204" style="" /></flowRegion><flowPara style="line-height:1.25;" id="flowPara3622">Moneda emitida por un llegado</flowPara></flowRoot>     </g>
+      <flowRoot transform="translate(-728.30765,-1049.1909)" id="FlowIngoing1Percent" xml:space="preserve" style="line-height:0.01%;"><flowRegion id="flowRegion8532" style=""><rect y="360.18204" x="1510.0372" height="20.273695" width="18.243866" id="rect8534" style="" /></flowRegion><flowPara id="flowPara8546" style="line-height:1.25;">9.5 DU</flowPara><flowPara id="flowPara8538" style="line-height:1.25;">18 DU</flowPara><flowPara id="flowPara8540" style="line-height:1.25;">25.8 DU</flowPara><flowPara id="flowPara8544" style="line-height:1.25;">32.8 DU</flowPara></flowRoot>      <flowRoot style="line-height:0.01%" xml:space="preserve" id="FlowIngoingIssued1Percent" transform="translate(-729.13253,-1064.4933)"><flowRegion id="flowRegion3612"><rect id="rect3610" width="19.924246" height="14.914562" x="1510.0372" y="360.18204" /></flowRegion><flowPara style="line-height:1.25" id="flowPara3622">Moneda emitida por un llegado</flowPara></flowRoot>     </g>
      <g id="gOutgoing1Percent">
       <path id="rectOutgoing1Percent" d="m 801.28461,-703.55109 32.62063,0 c 1.06701,0 1.86695,0.55465 1.86695,1.73039 l 0,30.9254 c 0,1.09842 -0.55793,1.94358 -1.81335,1.94358 l -32.67423,0 z" style="fill:#008cac;fill-opacity:1;stroke:#008cac;stroke-opacity:1" />
       <g id="gOutgoing1PercentRect">
@@ -3146,37 +3131,37 @@
        <rect y="-688.68817" x="800.76459" height="3.835346" width="36.249184" id="rectOutgoing1Percent-30Years" style="fill:#d5d400;fill-opacity:1;fill-rule:nonzero;stroke:none;" transform="matrix(0.7175512,0,0,1,226.16667,10.183594)" />
        <rect y="-688.68817" x="800.76459" height="3.835346" width="36.249184" id="rectOutgoing1Percent-40Years" style="fill:#d5d400;fill-opacity:1;fill-rule:nonzero;stroke:none;" transform="matrix(0.64994894,0,0,1,280.27115,15.275597)" />
       </g>
-      <flowRoot xml:space="preserve" id="FlowOutgoing1Percent" transform="translate(-708.51458,-1049.3093)" style="line-height:0.01%;"><flowRegion id="flowRegion8616" style=""><rect id="rect8618" width="34.002396" height="20.198889" x="1510.0372" y="360.18204" style="" /></flowRegion><flowPara id="flowPara8622" style="line-height:1.25;">90.6 %</flowPara><flowPara id="flowPara8624" style="line-height:1.25;">82 %</flowPara><flowPara id="flowPara8626" style="line-height:1.25;">74.3 %</flowPara><flowPara id="flowPara8630" style="line-height:1.25;">67.3 %</flowPara></flowRoot>      <flowRoot style="line-height:0.01%;" transform="translate(-708.51458,-1064.4933)" id="FlowOutgoingOccupied1Percent" xml:space="preserve"><flowRegion id="flowRegion3676" style=""><rect y="360.18204" x="1510.0372" height="14.988769" width="34.002396" id="rect3674" style="" /></flowRegion><flowPara style="line-height:1.25;" id="flowPara3686">Espacio ocupado por la masa monetaria de los salientes</flowPara></flowRoot>     </g>
+      <flowRoot xml:space="preserve" id="FlowOutgoing1Percent" transform="translate(-708.51458,-1049.3093)" style="line-height:0.01%;"><flowRegion id="flowRegion8616" style=""><rect id="rect8618" width="34.002396" height="20.198889" x="1510.0372" y="360.18204" style="" /></flowRegion><flowPara id="flowPara8622" style="line-height:1.25;">90.6 %</flowPara><flowPara id="flowPara8624" style="line-height:1.25;">82 %</flowPara><flowPara id="flowPara8626" style="line-height:1.25;">74.3 %</flowPara><flowPara id="flowPara8630" style="line-height:1.25;">67.3 %</flowPara></flowRoot>      <flowRoot style="line-height:0.01%" transform="translate(-709.54568,-1064.4933)" id="FlowOutgoingOccupied1Percent" xml:space="preserve"><flowRegion id="flowRegion3676"><rect y="360.18204" x="1510.0372" height="15.194991" width="35.652172" id="rect3674" /></flowRegion><flowPara style="line-height:1.25" id="flowPara3686">Espacio ocupado por la masa monetaria de los salientes</flowPara></flowRoot>     </g>
     </g>
     <g id="g5PercentTable" class="Illustration" transform="translate(73.270422,-6)">
      <g id="gRowHeader5Percent">
       <path id="rectRate5Percent" d="m 765.72652,-703.55109 14.79742,0 -0.1516,14.34579 -16.49136,0 0,-12.5618 c 0,-1.35131 0.67519,-1.78399 1.84554,-1.78399 z" style="fill:#008c31;fill-opacity:1;fill-rule:nonzero;stroke:#008c32;stroke-opacity:1" />
       <path style="fill:#00b941;fill-opacity:1;fill-rule:nonzero;stroke:#00b941;stroke-opacity:1" d="m 763.85063,-698.56943 16.67331,0 -0.1516,9.36413 -16.49136,0 c 0.006,-2.78194 -0.0283,-6.58218 -0.0303,-9.36413 z" id="path6930" sodipodi:nodetypes="ccccc" />
       <flowRoot transform="translate(-731.09082,-1059.3894)" id="FlowRate5Percent" xml:space="preserve" style="line-height:0.01%;"><flowRegion id="flowRegion9945" style=""><rect y="355.01703" x="1494.6537" height="15.288382" width="16.680201" id="rect9947" style="text-align:center;text-anchor:middle;" /></flowRegion><flowPara id="flowPara9949" style="line-height:1.25;">Tasa 5% Promedio 20 DU</flowPara></flowRoot>      <flowRoot transform="translate(-746.13342,-1049.3161)" id="FlowYear5Percent" xml:space="preserve" style="line-height:0.01%;"><flowRegion id="flowRegion9953" style=""><rect y="360.18204" x="1510.0372" height="20.307261" width="16.1409" id="rect9955" style="" /></flowRegion><flowPara id="flowPara9957" style="line-height:1.25;">10 años</flowPara><flowPara id="flowPara9959" style="line-height:1.25;">20 años</flowPara><flowPara id="flowPara9961" style="line-height:1.25;">30 años</flowPara><flowPara id="flowPara9965" style="line-height:1.25;">40 años</flowPara></flowRoot>     </g>
-     <g id="gIngoing5Percent">
-      <path id="rectIngoing5Percent" d="m 781.2821,-703.55109 19.24454,0 -0.30319,34.59937 -18.94135,0 z" style="fill:#f73d2a;fill-opacity:1;stroke:#f73d2a;stroke-opacity:1" />
+     <g id="gIngoing5Percent" transform="translate(-0.87492702)">
+      <path id="rectIngoing5Percent" d="m 781.28931,-703.54385 h 19.81327 l -0.31215,34.58489 h -19.50112 z" style="fill:#f73d2a;fill-opacity:1;stroke:#f73d2a;stroke-width:1.01445639;stroke-opacity:1" inkscape:connector-curvature="0" />
       <g id="gIngoing5PercentBars">
-       <rect style="fill:#be14c9;fill-opacity:1;fill-rule:nonzero;stroke:none;" id="rectIngoing5Percent-10Years" width="20.002697" height="3.835346" x="780.76459" y="-688.68823" transform="matrix(0.38056291,0,0,1.0000318,483.71445,0.02185834)" />
-       <rect style="fill:#be14c9;fill-opacity:1;fill-rule:nonzero;stroke:none;" id="rectIngoing5Percent-20Years" width="20.002697" height="3.835346" x="780.76459" y="-688.68823" transform="matrix(0.6212874,0,0,1.0000318,295.70626,5.1483232)" />
-       <rect style="fill:#be14c9;fill-opacity:1;fill-rule:nonzero;stroke:none;" id="rectIngoing5Percent-30Years" width="20.002697" height="3.835346" x="780.76459" y="-688.68823" transform="matrix(0.76534318,0,0,1.0000318,183.27862,10.274787)" />
-       <rect style="fill:#be14c9;fill-opacity:1;fill-rule:nonzero;stroke:none;" id="rectIngoing5Percent-40Years" width="20.002697" height="3.835346" x="780.76459" y="-688.68823" transform="matrix(0.85264015,0,0,1.0000318,115.10001,15.401278)" />
+       <rect style="fill:#be14c9;fill-opacity:1;fill-rule:nonzero;stroke:none" id="rectIngoing5Percent-10Years" width="20.002697" height="3.835346" x="780.76459" y="-688.68823" transform="matrix(0.38056291,0,0,1.0000318,483.71445,0.02185834)" />
+       <rect style="fill:#be14c9;fill-opacity:1;fill-rule:nonzero;stroke:none" id="rectIngoing5Percent-20Years" width="20.002697" height="3.835346" x="780.76459" y="-688.68823" transform="matrix(0.6212874,0,0,1.0000318,295.70626,5.1483232)" />
+       <rect style="fill:#be14c9;fill-opacity:1;fill-rule:nonzero;stroke:none" id="rectIngoing5Percent-30Years" width="20.002697" height="3.835346" x="780.76459" y="-688.68823" transform="matrix(0.76534318,0,0,1.0000318,183.27862,10.274787)" />
+       <rect style="fill:#be14c9;fill-opacity:1;fill-rule:nonzero;stroke:none" id="rectIngoing5Percent-40Years" width="20.002697" height="3.835346" x="780.76459" y="-688.68823" transform="matrix(0.85264015,0,0,1.0000318,115.10001,15.401278)" />
       </g>
-      <flowRoot xml:space="preserve" id="FlowIngoing5Percent" transform="translate(-728.30765,-1049.1909)" style="line-height:0.01%;"><flowRegion id="flowRegion9983" style=""><rect id="rect9985" width="18.243866" height="20.036871" x="1510.0372" y="360.18204" style="" /></flowRegion><flowPara id="flowPara9989" style="line-height:1.25;">7.7 DU</flowPara><flowPara id="flowPara9991" style="line-height:1.25;">12.5 DU</flowPara><flowPara id="flowPara9993" style="line-height:1.25;">15.4 DU</flowPara><flowPara id="flowPara9997" style="line-height:1.25;">17.2 DU</flowPara></flowRoot>      <flowRoot style="line-height:0.01%;" transform="translate(-728.30765,-1064.4933)" id="FlowIngoingIssued5Percent" xml:space="preserve"><flowRegion id="flowRegion3744" style=""><rect y="360.18204" x="1510.0372" height="15.300399" width="18.362278" id="rect3741" style="" /></flowRegion><flowPara style="line-height:1.25;" id="flowPara3756">Moneda emitida por un llegado</flowPara></flowRoot>     </g>
-     <g id="gOutgoing5Percent">
-      <path id="rectOutgoing5Percent" d="m 801.28461,-703.55109 31.75959,0 c 1.1124,0 1.97002,0.87121 1.97002,1.73039 l 0,31.24698 c 0,1.29917 -0.70497,1.622 -1.80923,1.622 l -31.92038,0 z" style="fill:#008cac;fill-opacity:1;stroke:#008cac;stroke-opacity:1" />
+      <flowRoot xml:space="preserve" id="FlowIngoing5Percent" transform="translate(-728.30765,-1049.1909)" style="line-height:0.01%"><flowRegion id="flowRegion9983"><rect id="rect9985" width="18.243866" height="20.036871" x="1510.0372" y="360.18204" /></flowRegion><flowPara id="flowPara9989" style="line-height:1.25">7.7 DU</flowPara><flowPara id="flowPara9991" style="line-height:1.25">12.5 DU</flowPara><flowPara id="flowPara9993" style="line-height:1.25">15.4 DU</flowPara><flowPara id="flowPara9997" style="line-height:1.25">17.2 DU</flowPara></flowRoot>      <flowRoot style="line-height:0.01%" transform="translate(-729.13253,-1064.4933)" id="FlowIngoingIssued5Percent" xml:space="preserve"><flowRegion id="flowRegion3744"><rect y="360.18204" x="1510.0372" height="15.506621" width="19.599611" id="rect3741" /></flowRegion><flowPara style="line-height:1.25" id="flowPara3756">Moneda emitida por un llegado</flowPara></flowRoot>     </g>
+     <g id="gOutgoing5Percent" transform="translate(-0.43746351)">
+      <path id="rectOutgoing5Percent" d="m 801.28879,-703.54691 h 32.30093 c 1.13136,0 2.0036,0.871 2.0036,1.72997 v 31.23943 c 0,1.29886 -0.71698,1.62161 -1.84007,1.62161 h -32.46446 z" style="fill:#008cac;fill-opacity:1;stroke:#008cac;stroke-width:1.00836456;stroke-opacity:1" inkscape:connector-curvature="0" />
       <g id="gOutgoing5PercentRect">
-       <rect y="-688.68817" x="800.76459" height="3.835346" width="36.249184" id="rectOutgoing5Percent-10Years" style="fill:#d5d400;fill-opacity:1;fill-rule:nonzero;stroke:none;" transform="matrix(0.58493053,0,0,1,332.49761,0)" />
-       <rect y="-688.68817" x="800.76459" height="3.835346" width="36.249184" id="rectOutgoing5Percent-20Years" style="fill:#d5d400;fill-opacity:1;fill-rule:nonzero;stroke:none;" transform="matrix(0.36069069,0,0,1,512.0626,5.0917969)" />
-       <rect y="-688.68817" x="800.76459" height="3.835346" width="36.249184" id="rectOutgoing5Percent-30Years" style="fill:#d5d400;fill-opacity:1;fill-rule:nonzero;stroke:none;" transform="matrix(0.22220364,0,0,1,622.91794,10.183594)" />
-       <rect y="-688.68817" x="800.76459" height="3.835346" width="36.249184" id="rectOutgoing5Percent-40Years" style="fill:#d5d400;fill-opacity:1;fill-rule:nonzero;stroke:none;" transform="matrix(0.13276506,0,0,1,694.50106,15.275597)" />
+       <rect y="-688.68817" x="800.76459" height="3.835346" width="36.249184" id="rectOutgoing5Percent-10Years" style="fill:#d5d400;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.58493053,0,0,1,332.49761,0)" />
+       <rect y="-688.68817" x="800.76459" height="3.835346" width="36.249184" id="rectOutgoing5Percent-20Years" style="fill:#d5d400;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.36069069,0,0,1,512.0626,5.0917969)" />
+       <rect y="-688.68817" x="800.76459" height="3.835346" width="36.249184" id="rectOutgoing5Percent-30Years" style="fill:#d5d400;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.22220364,0,0,1,622.91794,10.183594)" />
+       <rect y="-688.68817" x="800.76459" height="3.835346" width="36.249184" id="rectOutgoing5Percent-40Years" style="fill:#d5d400;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.13276506,0,0,1,694.50106,15.275597)" />
       </g>
-      <flowRoot transform="translate(-708.51458,-1049.1909)" id="FlowOutgoing5Percent" xml:space="preserve" style="line-height:0.01%;"><flowRegion id="flowRegion10015" style=""><rect y="360.18204" x="1510.0372" height="20.080477" width="33.291924" id="rect10017" style="" /></flowRegion><flowPara id="flowPara10021" style="line-height:1.25;">61.5 %</flowPara><flowPara id="flowPara10023" style="line-height:1.25;">37.9 %</flowPara><flowPara id="flowPara10025" style="line-height:1.25;">23.4 %</flowPara><flowPara id="flowPara10029" style="line-height:1.25;">14 %</flowPara></flowRoot>      <flowRoot style="line-height:0.01%;" xml:space="preserve" id="FlowOutgoingOccupied5Percent" transform="translate(-708.51458,-1064.4933)"><flowRegion id="flowRegion10016" style=""><rect id="rect3808" width="33.410336" height="14.988769" x="1510.0372" y="360.18204" style="" /></flowRegion><flowPara style="line-height:1.25;" id="flowPara3821">Espacio ocupado por la masa monetaria de los salientes</flowPara></flowRoot>     </g>
+      <flowRoot transform="translate(-708.51458,-1049.1909)" id="FlowOutgoing5Percent" xml:space="preserve" style="line-height:0.01%"><flowRegion id="flowRegion10015"><rect y="360.18204" x="1510.0372" height="20.080477" width="33.291924" id="rect10017" /></flowRegion><flowPara id="flowPara10021" style="line-height:1.25">61.5 %</flowPara><flowPara id="flowPara10023" style="line-height:1.25">37.9 %</flowPara><flowPara id="flowPara10025" style="line-height:1.25">23.4 %</flowPara><flowPara id="flowPara10029" style="line-height:1.25">14 %</flowPara></flowRoot>      <flowRoot style="line-height:0.01%" xml:space="preserve" id="FlowOutgoingOccupied5Percent" transform="translate(-709.54568,-1064.4933)"><flowRegion id="flowRegion10016"><rect id="rect3808" width="35.67878" height="15.194991" x="1510.0372" y="360.18204" /></flowRegion><flowPara style="line-height:1.25" id="flowPara3821">Espacio ocupado por la masa monetaria de los salientes</flowPara></flowRoot>     </g>
     </g>
     <g transform="translate(0,30)" class="Illustration" id="g10PercentTable">
      <g id="gRowHeader10Percent">
       <path id="rectRate10Percent" d="m 766.21238,-703.55109 14.16009,0 0.1516,14.34579 -16.0367,0 0,-12.86628 c 0,-1.06375 0.74635,-1.47951 1.72501,-1.47951 z" style="fill:#008c31;fill-opacity:1;fill-rule:nonzero;stroke:#008c32;stroke-opacity:1" />
       <path style="fill:#00b941;fill-opacity:1;fill-rule:nonzero;stroke:#00b941;stroke-opacity:1" d="m 764.49728,-698.69354 15.87519,0 0.1516,9.48824 -16.0367,0 c -0.003,-3.4486 0.009,-6.03964 0.01,-9.48824 z" id="path6928" sodipodi:nodetypes="ccccc" />
-      <flowRoot transform="translate(-730.20332,-1059.3894)" id="FlowRate10Percent" xml:space="preserve" style="line-height:0.01%;"><flowRegion id="flowRegion10037" style=""><rect y="355.01703" x="1494.6537" height="14.933146" width="15.496082" id="rect10039" style="text-align:center;text-anchor:middle;" /></flowRegion><flowPara id="flowPara10041" style="line-height:1.25;">Tasa 10% Promedio 10 DU</flowPara></flowRoot>      <flowRoot transform="translate(-745.19911,-1049.4345)" id="FlowYear10Percent" xml:space="preserve" style="line-height:0.01%;"><flowRegion id="flowRegion10045" style=""><rect y="360.18204" x="1510.0372" height="20.544085" width="15.548841" id="rect10047" style="" /></flowRegion><flowPara id="flowPara10049" style="line-height:1.25;">10 años</flowPara><flowPara id="flowPara10051" style="line-height:1.25;">20 años</flowPara><flowPara id="flowPara10053" style="line-height:1.25;">30 años</flowPara><flowPara id="flowPara10057" style="line-height:1.25;">40 años</flowPara></flowRoot>     </g>
+      <flowRoot transform="translate(-730.20332,-1059.3894)" id="FlowRate10Percent" xml:space="preserve" style="line-height:0.01%;"><flowRegion id="flowRegion10037" style=""><rect y="355.01703" x="1494.6537" height="14.933146" width="16.011639" id="rect10039" style="text-align:center;text-anchor:middle" /></flowRegion><flowPara id="flowPara10041" style="line-height:1.25;">Tasa 10% Promedio 10 DU</flowPara></flowRoot>      <flowRoot transform="translate(-745.19911,-1049.4345)" id="FlowYear10Percent" xml:space="preserve" style="line-height:0.01%;"><flowRegion id="flowRegion10045" style=""><rect y="360.18204" x="1510.0372" height="20.544085" width="15.548841" id="rect10047" style="" /></flowRegion><flowPara id="flowPara10049" style="line-height:1.25;">10 años</flowPara><flowPara id="flowPara10051" style="line-height:1.25;">20 años</flowPara><flowPara id="flowPara10053" style="line-height:1.25;">30 años</flowPara><flowPara id="flowPara10057" style="line-height:1.25;">40 años</flowPara></flowRoot>     </g>
      <g id="gIngoing10Percent">
       <path id="rectIngoing10Percent" d="m 781.2821,-703.55109 19.24454,0 0,34.59937 -19.24454,0 z" style="fill:#f73d2a;fill-opacity:1;stroke:#f73d2a;stroke-opacity:1" />
       <g id="gIngoing10PercentBars">
@@ -3185,7 +3170,7 @@
        <rect style="fill:#be14c9;fill-opacity:1;fill-rule:nonzero;stroke:none;" id="rectIngoing10Percent-30Years" width="20.002697" height="3.835346" x="780.76459" y="-688.68823" transform="matrix(0.93087695,0,0,1.0000318,54.050885,10.274787)" />
        <rect style="fill:#be14c9;fill-opacity:1;fill-rule:nonzero;stroke:none;" id="rectIngoing10Percent-40Years" width="20.002697" height="3.835346" x="780.76459" y="-688.68823" transform="matrix(0.9716132,0,0,1.0000318,22.215371,15.401278)" />
       </g>
-      <flowRoot xml:space="preserve" id="FlowIngoing10Percent" transform="translate(-728.30765,-1049.1909)" style="line-height:0.01%;"><flowRegion id="flowRegion10075" style=""><rect id="rect10077" width="18.243866" height="20.036871" x="1510.0372" y="360.18204" style="" /></flowRegion><flowPara id="flowPara10081" style="line-height:1.25;">6.1 DU</flowPara><flowPara id="flowPara10083" style="line-height:1.25;">8.5 DU</flowPara><flowPara id="flowPara10085" style="line-height:1.25;">9.4 DU</flowPara><flowPara id="flowPara10089" style="line-height:1.25;">9.8 DU</flowPara></flowRoot>      <flowRoot style="line-height:0.01%;" transform="translate(-728.30765,-1064.4933)" id="FlowIngoingIssued10Percent" xml:space="preserve"><flowRegion id="flowRegion3641" style=""><rect y="360.18204" x="1510.0372" height="14.70834" width="18.362278" id="rect3639" style="" /></flowRegion><flowPara style="line-height:1.25;" id="flowPara3654">Moneda emitida por un llegado</flowPara></flowRoot>     </g>
+      <flowRoot xml:space="preserve" id="FlowIngoing10Percent" transform="translate(-728.30765,-1049.1909)" style="line-height:0.01%;"><flowRegion id="flowRegion10075" style=""><rect id="rect10077" width="18.243866" height="20.036871" x="1510.0372" y="360.18204" style="" /></flowRegion><flowPara id="flowPara10081" style="line-height:1.25;">6.1 DU</flowPara><flowPara id="flowPara10083" style="line-height:1.25;">8.5 DU</flowPara><flowPara id="flowPara10085" style="line-height:1.25;">9.4 DU</flowPara><flowPara id="flowPara10089" style="line-height:1.25;">9.8 DU</flowPara></flowRoot>      <flowRoot style="line-height:0.01%" transform="translate(-729.23564,-1064.4933)" id="FlowIngoingIssued10Percent" xml:space="preserve"><flowRegion id="flowRegion3641"><rect y="360.18204" x="1510.0372" height="14.811451" width="19.599611" id="rect3639" /></flowRegion><flowPara style="line-height:1.25" id="flowPara3654">Moneda emitida por un llegado</flowPara></flowRoot>     </g>
      <g id="gOutgoing10Percent">
       <path id="rectOutgoing10Percent" d="m 801.28461,-703.55109 32.35265,0 c 1.54337,0 2.13493,0.74113 2.13493,1.96188 l 0,30.38943 c 0,1.48541 -0.8345,2.24806 -2.13493,2.24806 l -32.35265,0 z" style="fill:#008cac;fill-opacity:1;stroke:#008cac;stroke-opacity:1" />
       <g id="gOutgoing10PercentRect">
@@ -3194,31 +3179,31 @@
        <rect y="-688.68817" x="800.76459" height="3.835346" width="36.249184" id="rectOutgoing10Percent-30Years" style="fill:#d5d400;fill-opacity:1;fill-rule:nonzero;stroke:none;" transform="matrix(0.05915603,0,0,1,753.4601,10.183594)" />
        <rect y="-688.68817" x="800.76459" height="3.835346" width="36.249184" id="rectOutgoing10Percent-40Years" style="fill:#d5d400;fill-opacity:1;fill-rule:nonzero;stroke:none;" transform="matrix(0.02426307,0,0,1,781.38876,15.275597)" />
       </g>
-      <flowRoot transform="translate(-708.51458,-1049.3093)" id="FlowOutgoing10Percent" xml:space="preserve" style="line-height:0.01%;"><flowRegion id="flowRegion10107" style=""><rect y="360.18204" x="1510.0372" height="19.962065" width="34.120808" id="rect10109" style="" /></flowRegion><flowPara id="flowPara10113" style="line-height:1.25;">38.7 %</flowPara><flowPara id="flowPara10115" style="line-height:1.25;">15.1 %</flowPara><flowPara id="flowPara10117" style="line-height:1.25;">6.1 %</flowPara><flowPara id="flowPara10121" style="line-height:1.25;">2.5 %</flowPara></flowRoot>      <flowRoot style="line-height:0.01%;" xml:space="preserve" id="FlowOutgoingOccupied10Percent" transform="translate(-708.51458,-1064.4933)"><flowRegion id="flowRegion3708" style=""><rect id="rect3706" width="34.002396" height="14.870358" x="1510.0372" y="360.18204" style="" /></flowRegion><flowPara style="line-height:1.25;" id="flowPara3721">Espacio ocupado por la masa monetaria de los salientes</flowPara></flowRoot>     </g>
+      <flowRoot transform="translate(-708.51458,-1049.3093)" id="FlowOutgoing10Percent" xml:space="preserve" style="line-height:0.01%;"><flowRegion id="flowRegion10107" style=""><rect y="360.18204" x="1510.0372" height="19.962065" width="34.120808" id="rect10109" style="" /></flowRegion><flowPara id="flowPara10113" style="line-height:1.25;">38.7 %</flowPara><flowPara id="flowPara10115" style="line-height:1.25;">15.1 %</flowPara><flowPara id="flowPara10117" style="line-height:1.25;">6.1 %</flowPara><flowPara id="flowPara10121" style="line-height:1.25;">2.5 %</flowPara></flowRoot>      <flowRoot style="line-height:0.01%" xml:space="preserve" id="FlowOutgoingOccupied10Percent" transform="translate(-709.54568,-1064.4933)"><flowRegion id="flowRegion3708"><rect id="rect3706" width="36.064617" height="14.870358" x="1510.0372" y="360.18204" /></flowRegion><flowPara style="line-height:1.25" id="flowPara3721">Espacio ocupado por la masa monetaria de los salientes</flowPara></flowRoot>     </g>
     </g>
     <g id="g20PercentTable" class="Illustration" transform="translate(73.270422,30)">
      <g id="gRowHeader20Percent">
       <path id="rectRate20Percent" d="m 765.61933,-703.55109 14.75301,0 0.1516,14.34579 -16.64296,0 0,-12.75909 c 0,-1.13378 0.89565,-1.5867 1.73835,-1.5867 z" style="fill:#008c31;fill-opacity:1;fill-rule:nonzero;stroke:#008c32;stroke-opacity:1" />
       <path style="fill:#00b941;fill-opacity:1;fill-rule:nonzero;stroke:#00b941;stroke-opacity:1" d="m 763.85063,-698.56943 16.52171,0 0.1516,9.36413 -16.64296,0 c 0,-2.5451 -0.0303,-7.56717 -0.0303,-9.36413 z" id="path6932" sodipodi:nodetypes="ccccc" />
       <flowRoot transform="translate(-731.09082,-1059.3894)" id="FlowRate20Percent" xml:space="preserve" style="line-height:0.01%;"><flowRegion id="flowRegion10129" style=""><rect y="355.01703" x="1494.6537" height="15.525206" width="16.561789" id="rect10131" style="text-align:center;text-anchor:middle;" /></flowRegion><flowPara id="flowPara10133" style="line-height:1.25;">Tasa 20% Promedio 5 DU</flowPara></flowRoot>      <flowRoot transform="translate(-746.13342,-1049.4345)" id="FlowYear20Percent" xml:space="preserve" style="line-height:0.01%;"><flowRegion id="flowRegion10137" style=""><rect y="360.18204" x="1510.0372" height="20.425673" width="15.904077" id="rect10139" style="" /></flowRegion><flowPara id="flowPara10141" style="line-height:1.25;">10 años</flowPara><flowPara id="flowPara10143" style="line-height:1.25;">20 años</flowPara><flowPara id="flowPara10145" style="line-height:1.25;">30 años</flowPara><flowPara id="flowPara10149" style="line-height:1.25;">40 años</flowPara></flowRoot>     </g>
-     <g id="gIngoing20Percent">
-      <path id="rectIngoing20Percent" d="m 781.2821,-703.55109 19.39613,0 0.30319,34.59937 -19.69932,0 z" style="fill:#f73d2a;fill-opacity:1;stroke:#f73d2a;stroke-opacity:1" />
+     <g id="gIngoing20Percent" transform="translate(-0.87492702)">
+      <path id="rectIngoing20Percent" d="m 781.2821,-703.55109 h 19.39613 l 0.30319,34.59937 H 781.2821 Z" style="fill:#f73d2a;fill-opacity:1;stroke:#f73d2a;stroke-opacity:1" inkscape:connector-curvature="0" />
       <g id="gIngoing20PercentBars">
-       <rect style="fill:#be14c9;fill-opacity:1;fill-rule:nonzero;stroke:none;" id="rectIngoing20Percent-10Years" width="20.002697" height="3.835346" x="780.76459" y="-688.68823" transform="matrix(0.83052358,0,0,1.0000318,132.3293,0.02185834)" />
-       <rect style="fill:#be14c9;fill-opacity:1;fill-rule:nonzero;stroke:none;" id="rectIngoing20Percent-20Years" width="20.002697" height="3.835346" x="780.76459" y="-688.68823" transform="matrix(0.96866293,0,0,1.0000318,24.469357,5.1483232)" />
-       <rect style="fill:#be14c9;fill-opacity:1;fill-rule:nonzero;stroke:none;" id="rectIngoing20Percent-30Years" width="20.002697" height="3.835346" x="780.76459" y="-688.68823" transform="matrix(0.98817173,0,0,1.0000318,9.2380735,10.274787)" />
-       <rect style="fill:#be14c9;fill-opacity:1;fill-rule:nonzero;stroke:none;" id="rectIngoing20Percent-40Years" width="20.002697" height="3.835346" x="780.76459" y="-688.68823" transform="matrix(0.99258402,0,0,1.0000318,5.7900225,15.401278)" />
+       <rect style="fill:#be14c9;fill-opacity:1;fill-rule:nonzero;stroke:none" id="rectIngoing20Percent-10Years" width="20.002697" height="3.835346" x="780.76459" y="-688.68823" transform="matrix(0.83052358,0,0,1.0000318,132.3293,0.02185834)" />
+       <rect style="fill:#be14c9;fill-opacity:1;fill-rule:nonzero;stroke:none" id="rectIngoing20Percent-20Years" width="20.002697" height="3.835346" x="780.76459" y="-688.68823" transform="matrix(0.96866293,0,0,1.0000318,24.469357,5.1483232)" />
+       <rect style="fill:#be14c9;fill-opacity:1;fill-rule:nonzero;stroke:none" id="rectIngoing20Percent-30Years" width="20.002697" height="3.835346" x="780.76459" y="-688.68823" transform="matrix(0.98817173,0,0,1.0000318,9.2380735,10.274787)" />
+       <rect style="fill:#be14c9;fill-opacity:1;fill-rule:nonzero;stroke:none" id="rectIngoing20Percent-40Years" width="20.002697" height="3.835346" x="780.76459" y="-688.68823" transform="matrix(0.99258402,0,0,1.0000318,5.7900225,15.401278)" />
       </g>
-      <flowRoot xml:space="preserve" id="FlowIngoing20Percent" transform="translate(-728.30765,-1049.3093)" style="line-height:0.01%;"><flowRegion id="flowRegion10167" style=""><rect id="rect10169" width="18.243866" height="20.155283" x="1510.0372" y="360.18204" style="" /></flowRegion><flowPara id="flowPara10173" style="line-height:1.25;">4.19 DU</flowPara><flowPara id="flowPara10175" style="line-height:1.25;">4.87 DU</flowPara><flowPara id="flowPara10177" style="line-height:1.25;">4.98 DU</flowPara><flowPara id="flowPara10181" style="line-height:1.25;">4.997 DU</flowPara></flowRoot>      <flowRoot style="line-height:0.01%;" transform="translate(-728.30765,-1064.4933)" id="FlowIngoingIssued20Percent" xml:space="preserve"><flowRegion id="flowRegion3778" style=""><rect y="360.18204" x="1510.0372" height="15.181987" width="18.717514" id="rect3776" style="" /></flowRegion><flowPara style="line-height:1.25;" id="flowPara3788">Moneda emitida por un llegado</flowPara></flowRoot>     </g>
-     <g id="gOutgoing20Percent">
-      <path id="rectOutgoing20Percent" d="m 801.28461,-703.55109 31.81319,0 c 1.21742,0 1.91642,0.66447 1.91642,1.96188 l 0,30.2966 c 0,1.01808 -0.98335,2.34089 -2.11491,2.34089 l -31.6147,0 z" style="fill:#008cac;fill-opacity:1;stroke:#008cac;stroke-opacity:1" />
+      <flowRoot xml:space="preserve" id="FlowIngoing20Percent" transform="translate(-728.30765,-1049.3093)" style="line-height:0.01%"><flowRegion id="flowRegion10167"><rect id="rect10169" width="18.243866" height="20.155283" x="1510.0372" y="360.18204" /></flowRegion><flowPara id="flowPara10173" style="line-height:1.25">4.19 DU</flowPara><flowPara id="flowPara10175" style="line-height:1.25">4.87 DU</flowPara><flowPara id="flowPara10177" style="line-height:1.25">4.98 DU</flowPara><flowPara id="flowPara10181" style="line-height:1.25">4.997 DU</flowPara></flowRoot>      <flowRoot style="line-height:0.01%" transform="translate(-729.13253,-1064.4933)" id="FlowIngoingIssued20Percent" xml:space="preserve"><flowRegion id="flowRegion3778"><rect y="360.18204" x="1510.0372" height="15.181987" width="19.542402" id="rect3776" /></flowRegion><flowPara style="line-height:1.25" id="flowPara3788">Moneda emitida por un llegado</flowPara></flowRoot>     </g>
+     <g id="gOutgoing20Percent" transform="translate(-0.58328468)">
+      <path id="rectOutgoing20Percent" d="m 801.28879,-703.54691 h 32.35545 c 1.23817,0 1.94908,0.66431 1.94908,1.96141 v 30.28927 c 0,1.01784 -1.00011,2.34033 -2.15096,2.34033 h -32.15357 z" style="fill:#008cac;fill-opacity:1;stroke:#008cac;stroke-width:1.00836456;stroke-opacity:1" inkscape:connector-curvature="0" />
       <g id="gOutgoing20PercentRect">
-       <rect y="-688.68817" x="800.76459" height="3.835346" width="36.249184" id="rectOutgoing20Percent-10Years" style="fill:#d5d400;fill-opacity:1;fill-rule:nonzero;stroke:none;" transform="matrix(0.15631247,0,0,1,675.67119,0)" />
-       <rect y="-688.68817" x="800.76459" height="3.835346" width="36.249184" id="rectOutgoing20Percent-20Years" style="fill:#d5d400;fill-opacity:1;fill-rule:nonzero;stroke:none;" transform="matrix(0.02759902,0,0,1,778.71804,5.0917969)" />
-       <rect y="-688.68817" x="800.76459" height="3.835346" width="36.249184" id="rectOutgoing20Percent-30Years" style="fill:#d5d400;fill-opacity:1;fill-rule:nonzero;stroke:none;" transform="matrix(0.00694827,0,0,1,795.26522,10.183594)" />
-       <rect y="-688.68817" x="800.76459" height="3.835346" width="36.249184" id="rectOutgoing20Percent-40Years" style="fill:#d5d400;fill-opacity:1;fill-rule:nonzero;stroke:none;" transform="matrix(0.00352013,0,0,1,798.0281,15.275597)" />
+       <rect y="-688.68817" x="800.76459" height="3.835346" width="36.249184" id="rectOutgoing20Percent-10Years" style="fill:#d5d400;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.15631247,0,0,1,675.67119,0)" />
+       <rect y="-688.68817" x="800.76459" height="3.835346" width="36.249184" id="rectOutgoing20Percent-20Years" style="fill:#d5d400;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.02759902,0,0,1,778.71804,5.0917969)" />
+       <rect y="-688.68817" x="800.76459" height="3.835346" width="36.249184" id="rectOutgoing20Percent-30Years" style="fill:#d5d400;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.00694827,0,0,1,795.26522,10.183594)" />
+       <rect y="-688.68817" x="800.76459" height="3.835346" width="36.249184" id="rectOutgoing20Percent-40Years" style="fill:#d5d400;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(0.00352013,0,0,1,798.0281,15.275597)" />
       </g>
-      <flowRoot transform="translate(-704.51458,-1049.1909)" id="FlowOutgoing20Percent" xml:space="preserve" style="line-height:0.01%;"><flowRegion id="flowRegion10199" style=""><rect y="360.18204" x="1510.0372" height="19.962065" width="33.410336" id="rect10201" style="" /></flowRegion><flowPara id="flowPara10205" style="line-height:1.25;">16.4 %</flowPara><flowPara id="flowPara10207" style="line-height:1.25;">2.9 %</flowPara><flowPara id="flowPara10209" style="line-height:1.25;">0.73 %</flowPara><flowPara id="flowPara10213" style="line-height:1.25;">0.37 %</flowPara></flowRoot>      <flowRoot style="line-height:0.01%;" xml:space="preserve" id="FlowOutgoingOccupied20Percent" transform="translate(-708.51458,-1064.4933)"><flowRegion id="flowRegion3843" style=""><rect id="rect3841" width="33.528748" height="14.633533" x="1510.0372" y="360.18204" style="" /></flowRegion><flowPara style="line-height:1.25;" id="flowPara3853">Espacio ocupado por la masa monetaria de los salientes</flowPara></flowRoot>     </g>
+      <flowRoot transform="translate(-704.51458,-1049.1909)" id="FlowOutgoing20Percent" xml:space="preserve" style="line-height:0.01%"><flowRegion id="flowRegion10199"><rect y="360.18204" x="1510.0372" height="19.962065" width="33.410336" id="rect10201" /></flowRegion><flowPara id="flowPara10205" style="line-height:1.25">16.4 %</flowPara><flowPara id="flowPara10207" style="line-height:1.25">2.9 %</flowPara><flowPara id="flowPara10209" style="line-height:1.25">0.73 %</flowPara><flowPara id="flowPara10213" style="line-height:1.25">0.37 %</flowPara></flowRoot>      <flowRoot style="line-height:0.01%" xml:space="preserve" id="FlowOutgoingOccupied20Percent" transform="translate(-709.54568,-1064.4933)"><flowRegion id="flowRegion3843"><rect id="rect3841" width="35.900303" height="14.530421" x="1510.0372" y="360.18204" /></flowRegion><flowPara style="line-height:1.25" id="flowPara3853">Espacio ocupado por la masa monetaria de los salientes</flowPara></flowRoot>     </g>
     </g>
    </g>
    <g id="gCircle11" transform="translate(-2019.6973,-541.01828)">
@@ -3293,13 +3278,13 @@
    <g id="gMinute12-2" transform="rotate(30,1564.973,-650.40716)">
     <rect style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rViewMinute12-2" width="144.97948" height="144.97948" x="1725.0046" y="-1744.7283" />
     <g transform="translate(0,33.728221)" id="gBubblesMinute12-2">
-     <g id="gElsie12-2-1" class="ElsieText" transform="translate(0.4474684,1.0904665)" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:'Komika Text';letter-spacing:0px;word-spacing:0px;fill:#475114;fill-opacity:1;stroke:none">
+     <g id="gElsie12-2-1" class="ElsieText" transform="translate(0.4474684,1.0904665)">
       <use transform="translate(-857.59842,69.380216)" x="0" y="0" xlink:href="#gOneLineElsie" id="use6527" width="1" height="1" />
       <flowRoot transform="translate(-1241.1198,-2459.0502)" id="FlowElsie12-2-1" xml:space="preserve" style="line-height:0.01%"><flowRegion id="flowRegion6531"><rect y="716.62476" x="2974.8691" height="6.9514728" width="112.17771" id="rect6533" /></flowRegion><flowPara id="flowPara6535" style="line-height:1.25">¿Conoces algún libro que hable de todo esto?</flowPara></flowRoot>     </g>
-     <g id="gFee12-2-1" class="FeeText" transform="translate(-5.6754453,-3.3146698)" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:'Komika Text';letter-spacing:0px;word-spacing:0px;fill:#c90c2c;fill-opacity:1;stroke:none">
+     <g id="gFee12-2-1" class="FeeText" transform="translate(-5.6754453,-3.3146698)">
       <use height="1" width="1" id="use5861-88" xlink:href="#gTwoLineFee" y="0" x="0" transform="translate(-854.1448,20.959715)" />
       <flowRoot xml:space="preserve" id="FlowFee12-2-1" transform="translate(-1242.5037,-2428.5604)" style="line-height:0.01%"><flowRegion id="flowRegion4871"><rect id="rect4873" width="112.50877" height="14.444393" x="2996.0327" y="710.23578" /></flowRegion><flowPara id="flowPara4875" style="line-height:1.25">Conozco uno, titulado « La Teoría Relativa de la Moneda » de Stéphane Laborde, publicado bajo una licencia libre.</flowPara></flowRoot>     </g>
-     <g transform="translate(6.447468,42.000068)" class="ElsieText" id="gElsie12-2-2" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4px;line-height:125%;font-family:'Komika Text';letter-spacing:0px;word-spacing:0px;fill:#475114;fill-opacity:1;stroke:none">
+     <g transform="translate(6.447468,42.000068)" class="ElsieText" id="gElsie12-2-2">
       <use height="1" width="1" id="use6143" xlink:href="#gThreeLineElsie" y="0" x="0" transform="translate(-1025.38,66.349106)" />
       <flowRoot xml:space="preserve" id="FlowElsie12-2-2" transform="translate(-1241.1198,-2456.4498)" style="line-height:0.01%"><flowRegion id="flowRegion4861"><rect id="rect4863" width="112.17771" height="23.930098" x="2974.8691" y="716.62476" /></flowRegion><flowPara id="flowPara10091" style="line-height:1.25">Conozco las licencias libres, es cuando se puede descargar, reutilizar, reimprimir, modificar, distribuir, copiar... textos o dibujos ! Pero, ¿qué significa « Teoría Relativa de la Moneda » ?</flowPara></flowRoot>     </g>
     </g>

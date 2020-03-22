@@ -169,7 +169,7 @@
 
     "FlowElsie8_1_1": "10 pour 100, c’est pratique, ça correspond à une division par 10, on a juste à décaler la virgule ! Pour 100 euros, on en crée 10 ; une semaine plus tard, pour 110, on en crée 11 ; deux semaines plus tard, pour 121, on en crée 12,1.",
     "FlowFee8_1_1": "Regarde cette bande élastique : si on l’allonge de 10 % chaque semaine, sa longueur aura presque doublé la septième semaine. On dit de ce genre de croissance rapide qu’elle est exponentielle.",
-    "Week": "Semaine 1",
+    "WeekOne": "Semaine 1",
     "FlowElsie8_2_1": "J’imagine, à l’école, si on changeait toutes les semaines le barème pour les notes… on aurait beau le savoir, ce serait difficile à suivre !",
     "FlowFee8_2_1": "Il n’y a pas de raison de créer de la monnaie aussi souvent. Si on le fait seulement chaque début d’année, on respecte encore largement la symétrie temporelle.",
     "FlowElsie8_3_1": "La première année, 10 % de nouveaux euros sont créés, c’est-à-dire 1 billion d’euros. Chacun en reçoit une part égale… La division ressemble à celle de tout à l’heure ! Ça fait un peu plus de 3 mille euros d’argent de poche par personne.",

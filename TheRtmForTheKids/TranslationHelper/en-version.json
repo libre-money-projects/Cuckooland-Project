@@ -169,7 +169,7 @@
 
     "FlowElsie8_1_1": "10 for 100, it’s convenient, it corresponds to a division by 10, we just have to shift the decimal point! For 100 euros, 10 are created; one week later, for 110 euros, 11 are created; two weeks later, for 121 euros, 12.1 are created.",
     "FlowFee8_1_1": "Look at this elastic band: if it is lengthened of 10 % every week, its length will have almost doubled the seventh week. This kind of rapid growth is said to be exponential.",
-    "Week": "Week 1",
+    "WeekOne": "Week 1",
     "FlowElsie8_2_1": "Imagine at school, if the scoring system changed every week, even though you’re aware of it, that would be difficult to follow!",
     "FlowFee8_2_1": "There’s no reason to create money as often. If we do it only every beginning of year, we fully comply with the temporal symmetry.",
     "FlowElsie8_3_1": "The first year, 10 % of new euros are created, that is 1 trillion euros. Everyone receives an equal share … The division looks like the one done just now! That makes a little over 3 thousand euros as pocket money per person.",
