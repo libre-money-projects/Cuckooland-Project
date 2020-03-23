@@ -1236,7 +1236,7 @@
        <text id="text7030" y="-71.338394" x="3653.5364" xml:space="preserve"><tspan y="-71.338394" x="3653.5364" id="tspan7032">المعدل:</tspan></text>
        <text xml:space="preserve" x="3631.5361" y="-70.954361" id="text7034"><tspan id="tspan7036" x="3631.5361" y="-70.954361">9/20</tspan></text>
        <text xml:space="preserve" x="3653.5364" y="-59.862183" id="text7046"><tspan id="tspan7048" x="3653.5364" y="-59.862183">المعدل:</tspan></text>
-       <text xml:space="preserve" x="3653.5364" y="-63.862183" id="text10306"><tspan id="tspan10308" x="3653.5364" y="-63.862183">بينما بدون عقوبة...</tspan></text>
+       <text xml:space="preserve" x="3653.5364" y="-63.862183" id="text10306"><tspan id="tspan10308" x="3653.5364" y="-63.862183">بينما بدون عقوبة ...</tspan></text>
        <text id="text7050" y="-59.478149" x="3631.5361" xml:space="preserve"><tspan y="-59.478149" x="3631.5361" id="tspan7052">11.25/20</tspan></text>
       </g>
      </g>
@@ -1545,8 +1545,7 @@
       <flowRoot transform="translate(399.18005,-719.08794)" id="FlowFee5-3-1" xml:space="preserve"><flowRegion id="flowRegion3583"><rect y="710.23578" x="2996.0327" height="12.767761" width="111.0757" id="rect3585" /></flowRegion><flowPara id="flowPara3587">أولاً، صك العملة لا يتم بوتيرة ثابتة بمرور الوقت. هناك تغيرات مفاجئة.</flowPara></flowRoot>     </g>
      <g transform="translate(4.0559924,0)" class="ElsieText" id="gElsie5-3-1">
       <use height="1" width="1" id="use7058-3" xlink:href="#gTwoLineElsie" y="0" x="0" transform="translate(779.67036,1782.0611)" />
-      <flowRoot transform="translate(400.71107,-715.79146)" id="FlowElsie5-3-1" xml:space="preserve"><flowRegion id="flowRegion3593"><rect y="730.20135" x="2973.272" height="13.38243" width="110.45591" id="rect3595" /></flowRegion><flowPara id="flowPara3597">مثلا كما لو أنه في عام 2006، كان سلم التنقيط 
-على 13، ثم فجأة في عام 2007، كان على 18 ...</flowPara></flowRoot>     </g>
+      <flowRoot transform="translate(400.71107,-715.79146)" id="FlowElsie5-3-1" xml:space="preserve"><flowRegion id="flowRegion3593"><rect y="730.20135" x="2973.272" height="13.38243" width="110.45591" id="rect3595" /></flowRegion><flowPara id="flowPara3597">مثلا كما لو أنه في عام 2006، كان سلم التنقيط على 13، ثم فجأة في عام 2007، كان على 18 ...</flowPara></flowRoot>     </g>
     </g>
    </g>
    <g id="gMinute5-4" transform="matrix(0.8660254,-0.5,0.5,0.8660254,-126.09894,1892.9663)">
@@ -2102,7 +2101,7 @@
       <flowRoot transform="translate(-573.13214,75.538224)" id="FlowElsie7-6-1" xml:space="preserve"><flowRegion id="flowRegion6847"><rect y="710.23578" x="2996.0327" height="16.030907" width="110.68661" id="rect6849" /></flowRegion><flowPara id="flowPara6853">نعم! وهذا ما من العدل فعله!</flowPara></flowRoot>     </g>
      <g transform="translate(-4,-6.611641)" class="FeeText" id="gFee7-6-1">
       <use height="1" width="1" id="use5861-09" xlink:href="#gTwoLineFee" y="0" x="0" transform="translate(-170.70613,2547.5531)" />
-      <flowRoot xml:space="preserve" id="FlowFee7-6-1" transform="translate(-558.10427,98.17548)"><flowRegion id="flowRegion3800"><rect id="rect3802" width="111.17635" height="16.496468" x="2996.0327" y="710.23578" /></flowRegion><flowPara id="flowPara5035">هذا الدخل الذي يحق لكل شخص، له اسم، ويطلق عليه DU. كلمة DU هي في الواقع اختصار لاسم أكثر تعقيدًا: الأرباح العالمية.</flowPara></flowRoot>     </g>
+      <flowRoot xml:space="preserve" id="FlowFee7-6-1" transform="translate(-558.10427,98.17548)"><flowRegion id="flowRegion3800"><rect id="rect3802" width="111.17635" height="16.496468" x="2996.0327" y="710.23578" /></flowRegion><flowPara id="flowPara5035">هذا الدخل الذي يحق لكل شخص، له اسم، ويطلق عليه DU. كلمة DU. هي في الواقع اختصار لاسم أكثر تعقيدًا: الأرباح العالمية.</flowPara></flowRoot>     </g>
     </g>
    </g>
    <g id="gCircle7" transform="translate(-1082.3168,1082.337)">
@@ -2524,7 +2523,7 @@
     <g id="gBubblesMinute9-1" transform="translate(0,23.053576)">
      <g transform="translate(6.4249075,-5.9998833)" class="ElsieText" id="gElsie9-1-1">
       <use transform="translate(-1466.1424,2246.6383)" x="0" y="0" xlink:href="#gOneLineElsie" id="use5559" width="1" height="1" />
-      <flowRoot xml:space="preserve" id="FlowElsie9-1-1" transform="translate(-1847.8109,-294.8668)"><flowRegion id="flowRegion5563"><rect id="rect5565" width="111.44651" height="12.243407" x="2973.272" y="730.20135" /></flowRegion><flowPara id="flowPara5567">من خلال العد ب DU، نكون قد استخدمنا مرجع جديد، هذا كل شيء؟</flowPara></flowRoot>     </g>
+      <flowRoot xml:space="preserve" id="FlowElsie9-1-1" transform="translate(-1847.8109,-294.8668)"><flowRegion id="flowRegion5563"><rect id="rect5565" width="111.44651" height="12.243407" x="2973.272" y="730.20135" /></flowRegion><flowPara id="flowPara5567">من خلال العد ب DU،نكون قد استخدمنا مرجع جديد، هذا كل شيء؟</flowPara></flowRoot>     </g>
      <g transform="translate(-4.2168956,-2.3677027)" class="FeeText" id="gFee9-1-1">
       <use height="1" width="1" id="use5861-1" xlink:href="#gTwoLineFee" y="0" x="0" transform="translate(-1458.2225,2191.8714)" />
       <flowRoot xml:space="preserve" id="FlowFee9-1-1" transform="translate(-1846.6086,-257.12872)"><flowRegion id="flowRegion3946"><rect id="rect3948" width="110.46322" height="13.008211" x="2996.0327" y="710.23578" /></flowRegion><flowPara id="flowPara3950">نعم. يمكننا أيضًا استخدام كتابك كمرجع.بعدد الكتب؟ كم ستكون قيمة DU؟</flowPara></flowRoot>     </g>
@@ -2656,9 +2655,9 @@
       <path d="m 538.03889,98.174806 6.95612,0" style="fill:none;stroke:#aaaaaa;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" id="pathSister3-Year4" />
       <path id="pathSister2-Year4" style="fill:none;stroke:#aaaaaa;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" d="m 544.99499,72.984525 6.95613,8.6e-5" />
       <path id="pathSister1-Year4" style="fill:none;stroke:#aaaaaa;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" d="m 552.26338,47.794431 6.64386,10e-5" />
-      <text id="textSister3-Year4" y="99.351685" x="545.25751" xml:space="preserve"><tspan y="99.351685" x="535.94696" id="tspan6866">2 سنتان</tspan></text>
-      <text xml:space="preserve" x="552.16449" y="74.186836" id="textSister2-Year4"><tspan id="tspan6870" x="542.85394" y="74.186836">4 سنتان</tspan></text>
-      <text id="textSister1-Year4" y="48.955597" x="559.55872" xml:space="preserve"><tspan y="48.955597" x="550.24817" id="tspan6874">6 سنتان</tspan></text>
+      <text id="textSister3-Year4" y="99.351685" x="545.25751" xml:space="preserve"><tspan y="99.351685" x="535.94696" id="tspan6866">2 سنوات</tspan></text>
+      <text xml:space="preserve" x="552.16449" y="74.186836" id="textSister2-Year4"><tspan id="tspan6870" x="542.85394" y="74.186836">4 سنوات</tspan></text>
+      <text id="textSister1-Year4" y="48.955597" x="559.55872" xml:space="preserve"><tspan y="48.955597" x="550.24817" id="tspan6874">6 سنوات</tspan></text>
       <text id="textSister3-Y" y="-296.14847" x="487.37952" xml:space="preserve" transform="rotate(45)"><tspan y="-296.14847" x="487.37952" id="tspan6969">الأخت 3</tspan></text>
       <text id="textSister2-Y" y="-301.25296" x="492.42172" xml:space="preserve" transform="rotate(45)"><tspan y="-301.25296" x="492.42172" id="tspan6965">الأخت 2</tspan></text>
       <text xml:space="preserve" x="496.35779" y="-306.31631" id="textSister1-Y" transform="rotate(45)"><tspan id="tspan6961" x="496.35779" y="-306.31631">الأخت 1</tspan></text>
@@ -2806,7 +2805,7 @@
     <g id="gBubblesMinute10-1" transform="translate(0,2)">
      <g id="gFee10-1-1" class="FeeText" transform="translate(-4.180655,1.9996981)">
       <use height="1" width="1" id="use5558-09" xlink:href="#gThreeLineFee" y="0" x="0" transform="translate(-1984.7288,1001.3492)" />
-      <flowRoot xml:space="preserve" id="FlowFee10-1-1" transform="translate(-2204.1629,-1480.4744)"><flowRegion id="flowRegion4201"><rect id="rect4203" width="110.69465" height="17.668621" x="2996.0327" y="710.23578" /></flowRegion><flowPara id="flowPara4205">دعونا نرى ثلاث حالات. أولاً: الشخص الذي يبلغ متوسطه 30 ألف يورو، أي 10 دولارات، يبقى في هذا المتوسط. أي 33 ألف يورو بعد إصدار العملة الجديدة.</flowPara></flowRoot>     </g>
+      <flowRoot xml:space="preserve" id="FlowFee10-1-1" transform="translate(-2204.1629,-1480.4744)"><flowRegion id="flowRegion4201"><rect id="rect4203" width="110.69465" height="17.668621" x="2996.0327" y="710.23578" /></flowRegion><flowPara id="flowPara4205">دعونا نرى ثلاث حالات. أولاً: الشخص الذي يبلغ متوسطه 30 ألف يورو، أي 10 دولارات، يبقى في هذا المتوسط، أي 33 ألف يورو بعد إصدار العملة الجديدة.</flowPara></flowRoot>     </g>
      <g transform="translate(9.7729596,1.0602222)" class="ElsieText" id="gElsie10-1-1">
       <use height="1" width="1" id="use7058-34" xlink:href="#gTwoLineElsie" y="0" x="0" transform="translate(-1824.2793,1024.4668)" />
       <flowRoot transform="translate(-2204.5547,-1458.42)" id="FlowElsie10-1-1" xml:space="preserve"><flowRegion id="flowRegion4191"><rect y="716.62476" x="2974.8691" height="16.37114" width="110.65311" id="rect4193" /></flowRegion><flowPara id="flowPara8096">رأيناها مع الشريط المطاطي: طولها يكبر بحيث يكون متوسط 10 DU في السنة 2 يتوافق مع. 10 + 1 DU في السنة 1.</flowPara></flowRoot>     </g>
@@ -2819,7 +2818,7 @@
       <path style="fill:none;stroke:#999999;stroke-width:4.17120361;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 3177.9004,-1755.6488 H 2925.2078" id="line33DuStack" />
       <use x="0" y="0" xlink:href="#gBand10DUsPlus1-Year1" id="useBand10DUsPlus1-Year2" width="4212.9922" height="2979.9211" transform="matrix(1,0,0,1.0999433,98.000002,134.40282)" />
       <text transform="rotate(45)" id="text33DuStack-YLabel" y="-3153.6792" x="1363.2921" class="DuStackWeekText" xml:space="preserve"><tspan y="-3153.6792" x="1363.2921" id="tspan5621">عام 2</tspan></text>
-      <text id="text33DuStack" y="-1760.4607" x="3472.7529" class="weekDuStackAlphaTextY" xml:space="preserve"><tspan y="-1760.4607" x="3082.9727" id="tspan5502">متوسط السنة 2: 33 آلاف يورو</tspan></text>
+      <text id="text33DuStack" y="-1760.4607" x="3472.7529" class="weekDuStackAlphaTextY" xml:space="preserve"><tspan y="-1760.4607" x="3082.9727" id="tspan5502">متوسط ​​السنة 2: 33 آلاف يورو</tspan></text>
       <g transform="translate(-99.770297)" id="g10DUsPlus1-Label1DU-Year2">
        <path style="fill:none;stroke:#999999;stroke-width:4.16259146;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 3313.4154,-1384.7631 c 0,17.6824 -35.1388,20.301 -35.1388,20.301" id="path8744" />
        <text xml:space="preserve" class="SelectedDuLabel" x="3404.8042" y="-1439.4203" id="text8746"><tspan id="tspan8748" x="3404.8042" y="-1439.4203">1 DU</tspan><tspan x="3404.8042" y="-1401.9203" id="tspan8750">3.3 آلاف يورو</tspan></text>
@@ -2828,7 +2827,7 @@
      </g>
      <g id="gBand1-10DUsPlus1">
       <path id="line30DuStack" d="M 3084.2766,-1718.3177 H 2827.1435" style="fill:none;stroke:#999999;stroke-width:4.17120361;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <text xml:space="preserve" class="weekDuStackAlphaTextY" x="3374.3269" y="-1724.4607" id="text30DuStack"><tspan id="tspan5496" x="2992.8669" y="-1724.4607">متوسط السنة 1: 30 آلاف يورو</tspan></text>
+      <text xml:space="preserve" class="weekDuStackAlphaTextY" x="3374.3269" y="-1724.4607" id="text30DuStack"><tspan id="tspan5496" x="2992.8669" y="-1724.4607">متوسط ​​السنة 1: 30 آلاف يورو</tspan></text>
       <g transform="translate(-207.2284)" id="gBand10DUsPlus1-Year1">
        <g id="g5506">
         <rect ry="0" rx="0" transform="translate(17.577664,-1818.7974)" y="436.65292" x="3229.3464" height="37.352535" width="37.352535" id="rect5508" style="fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:#502d16;stroke-width:4.17120361;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
@@ -2931,8 +2930,7 @@
     <g id="gBubblesMinute10-3">
      <g id="gElsie10-3-1" class="ElsieText" transform="translate(5.2643923,0.15159487)">
       <use height="1" width="1" id="use5099-9" xlink:href="#gThreeLineElsie" y="0" x="0" transform="translate(-1990.0061,1037.0151)" />
-      <flowRoot xml:space="preserve" id="FlowElsie10-3-1" transform="translate(-2206.6431,-1485.429)"><flowRegion id="flowRegion4287"><rect id="rect4289" width="112.76633" height="18.540314" x="2974.8691" y="716.62476" /></flowRegion><flowPara id="flowPara8959">مع الشريط المرن، نرى أن الشخص الذي ليس لديه أي اورو 
-في البداية لديه 3 آلاف في السنة 2، لكنه لا يزال يفتقد 30 ألف يورو للحصول على المتوسط. إلا أن عدد اليوروات يتزايد و ...</flowPara></flowRoot>     </g>
+      <flowRoot xml:space="preserve" id="FlowElsie10-3-1" transform="translate(-2206.6431,-1485.429)"><flowRegion id="flowRegion4287"><rect id="rect4289" width="112.76633" height="18.540314" x="2974.8691" y="716.62476" /></flowRegion><flowPara id="flowPara8959">مع الشريط المرن، نرى أن الشخص الذي ليس لديه أي اورو في البداية لديه 3 آلاف في السنة 2، لكنه لا يزال يفتقد 30 ألف يورو للحصول على المتوسط. إلا أن عدد اليوروات يتزايد و ...</flowPara></flowRoot>     </g>
      <g transform="translate(-4.452811,4.2473493)" class="FeeText" id="gFee10-3-1">
       <use height="1" width="1" id="use5558-72" xlink:href="#gThreeLineFee" y="0" x="0" transform="translate(-1984.7555,1024.4242)" />
       <flowRoot xml:space="preserve" id="FlowFee10-3-1" transform="translate(-2204.0416,-1457.0954)"><flowRegion id="flowRegion4297"><rect id="rect4299" width="110.66115" height="17.365122" x="2996.0327" y="710.23578" /></flowRegion><flowPara id="flowPara4856">... وستبدو هذه الأموال البالغة 30 ألف يورو صغيرة جدًا! أخيرًا، إذا عددنا ب DU، فسيحصل هذا الفرد على 0.91 DU بعد السنة الأولى ؛ 8.5 عند 20 ؛ و 9.8 عند الأربعين ...</flowPara></flowRoot>     </g>
@@ -2968,7 +2966,7 @@
     <g transform="translate(0,1.6030372)" id="gBubblesMinute10-4">
      <g transform="translate(-3.3016006,0.6811768)" class="FeeText" id="gFee10-4-1">
       <use transform="translate(-1813.6428,1022.4088)" x="0" y="0" xlink:href="#gOneLineFee" id="use7828" width="1" height="1" />
-      <flowRoot transform="translate(-2205.5768,-1477.892)" id="FlowFee10-4-1" xml:space="preserve"><flowRegion id="flowRegion7832"><rect y="710.23578" x="2996.0327" height="9.2391014" width="110.24653" id="rect7834" /></flowRegion><flowPara id="flowPara7836">ثالثا، الشخص الذي لديه أكثر من المتوسط الاحتياطي ...</flowPara></flowRoot>     </g>
+      <flowRoot transform="translate(-2205.5768,-1477.892)" id="FlowFee10-4-1" xml:space="preserve"><flowRegion id="flowRegion7832"><rect y="710.23578" x="2996.0327" height="9.2391014" width="110.24653" id="rect7834" /></flowRegion><flowPara id="flowPara7836">ثالثا، الشخص الذي لديه أكثر من المتوسط ​​الاحتياطي ...</flowPara></flowRoot>     </g>
      <g transform="translate(5.3533255,4.084646)" class="ElsieText" id="gElsie10-4-1">
       <use height="1" width="1" id="use5099-4" xlink:href="#gTwoLineElsie" y="0" x="0" transform="translate(-1825.914,1015.5418)" />
       <flowRoot xml:space="preserve" id="FlowElsie10-4-1" transform="translate(-2206.2854,-1467.5031)"><flowRegion id="flowRegion4319"><rect id="rect4321" width="111.54201" height="12.861611" x="2974.8691" y="716.62476" /></flowRegion><flowPara id="flowPara4323">إنه نفس الشيء: يبقى أعلاه ولكنه يقترب منه. هذه المرة، كما هو الحال مع الأخت الأولى.</flowPara></flowRoot>     </g>
@@ -6398,7 +6396,7 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
  <ns1:frame id="زهرة2-2" ns1:transition-path-hide="true" ns1:transition-profile="linear" ns1:transition-zoom-percent="0.0" ns1:transition-duration-ms="2000.0" ns1:timeout-ms="19000.0" ns1:timeout-enable="false" ns1:show-in-frame-list="true" ns1:clip="true" ns1:hide="false" ns1:sequence="12" ns1:title="- 2 - الدخل والاحتياط" ns1:refid="rViewMinute2-2" />
  <ns1:frame id="زهرة2-3" ns1:transition-path-hide="true" ns1:transition-profile="linear" ns1:transition-zoom-percent="0.0" ns1:transition-duration-ms="2000.0" ns1:timeout-ms="13000.0" ns1:timeout-enable="false" ns1:show-in-frame-list="true" ns1:clip="true" ns1:hide="false" ns1:sequence="13" ns1:title="- 3 - نقطة من 10 هي نسبية" ns1:refid="rViewMinute2-3" />
  <ns1:frame id="زهرة2-4" ns1:transition-path-hide="true" ns1:transition-profile="linear" ns1:transition-zoom-percent="0.0" ns1:transition-duration-ms="2000.0" ns1:timeout-ms="15000.0" ns1:timeout-enable="false" ns1:show-in-frame-list="true" ns1:clip="true" ns1:hide="false" ns1:sequence="14" ns1:title="- 4 - بحاجة الى مقياس" ns1:refid="rViewMinute2-4" />
- <ns1:frame id="زهرة2-5" ns1:transition-path-hide="true" ns1:transition-profile="linear" ns1:transition-zoom-percent="0.0" ns1:transition-duration-ms="2000.0" ns1:timeout-ms="13000.0" ns1:timeout-enable="false" ns1:show-in-frame-list="true" ns1:clip="true" ns1:hide="false" ns1:sequence="15" ns1:title="- 5 - متوسط الاحتياطي" ns1:refid="rViewMinute2-5" />
+ <ns1:frame id="زهرة2-5" ns1:transition-path-hide="true" ns1:transition-profile="linear" ns1:transition-zoom-percent="0.0" ns1:transition-duration-ms="2000.0" ns1:timeout-ms="13000.0" ns1:timeout-enable="false" ns1:show-in-frame-list="true" ns1:clip="true" ns1:hide="false" ns1:sequence="15" ns1:title="- 5 - متوسط ​​الاحتياطي" ns1:refid="rViewMinute2-5" />
  <ns1:frame id="زهرة2-6" ns1:transition-path-hide="true" ns1:transition-profile="linear" ns1:transition-zoom-percent="0.0" ns1:transition-duration-ms="2000.0" ns1:timeout-ms="10000.0" ns1:timeout-enable="false" ns1:show-in-frame-list="true" ns1:clip="true" ns1:hide="false" ns1:sequence="16" ns1:title="- 6 - طلب زيادة" ns1:refid="rViewMinute2-6" />
  <ns1:frame ns1:refid="FrameLargeMinute2" ns1:title="زهرة 2 - خلاصة" ns1:sequence="17" ns1:hide="false" ns1:clip="true" ns1:show-in-frame-list="true" ns1:timeout-enable="false" ns1:timeout-ms="3000.0" ns1:transition-duration-ms="2000.0" ns1:transition-zoom-percent="0.0" ns1:transition-profile="linear" ns1:transition-path-hide="true" id="زهرة2-Recap" />
  <ns1:frame ns1:refid="FrameMinute3" ns1:title="زهرة 3 - احتياطي القيمة - وسيط التبادل" ns1:sequence="18" ns1:hide="false" ns1:clip="true" ns1:show-in-frame-list="true" ns1:timeout-enable="false" ns1:timeout-ms="3000.0" ns1:transition-duration-ms="4000.0" ns1:transition-zoom-percent="0.0" ns1:transition-profile="linear" ns1:transition-path-hide="true" id="زهرة3-Intro" />
@@ -6436,7 +6434,7 @@ namespace(this, &quot;sozi.player&quot;, function (exports, window) {
  <ns1:frame ns1:refid="FrameMinute7" ns1:title="زهرة 7 - أرباح عالمية" ns1:sequence="50" ns1:hide="false" ns1:clip="true" ns1:show-in-frame-list="true" ns1:timeout-enable="false" ns1:timeout-ms="3000.0" ns1:transition-duration-ms="4000.0" ns1:transition-zoom-percent="0.0" ns1:transition-profile="linear" ns1:transition-path-hide="true" id="زهرة7-Intro" />
  <ns1:frame ns1:refid="rViewMinute7-1" ns1:title="- 1 - زيادة تدريجيا" ns1:sequence="51" ns1:hide="false" ns1:clip="true" ns1:show-in-frame-list="true" ns1:timeout-enable="false" ns1:timeout-ms="24000.0" ns1:transition-duration-ms="2000.0" ns1:transition-zoom-percent="0.0" ns1:transition-profile="linear" ns1:transition-path-hide="true" id="زهرة7-1" />
  <ns1:frame ns1:refid="rViewMinute7-2" ns1:title="- 2 - 10 يورو جديدة في الأسبوع للجميع" ns1:sequence="52" ns1:hide="false" ns1:clip="true" ns1:show-in-frame-list="true" ns1:timeout-enable="false" ns1:timeout-ms="8000.0" ns1:transition-duration-ms="2000.0" ns1:transition-zoom-percent="0.0" ns1:transition-profile="linear" ns1:transition-path-hide="true" id="زهرة7-2" />
- <ns1:frame ns1:refid="rViewMinute7-3" ns1:title="- 3 - مقارنة مع المتوسط الاحتياطي" ns1:sequence="53" ns1:hide="false" ns1:clip="true" ns1:show-in-frame-list="true" ns1:timeout-enable="false" ns1:timeout-ms="17000.0" ns1:transition-duration-ms="2000.0" ns1:transition-zoom-percent="0.0" ns1:transition-profile="linear" ns1:transition-path-hide="true" id="زهرة7-3" />
+ <ns1:frame ns1:refid="rViewMinute7-3" ns1:title="- 3 - مقارنة مع المتوسط ​​الاحتياطي" ns1:sequence="53" ns1:hide="false" ns1:clip="true" ns1:show-in-frame-list="true" ns1:timeout-enable="false" ns1:timeout-ms="17000.0" ns1:transition-duration-ms="2000.0" ns1:transition-zoom-percent="0.0" ns1:transition-profile="linear" ns1:transition-path-hide="true" id="زهرة7-3" />
  <ns1:frame ns1:refid="rViewMinute7-4" ns1:title="- 4 - حلويات موضوعة على كرة قابلة للنفخ" ns1:sequence="54" ns1:hide="false" ns1:clip="true" ns1:show-in-frame-list="true" ns1:timeout-enable="false" ns1:timeout-ms="27000.0" ns1:transition-duration-ms="2000.0" ns1:transition-zoom-percent="0.0" ns1:transition-profile="linear" ns1:transition-path-hide="true" id="زهرة7-4" />
  <ns1:frame ns1:refid="rViewMinute7-5" ns1:title="- 5 - حلويات مرسومة على كرة قابلة للنفخ" ns1:sequence="55" ns1:hide="false" ns1:clip="true" ns1:show-in-frame-list="true" ns1:timeout-enable="false" ns1:timeout-ms="26000.0" ns1:transition-duration-ms="2000.0" ns1:transition-zoom-percent="0.0" ns1:transition-profile="linear" ns1:transition-path-hide="true" id="زهرة7-5" />
  <ns1:frame ns1:refid="rViewMinute7-6" ns1:title="- 6 - DU: الأرباح العالمية" ns1:sequence="56" ns1:hide="false" ns1:clip="true" ns1:show-in-frame-list="true" ns1:timeout-enable="false" ns1:timeout-ms="14000.0" ns1:transition-duration-ms="2000.0" ns1:transition-zoom-percent="0.0" ns1:transition-profile="linear" ns1:transition-path-hide="true" id="زهرة7-6" />

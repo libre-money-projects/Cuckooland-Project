@@ -106,6 +106,10 @@ https://ar.wikipedia.org/wiki/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF_%D8%AD%D8%B1
   - traduction de "TRM" ?
   - traduction de "à destination des plus jeunes" ?
 
+# Numérotation des pétales
+
+Faut-il que les pétales soient ordonnés dans le sens anti-horaire ?
+
 # Questions par fleur
 
 # Fleur 2
