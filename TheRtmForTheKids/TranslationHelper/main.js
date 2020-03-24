@@ -16,6 +16,7 @@ const versions = {
 };
 
 const templates = [
+    'Sozi-RtmForTheKids-rtl-template.svg',
     'Sozi-RtmForTheKids-template.svg',
     'Cover_TheRtmForThekids-template.sla',
     'TheRtmForTheKids-template.sla'
