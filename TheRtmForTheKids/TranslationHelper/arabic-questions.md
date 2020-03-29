@@ -72,8 +72,6 @@ https://en.wikipedia.org/wiki/Percent_sign#Form_and_spacing
 
 - Il est parfois utilisé "%", parfois "٪" (https://www.compart.com/en/unicode/U+066A). L'un est plus valide que l'autre ?
 
-- Faut-il écrire : 10 DU ? DU 10 ? Pas sûr que ce soit toujours écrit pareil.
-
 ## Titre 
 
 Pas sûr que le mot "relative" (qui peut être remplacé par "relativiste") soit présent dans la traduction.
