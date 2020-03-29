@@ -1135,10 +1135,10 @@
     <g id="gRunnerInWheel" transform="matrix(0.15,0,0,0.15,3013.0174,-1309.9364)">
      <g id="g4381">
       <g class="RunnerRedText" id="gRedWheelText">
-       <text id="CurvedTextRunnerRed" xml:space="preserve"><textPath id="textPath4375" startOffset="100%" xlink:href="#path6501"><tspan id="tspan4358">{{gRedWheelText}}</tspan></textPath></text>
+       <text id="CurvedTextRunnerRed" xml:space="preserve"><textPath id="textPath4375" startOffset="97%" xlink:href="#path6501"><tspan id="tspan4358">{{gRedWheelText}}</tspan></textPath></text>
       </g>
       <g class="RunnerBlueText" id="gBlueWheelText">
-       <text id="CurvedTextRunnerBlue" xml:space="preserve"><textPath id="textPath4378" xlink:href="#path6501">{{gBlueWheelText}}</textPath></text>
+       <text id="CurvedTextRunnerBlue" xml:space="preserve"><textPath id="textPath4378" startOffset="3%" xlink:href="#path6501">{{gBlueWheelText}}</textPath></text>
       </g>
       <g transform="matrix(-1,0,0,1,667.3278,1.1963584)" id="gWheelArrow">
        <path style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 318.58009,225.76858 c 9.14475,-0.85199 18.28949,-0.97523 27.43424,0" id="path4458" />
@@ -1272,7 +1272,7 @@
        <text xml:space="preserve" x="3649.5364" y="-74.954361" id="text6216"><tspan id="tspan6218" x="3649.5364" y="-74.954361">{{MeanC}}</tspan></text>
        <text id="text6220" y="-74.954361" x="3631.5361" xml:space="preserve"><tspan y="-74.954361" x="3631.5361" id="tspan6222">{{format(11.25, loc)}}/20</tspan></text>
        <text id="text10444" y="-65.127617" x="3649.5364" xml:space="preserve"><tspan y="-65.127617" x="3649.5364" id="tspan10446">{{split(More10)[0]}}</tspan></text>
-       <text xml:space="preserve" x="3649.5364" y="-59.882431" id="text10448"><tspan id="tspan10450" x="3649.5364" y="-59.882431" />{{split(More10)[1]}}</text>
+       <text xml:space="preserve" x="3649.5364" y="-59.882431" id="text10448"><tspan id="tspan10450" x="3649.5364" y="-59.882431">{{split(More10)[1]}}</tspan></text>
       </g>
      </g>
     </g>
@@ -2323,7 +2323,6 @@
      <path style="fill:none;stroke:#000000;stroke-width:1.14440322;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" d="m 2974.6813,-1405.0699 40.8612,-0.1558" id="path5101-1" />
      <path id="path5103-8" d="m 2942.1805,-1390.6799 c -8.3221,0 -16.6441,0 -24.9662,0" style="fill:none;stroke:#000000;stroke-width:1.14440322;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
      <path style="fill:none;stroke:#000000;stroke-width:1.14440322;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" d="m 2961.3552,-1362.056 -25.0346,0" id="path5105-9" />
-     <text transform="translate(-179.49117,-1579.686)" id="text5199-2" y="177.94753" x="3140.4849" class="fontForBubble" xml:space="preserve"><tspan y="177.94753" x="3140.4849" id="tspan5201-7" /></text>
      <path id="text5207-9" d="m 2927.7446,-1405.2946 c 1.1637,0.288 0.4496,-1.3019 0.6446,-1.9827 -0.6977,-0.1056 -0.9751,-0.582 0.2793,-0.6012 0.2595,0.6273 0.037,1.7364 0.1113,2.5492 1.4094,0.1059 -0.012,0.5706 -0.7717,0.3668 -0.3349,0.072 -0.2679,-0.076 -0.2635,-0.3321 z" />
      <path id="text5211-4" d="m 2926.0452,-1394.0186 c -0.5349,1.3709 0.8733,0.7986 1.0879,1.42 -1.367,-0.5323 -0.8032,0.8661 -1.4161,1.0879 0.5349,-1.3709 -0.8733,-0.7986 -1.0878,-1.42 1.7774,0.4493 0.5401,-0.8006 1.416,-1.0879 z m 2.0078,2.1758 c 1.1637,0.288 0.4495,-1.302 0.6445,-1.9827 -0.6977,-0.1056 -0.975,-0.5821 0.2793,-0.6013 0.2595,0.6274 0.037,1.7365 0.1113,2.5493 1.4094,0.1059 -0.012,0.5706 -0.7717,0.3668 -0.3348,0.072 -0.2678,-0.076 -0.2634,-0.3321 z" />
      <path id="text5215-12" d="m 2946.5414,-1377.4 c 1.1637,0.2879 0.4496,-1.302 0.6446,-1.9827 -0.6977,-0.1056 -0.9751,-0.5821 0.2793,-0.6013 0.2595,0.6273 0.037,1.7364 0.1113,2.5492 1.4094,0.106 -0.012,0.5706 -0.7717,0.3668 -0.3349,0.073 -0.2679,-0.076 -0.2635,-0.332 z" />
