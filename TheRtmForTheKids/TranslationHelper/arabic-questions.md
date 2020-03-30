@@ -104,9 +104,15 @@ https://ar.wikipedia.org/wiki/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF_%D8%AD%D8%B1
   - traduction de "TRM" ?
   - traduction de "à destination des plus jeunes" ?
 
-# Numérotation des pétales
+# Numérotation des fleurs et des pétales
 
-Faut-il que les pétales soient ordonnés dans le sens anti-horaire ?
+Faut-il que les fleurs et les pétales soient ordonnés dans le sens anti-horaire ?
+
+https://www.menabytes.com/mirroring-design-arabic-users/
+
+ > When you display the time on a clock it will still turn clockwise for RTL languages. A clock icon, a circular refresh or progress indicator with an arrow pointing clockwise should not be mirrored.
+
+Même question pour le shéma du Pétale 2, fleur 3 : faut-il changer le sens des grosses flèches jaunes ?
 
 # Questions par fleur
 
@@ -121,8 +127,6 @@ Faut-il que les pétales soient ordonnés dans le sens anti-horaire ?
 - Titre : pour le vocabulaire, Wikipédia peut peut-être aidé ?  
 https://ar.wikipedia.org/wiki/%D9%85%D8%A7%D9%84  
 https://ar.wikipedia.org/wiki/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF_%D8%AD%D8%B1
-
-- Pétale 2 : faut-il changer le sens des grosses flèches jaunes ?
 
 # Fleur 4
 
@@ -147,6 +151,12 @@ https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AF%D8%AE%D9%84_%D8%A7%D9%84%D8%A3%
 # Fleur 8
 
 - Pétale 4 : il semble qu'il manque un "7 ans" (il n'apparait qu'une fois alors qu'il devrait appararaitre deux fois)
+
+Pétales 1, 4, 5, 6 : faut-il refaire les shémas en miroir ?
+
+# Fleur 9
+
+Pétale 6 : faut-il refaire le shéma en miroir ?
 
 # Fleur 10
 
