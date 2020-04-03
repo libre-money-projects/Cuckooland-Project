@@ -12,7 +12,7 @@ Quelques infos qui m'ont orienté dans mon choix pour la version française :
 
 - "PoetsenOne" est utilisée pour le titre principale et les titres des fleurs ; je voulais quelque chose d'épais et rond, doux, féminin ;
 
-- "komika" est utilisée pour le contenu des bulles, sur la roue du coureur, et dans pas mal d'illustrations ; je voulais quelque chose qui soit familier pour les jeunes, un côté SMS, messagerie instantané...
+- "komika" est utilisée pour le contenu des bulles, sur la roue du coureur, et dans pas mal d'illustrations ; je voulais quelque chose qui soit familier pour les jeunes, un côté SMS, messagerie instantané, bande déssinée...
 
 - "komika_text_tightitalic" est utilisée pour signer les bulles ; le simple fait que ce soit en italique me semblait adapté pour une signature...
 
@@ -51,7 +51,7 @@ https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AF%D8%AE%D9%84_%D8%A7%D9%84%D8%A3%
 
 ## Acronyme "TRM"
 
-Que faire de cet acronyme (qui est utiliser dans le titre "La TRM pour les enfants" et que l'on voit dans la présentation Sozi en enfonçant la touche "T") ? L'utiliser et l'expliciter le moment venu (par exemple, au niveau du pétale 2 de la fleur 12) ?
+Que faire de cet acronyme (qui est utiliser dans le titre "La TRM pour les enfants" ; que l'on retrouve fleur 4, pétalé 5 ; et que l'on voit dans la présentation Sozi en enfonçant la touche "T") ? L'utiliser et l'expliciter le moment venu (par exemple, au niveau du pétale 2 de la fleur 12) ?
 
 ## Ponctuation
 
@@ -64,23 +64,24 @@ https://ar.wikipedia.org/wiki/%D8%AA%D8%B1%D9%82%D9%8A%D9%85
 
 Le mot semble traduisible en arabe. C'est bien ça ?
 
-## Pourcentage et unités
+## Pourcentage
 
 https://en.wikipedia.org/wiki/Percent_sign#Form_and_spacing
 
 > In Arabic, the percent sign follows the number; as Arabic is written from right to left, this means that the percent sign is to the left of the number, usually without a space.
 
-- Il est parfois utilisé "%", parfois "٪" (https://www.compart.com/en/unicode/U+066A). L'un est plus valide que l'autre ?
+Il est parfois utilisé "%", parfois "٪" (https://www.compart.com/en/unicode/U+066A). L'un est plus valide que l'autre ?
 
 ## Titre 
 
 Pas sûr que le mot "relative" (qui peut être remplacé par "relativiste") soit présent dans la traduction.
 
+https://ar.wikipedia.org/wiki/%D9%86%D8%B3%D8%A8%D9%88%D9%8A%D8%A9
+
 ## Textes additionnels pour la version "livre"
 
 Pas sûr de la traduction de tout le début du fichier `ar-version.json`.
 
-Pour le vocabulaire, Wikipédia peut peut-être aidé ?  
 https://ar.wikipedia.org/wiki/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF_%D8%AD%D8%B1
 
 - `BackCover_Description`,
@@ -115,6 +116,12 @@ https://www.menabytes.com/mirroring-design-arabic-users/
 Même question pour le shéma du Pétale 2, fleur 3 : faut-il changer le sens des grosses flèches jaunes ?
 
 # Questions par fleur
+
+# Fleur 1
+
+- Pétale 1 : Pour info, la chanson a laquelle il est fait référence est une chanson de Johnny Clegg.
+
+https://www.lemonde.fr/culture/article/2020/03/14/avec-johnny-clegg-tete-et-frank-zappa-le-vote-en-chansons_6033118_3246.html
 
 # Fleur 2
 
@@ -152,7 +159,7 @@ https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AF%D8%AE%D9%84_%D8%A7%D9%84%D8%A3%
 
 - Pétale 4 : il semble qu'il manque un "7 ans" (il n'apparait qu'une fois alors qu'il devrait appararaitre deux fois)
 
-Pétales 1, 4, 5, 6 : faut-il refaire les shémas en miroir ?
+- Pétales 1, 4, 5, 6 : faut-il refaire les shémas en miroir ?
 
 # Fleur 9
 
