@@ -5,8 +5,7 @@ const fs = require('fs');
 
 nunjucks.configure({ autoescape: true })
     .addGlobal('split', split)
-    .addGlobal('format', format)
-    .addGlobal('direction', direction);
+    .addGlobal('format', format);
 
 const versions = {
     en_version: require("./en-version.json"),
@@ -48,11 +47,4 @@ function format(value, loc) {
         return value.toString(10).replace(".", ",");
     }
     return value;
-}
-
-function direction(loc) {
-    if (loc === "ar") {
-        return "direction:rtl;";
-    }
-    return "";
 }
