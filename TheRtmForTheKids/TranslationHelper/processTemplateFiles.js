@@ -1,6 +1,7 @@
 const nunjucks = require('nunjucks');
 const fs = require('fs');
-const util = require('util');
+//const util = require('util');
+//const writeFile = util.promisify(fs.writeFile);
 
 nunjucks.configure({ autoescape: true })
     .addGlobal('split', split)
@@ -33,6 +34,8 @@ for (let [key, context] of Object.entries(versions)) {
         });
     }
 }
+
+//writeFile("./ar-version.txt", Object.values(versions.ar_version).join("\n"));
 
 function split(message) {
     const arrayOfStrings = message.split('|');
