@@ -1865,8 +1865,8 @@
       <path style="fill:#000000;fill-rule:evenodd;stroke:none" d="m 5.884942,352.95562 c 0.5485117,9.03644 3.6540452,17.6215 5.362931,26.45442 -3.2380523,-7.92735 -7.5630765,-15.58012 -8.8824158,-24.14586 -1.0928431,-6.88446 1.0688084,-14.30451 6.1127328,-19.20497 2.313671,-2.34993 5.062259,-4.2394 7.982113,-5.75575 -5.008847,4.02578 -9.4258052,9.42108 -10.3426386,15.9715 -0.3487275,2.20753 -0.3663772,4.45404 -0.2327224,6.68066 z" id="path4556" />
       <path style="fill:#000000;fill-rule:evenodd;stroke:none" d="m 104.6651,356.83908 c -0.311,9.82348 -5.215787,19.12227 -12.213034,25.86302 5.390033,-7.60255 8.462124,-16.8388 8.481254,-26.1734 0.31778,-9.29125 -1.627787,-18.49177 -4.366188,-27.3226 4.524288,8.4989 8.202238,17.863 8.097968,27.63298 z" id="path4566" />
      </g>
-     <text xml:space="preserve" id="CurvedText-MyMoney" class="MyMoneyText"><textPath xlink:href="#path4453-1" startOffset="50%" id="textPath4455"><tspan id="tspan3996">Mi moneda… la mía.</tspan></textPath></text>
-     <text id="CurvedText-MustBeUsed" class="MyMoneyText" xml:space="preserve"><textPath xlink:href="#path3222-7" startOffset="50%" id="textPath4449"><tspan id="tspan4000">Mas te vale que la uses.</tspan></textPath></text>
+     <text xml:space="preserve" id="CurvedText-MyMoney" class="MyMoneyText"><textPath xlink:href="#path4453-1" startOffset="50%" id="textPath4455"><tspan id="tspan3996">Mi moneda… la mía</tspan></textPath></text>
+     <text id="CurvedText-MustBeUsed" class="MyMoneyText" xml:space="preserve"><textPath xlink:href="#path3222-7" startOffset="50%" id="textPath4449"><tspan id="tspan4000">Mas te vale que la uses</tspan></textPath></text>
     </g>
    </g>
    <g id="gMinute6-3" transform="translate(-126.40345,111.51299)">
