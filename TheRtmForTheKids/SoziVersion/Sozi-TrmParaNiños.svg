@@ -411,6 +411,7 @@
  </metadata>
  <g id="layer1" transform="translate(0,1927.5592)">
   <rect style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#a40d39;stroke-width:0.40000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" id="rectBG" width="4197.9912" height="2964.3845" x="13.681006" y="-1917.4729" />
+  <rect id="rectScribusBG" width="2907.062" height="2907.062" x="642.34399" y="24" transform="translate(0,-1927.5592)" style="display:none" />
   <g id="gToHide">
    <g id="gMainBubbles" transform="translate(-2392.6374,43.502498)">
     <g class="ElsieSignature" id="gElsieAvatar">
