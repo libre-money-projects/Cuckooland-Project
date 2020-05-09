@@ -11,12 +11,10 @@ const versions = {
     en_version: require("./en-version.json"),
     fr_version: require("./fr-version.json"),
     cat_version: require("./cat-version.json"),
-    ar_version: require("./ar-version.json"),
     es_version: require("./es-version.json")
 };
 
 const templates = [
-    'Sozi-RtmForTheKids-rtl-template.svg',
     'Sozi-RtmForTheKids-template.svg',
     'Cover_TheRtmForThekids-template.sla',
     'TheRtmForTheKids-template.sla'
@@ -24,6 +22,28 @@ const templates = [
 
 for (let [key, context] of Object.entries(versions)) {
     for (const template of templates) {
+        const dest = template.replace('template', key);
+        fs.writeFile(dest, nunjucks.render(template, context), function(err) {
+            if (err) {
+                return console.log(err);
+            }
+            console.log(`'${dest}' saved!`);
+        });
+    }
+}
+
+const rtl_versions = {
+    ar_version: require("./ar-version.json")
+};
+
+const rtl_templates = [
+    'Sozi-RtmForTheKids-rtl-template.svg',
+    'Cover_TheRtmForThekids-rtl-template.sla',
+    'TheRtmForTheKids-rtl-template.sla'
+];
+
+for (let [key, context] of Object.entries(rtl_versions)) {
+    for (const template of rtl_templates) {
         const dest = template.replace('template', key);
         fs.writeFile(dest, nunjucks.render(template, context), function(err) {
             if (err) {

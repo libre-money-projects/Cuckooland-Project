@@ -47,19 +47,19 @@
         <COLOR NAME="TheFairyFG" SPACE="RGB" R="222" G="58" B="88"/>
         <COLOR NAME="White" SPACE="CMYK" C="0" M="0" Y="0" K="0"/>
         <HYPHEN/>
-        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2"/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="2" DIRECTION="1" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2"/>
         <STYLE NAME="CenteredStyle"/>
         <STYLE NAME="RightStyle"/>
-        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Liberation Serif Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="fr"/>
-        <CHARSTYLE CNAME="OverviewSubTitle" FONT="PoetsenOne Regular" FONTSIZE="14"/>
-        <CHARSTYLE CNAME="SpineTitle" FONT="PoetsenOne Regular" FEATURES="shadowed" FCOLOR="FrontCoverTitle" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" LANGUAGE="fr"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Droid Arabic Naskh Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="fr"/>
+        <CHARSTYLE CNAME="OverviewSubTitle" FONT="Droid Arabic Naskh Regular" FONTSIZE="14"/>
+        <CHARSTYLE CNAME="SpineTitle" FONT="Droid Arabic Naskh Regular" FEATURES="shadowed" FCOLOR="FrontCoverTitle" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" LANGUAGE="fr"/>
         <CHARSTYLE CNAME="SpineAuthor" FONT="PoetsenOne Regular" LANGUAGE="fr"/>
-        <CHARSTYLE CNAME="FrontCoverTitle" FONT="PoetsenOne Regular" FONTSIZE="36" FEATURES="shadowed" FCOLOR="FrontCoverTitle" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" LANGUAGE="fr"/>
+        <CHARSTYLE CNAME="FrontCoverTitle" FONT="Droid Arabic Naskh Regular" FONTSIZE="36" FEATURES="shadowed" FCOLOR="FrontCoverTitle" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" LANGUAGE="fr"/>
         <CHARSTYLE CNAME="FrontCoverAuthor" FONT="PoetsenOne Regular" FONTSIZE="30" LANGUAGE="fr"/>
-        <CHARSTYLE CNAME="AgeStyle" FONT="Liberation Serif Italic" FONTSIZE="12" FCOLOR="White" LANGUAGE="fr"/>
+        <CHARSTYLE CNAME="AgeStyle" FONT="Droid Arabic Naskh Regular" FONTSIZE="12" FCOLOR="White" LANGUAGE="fr"/>
         <CHARSTYLE CNAME="WebAddressStyle" FONT="Liberation Serif Regular" FONTSIZE="9" LANGUAGE="fr"/>
         <CHARSTYLE CNAME="BackIsbnStyle" FONT="Liberation Serif Regular" FONTSIZE="8" LANGUAGE="fr"/>
-        <CHARSTYLE CNAME="BackCoverDescription" FONT="Liberation Serif Regular" FONTSIZE="13" FCOLOR="BackCoverDescription" LANGUAGE="fr"/>
+        <CHARSTYLE CNAME="BackCoverDescription" FONT="Droid Arabic Naskh Regular" FONTSIZE="13" FCOLOR="BackCoverDescription" LANGUAGE="fr"/>
         <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
             <TableBorderLeft>
                 <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
