@@ -6,6 +6,6 @@ Un présupposé est que de nombreux acheteurs sont potentiellement intéressés.
 Jusqu'à présent, deux méthodes ont été utilisées pour déterminer l'acheteur :
 
 - les enchères pour les premiers mois (exemple de procédure [ici](Procédures/2021-04-Enchères.md)) ; 
-- le tirage au sort pour d'autres mois (exemple de procédure [ici](Procédures/2021-08-TirageAuSort.md)).
+- le tirage au sort pour d'autres mois (exemple de procédure [ici](Procédures/2021-09-TirageAuSort.md)).
 
 A ce jour, toutes les ventes ont été réalisées grâce au site d'annonces en Ğ1 [ĞChange](https://www.gchange.fr/#/app/home).
