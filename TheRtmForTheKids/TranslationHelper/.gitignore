@@ -1,11 +1,13 @@
 node_modules
 
+*-eo_version.sla
 *-ar_version.sla
 *-cat_version.sla
 *-en_version.sla
 *-es_version.sla
 *-fr_version.sla
 
+*-eo_version.svg
 *-ar_version.svg
 *-cat_version.svg
 *-en_version.svg

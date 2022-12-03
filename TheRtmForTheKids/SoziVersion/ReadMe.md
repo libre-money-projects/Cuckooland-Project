@@ -20,15 +20,16 @@ To have a playable Sozi version, we have to modify the working svg file because:
 1. with Inkscape:
 
     1. open the working svg file and _Save as..._ "playableVersion.svg";
-    2. find (`Ctrl+F`) the group with `ID` set to _ToHide_;
+    2. find (`Ctrl+F` with "Exact match" checked) the groups with `ID` set to _gMainNumForSecond_, _gElsieAvatar_ and _gFeeAvatar_;
     3. convert to a _Path_ (`Ctrl+Shft+C`);
-    4. hide (`Ctrl+Shft+O`, then `Alt+H`);
-    5. find (`Ctrl+F`) objects with `ID` set to _CurvedText_ (in current version, 26 objects should be found);
-    6. convert to a _Path_ (`Ctrl+Shft+C`);
-    7. find (`Ctrl+F`) objects with `ID` set to _Flow_ (search all objects starting by "Flow"; in current version, 224 objects should be found);
-    8. convert to a _Text_ (212 _Flowed Texts_ should be actually converted);
-    9. execute _Vaccum Defs_ (this action is accessible in the _File_ menu);
-    10. save.
+    4. find (`Ctrl+F`) the group with `ID` set to _gToHide_;
+    5. hide (`Ctrl+Shft+O`, then `Alt+H`);
+    6. find (`Ctrl+F`) objects with `ID` set to _CurvedText_ (in current version, 26 objects should be found);
+    7. convert to a _Path_ (`Ctrl+Shft+C`);
+    8. find (`Ctrl+F`) objects with `ID` set to _Flow_ (search all objects starting by "Flow"; in current version, 224 objects should be found);
+    9. convert to a _Text_ (212 _Flowed Texts_ should be actually converted);
+    10. execute _Vaccum Defs_ (this action is accessible in the _File_ menu);
+    11. save.
 
 2. with a text editor:
 
