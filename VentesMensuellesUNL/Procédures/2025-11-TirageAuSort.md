@@ -1,6 +1,6 @@
 ## Chronologie 
 
-Inscription ouverte pendant les 11 premiers jours de novembre 2025.
+Inscription ouverte pendant les 11 premiers jours de novembre 2025 et réservé uniquement aux co-producteurs de la Ğ1.
 
 Clôture des participations le mercredi 12 novembre 2025 à 00h00, heure de Paris (ou le mardi 11 à ~23h59)
 
@@ -8,9 +8,9 @@ Si 7 jours après le dépouillement, le montant demandé ne m'a pas été crédi
 
 ## Validation de l'inscription
 
-Pour participer, il faut faire un virement d'une Ğ1 (je la restituerai ensuite) sur mon compte : `9BSbTC2dmvzdJKMocN86zEUN3gq4c96oDxV4TqGrLRgB:C1D`
+Pour participer, il faut faire un virement d'une Ğ1 (je la restituerai ensuite) depuis son compte co-producteur vers mon compte : `9BSbTC2dmvzdJKMocN86zEUN3gq4c96oDxV4TqGrLRgB:C1D`
 
-La participation ne sera validée que si la clé publique fournie est, d'ici le jour du dépouillement, provisionnée du montant demandé (90 DU de Ğ1).
+La participation ne sera validée que si le compte est, d'ici le jour du dépouillement, provisionnée du montant demandé (90 DU de Ğ1).
 
 Eventuellement, chaque participant-e peut indiquer (en commentaire de la transaction) un "+1" pour signifier qu'il veut ajouter un incrément au tirage (usage détaillé plus bas).
 
