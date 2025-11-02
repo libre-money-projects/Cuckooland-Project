@@ -1,6 +1,6 @@
 ## Chronologie 
 
-Inscription ouverte pendant les 11 premiers jours de novembre 2025 et réservé uniquement aux co-producteurs de la Ğ1.
+Inscription ouverte pendant les 11 premiers jours de novembre 2025 et réservée **uniquement** aux co-producteurs de la Ğ1.
 
 Clôture des participations le mercredi 12 novembre 2025 à 00h00, heure de Paris (ou le mardi 11 à ~23h59)
 
