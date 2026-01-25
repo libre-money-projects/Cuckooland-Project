@@ -4,7 +4,7 @@ Instructions :
 
 - la personne qui fait la meilleure offre est désignée gagnante, et paie le prix de la seconde meilleure offre (ou le prix de son offre s'il n'y a qu'un·e seul·e participant·e).
 
-Enchères ouvertes jusqu'au dimanche 8 février 2025 à 00h00, heure de Paris (le 07 à ~23h59), à transmettre par e-mail ou messagerie Cesium.
+Enchères ouvertes jusqu'au dimanche 8 février 2026 à 00h00, heure de Paris (le 07 à ~23h59), à transmettre par e-mail ou messagerie Cesium.
 
 Pour que son offre soit retenue, chaque participant·e devra :
 
